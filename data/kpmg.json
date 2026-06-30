@@ -1,0 +1,23 @@
+[
+  {
+    "id": "283",
+    "title": "Move Zeroes",
+    "acceptance": "63.8%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/move-zeroes"
+  },
+  {
+    "id": "3",
+    "title": "Longest Substring Without Repeating Characters",
+    "acceptance": "39.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+  },
+  {
+    "id": "560",
+    "title": "Subarray Sum Equals K",
+    "acceptance": "47.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/subarray-sum-equals-k"
+  }
+]

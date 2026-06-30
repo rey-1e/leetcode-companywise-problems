@@ -1,0 +1,135 @@
+[
+  {
+    "id": "6",
+    "title": "Zigzag Conversion",
+    "acceptance": "54.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/zigzag-conversion"
+  },
+  {
+    "id": "2074",
+    "title": "Reverse Nodes in Even Length Groups",
+    "acceptance": "64.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/reverse-nodes-in-even-length-groups"
+  },
+  {
+    "id": "42",
+    "title": "Trapping Rain Water",
+    "acceptance": "67.4%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/trapping-rain-water"
+  },
+  {
+    "id": "49",
+    "title": "Group Anagrams",
+    "acceptance": "72.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/group-anagrams"
+  },
+  {
+    "id": "76",
+    "title": "Minimum Window Substring",
+    "acceptance": "47.5%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/minimum-window-substring"
+  },
+  {
+    "id": "592",
+    "title": "Fraction Addition and Subtraction",
+    "acceptance": "66.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/fraction-addition-and-subtraction"
+  },
+  {
+    "id": "15",
+    "title": "3Sum",
+    "acceptance": "39.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/3sum"
+  },
+  {
+    "id": "11",
+    "title": "Container With Most Water",
+    "acceptance": "60.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/container-with-most-water"
+  },
+  {
+    "id": "402",
+    "title": "Remove K Digits",
+    "acceptance": "36.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/remove-k-digits"
+  },
+  {
+    "id": "299",
+    "title": "Bulls and Cows",
+    "acceptance": "52.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/bulls-and-cows"
+  },
+  {
+    "id": "17",
+    "title": "Letter Combinations of a Phone Number",
+    "acceptance": "66.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number"
+  },
+  {
+    "id": "151",
+    "title": "Reverse Words in a String",
+    "acceptance": "56.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/reverse-words-in-a-string"
+  },
+  {
+    "id": "25",
+    "title": "Reverse Nodes in k-Group",
+    "acceptance": "66.1%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/reverse-nodes-in-k-group"
+  },
+  {
+    "id": "5",
+    "title": "Longest Palindromic Substring",
+    "acceptance": "37.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring"
+  },
+  {
+    "id": "3602",
+    "title": "Hexadecimal and Hexatrigesimal Conversion",
+    "acceptance": "80.9%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/hexadecimal-and-hexatrigesimal-conversion"
+  },
+  {
+    "id": "242",
+    "title": "Valid Anagram",
+    "acceptance": "68.1%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/valid-anagram"
+  },
+  {
+    "id": "991",
+    "title": "Broken Calculator",
+    "acceptance": "56.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/broken-calculator"
+  },
+  {
+    "id": "394",
+    "title": "Decode String",
+    "acceptance": "62.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/decode-string"
+  },
+  {
+    "id": "14",
+    "title": "Longest Common Prefix",
+    "acceptance": "47.6%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/longest-common-prefix"
+  }
+]

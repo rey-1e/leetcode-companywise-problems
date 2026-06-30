@@ -1,0 +1,58 @@
+[
+  {
+    "id": "460",
+    "title": "LFU Cache",
+    "acceptance": "49.2%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/lfu-cache"
+  },
+  {
+    "id": "780",
+    "title": "Reaching Points",
+    "acceptance": "34.4%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/reaching-points"
+  },
+  {
+    "id": "1",
+    "title": "Two Sum",
+    "acceptance": "57.5%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/two-sum"
+  },
+  {
+    "id": "146",
+    "title": "LRU Cache",
+    "acceptance": "47.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/lru-cache"
+  },
+  {
+    "id": "295",
+    "title": "Find Median from Data Stream",
+    "acceptance": "54.5%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream"
+  },
+  {
+    "id": "3584",
+    "title": "Maximum Product of First and Last Elements of a Subsequence",
+    "acceptance": "31.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-product-of-first-and-last-elements-of-a-subsequence"
+  },
+  {
+    "id": "2106",
+    "title": "Maximum Fruits Harvested After at Most K Steps",
+    "acceptance": "61.0%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps"
+  },
+  {
+    "id": "554",
+    "title": "Brick Wall",
+    "acceptance": "56.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/brick-wall"
+  }
+]

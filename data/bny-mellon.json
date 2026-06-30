@@ -1,0 +1,107 @@
+[
+  {
+    "id": "1465",
+    "title": "Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts",
+    "acceptance": "41.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts"
+  },
+  {
+    "id": "49",
+    "title": "Group Anagrams",
+    "acceptance": "72.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/group-anagrams"
+  },
+  {
+    "id": "2876",
+    "title": "Count Visited Nodes in a Directed Graph",
+    "acceptance": "30.8%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/count-visited-nodes-in-a-directed-graph"
+  },
+  {
+    "id": "2615",
+    "title": "Sum of Distances",
+    "acceptance": "50.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/sum-of-distances"
+  },
+  {
+    "id": "3012",
+    "title": "Minimize Length of Array Using Operations",
+    "acceptance": "35.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimize-length-of-array-using-operations"
+  },
+  {
+    "id": "3251",
+    "title": "Find the Count of Monotonic Pairs II",
+    "acceptance": "24.7%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/find-the-count-of-monotonic-pairs-ii"
+  },
+  {
+    "id": "15",
+    "title": "3Sum",
+    "acceptance": "39.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/3sum"
+  },
+  {
+    "id": "853",
+    "title": "Car Fleet",
+    "acceptance": "55.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/car-fleet"
+  },
+  {
+    "id": "2044",
+    "title": "Count Number of Maximum Bitwise-OR Subsets",
+    "acceptance": "89.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets"
+  },
+  {
+    "id": "924",
+    "title": "Minimize Malware Spread",
+    "acceptance": "43.2%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/minimize-malware-spread"
+  },
+  {
+    "id": "898",
+    "title": "Bitwise ORs of Subarrays",
+    "acceptance": "56.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/bitwise-ors-of-subarrays"
+  },
+  {
+    "id": "88",
+    "title": "Merge Sorted Array",
+    "acceptance": "54.9%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/merge-sorted-array"
+  },
+  {
+    "id": "121",
+    "title": "Best Time to Buy and Sell Stock",
+    "acceptance": "56.8%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+  },
+  {
+    "id": "215",
+    "title": "Kth Largest Element in an Array",
+    "acceptance": "68.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array"
+  },
+  {
+    "id": "647",
+    "title": "Palindromic Substrings",
+    "acceptance": "72.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/palindromic-substrings"
+  }
+]

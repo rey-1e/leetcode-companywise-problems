@@ -1,0 +1,30 @@
+[
+  {
+    "id": "21",
+    "title": "Merge Two Sorted Lists",
+    "acceptance": "68.3%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists"
+  },
+  {
+    "id": "39",
+    "title": "Combination Sum",
+    "acceptance": "76.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/combination-sum"
+  },
+  {
+    "id": "70",
+    "title": "Climbing Stairs",
+    "acceptance": "54.1%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/climbing-stairs"
+  },
+  {
+    "id": "5",
+    "title": "Longest Palindromic Substring",
+    "acceptance": "37.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring"
+  }
+]

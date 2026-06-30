@@ -1,0 +1,16 @@
+[
+  {
+    "id": "206",
+    "title": "Reverse Linked List",
+    "acceptance": "80.6%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/reverse-linked-list"
+  },
+  {
+    "id": "9",
+    "title": "Palindrome Number",
+    "acceptance": "60.6%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/palindrome-number"
+  }
+]

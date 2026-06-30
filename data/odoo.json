@@ -1,0 +1,16 @@
+[
+  {
+    "id": "20",
+    "title": "Valid Parentheses",
+    "acceptance": "44.2%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/valid-parentheses"
+  },
+  {
+    "id": "155",
+    "title": "Min Stack",
+    "acceptance": "58.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/min-stack"
+  }
+]

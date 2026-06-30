@@ -1,0 +1,16 @@
+[
+  {
+    "id": "2607",
+    "title": "Make K-Subarray Sums Equal",
+    "acceptance": "38.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/make-k-subarray-sums-equal"
+  },
+  {
+    "id": "588",
+    "title": "Design In-Memory File System",
+    "acceptance": "48.4%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/design-in-memory-file-system"
+  }
+]

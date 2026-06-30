@@ -1,0 +1,58 @@
+[
+  {
+    "id": "5",
+    "title": "Longest Palindromic Substring",
+    "acceptance": "37.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring"
+  },
+  {
+    "id": "1206",
+    "title": "Design Skiplist",
+    "acceptance": "59.7%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/design-skiplist"
+  },
+  {
+    "id": "593",
+    "title": "Valid Square",
+    "acceptance": "45.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/valid-square"
+  },
+  {
+    "id": "1668",
+    "title": "Maximum Repeating Substring",
+    "acceptance": "41.7%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/maximum-repeating-substring"
+  },
+  {
+    "id": "647",
+    "title": "Palindromic Substrings",
+    "acceptance": "72.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/palindromic-substrings"
+  },
+  {
+    "id": "380",
+    "title": "Insert Delete GetRandom O(1)",
+    "acceptance": "55.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1"
+  },
+  {
+    "id": "704",
+    "title": "Binary Search",
+    "acceptance": "60.9%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/binary-search"
+  },
+  {
+    "id": "2013",
+    "title": "Detect Squares",
+    "acceptance": "52.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/detect-squares"
+  }
+]

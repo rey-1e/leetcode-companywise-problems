@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1696",
+    "title": "Jump Game VI",
+    "acceptance": "46.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/jump-game-vi"
+  },
+  {
+    "id": "268",
+    "title": "Missing Number",
+    "acceptance": "72.0%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/missing-number"
+  },
+  {
+    "id": "121",
+    "title": "Best Time to Buy and Sell Stock",
+    "acceptance": "56.8%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+  },
+  {
+    "id": "309",
+    "title": "Best Time to Buy and Sell Stock with Cooldown",
+    "acceptance": "62.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown"
+  },
+  {
+    "id": "2",
+    "title": "Add Two Numbers",
+    "acceptance": "48.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/add-two-numbers"
+  }
+]

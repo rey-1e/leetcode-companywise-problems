@@ -1,0 +1,394 @@
+[
+  {
+    "id": "2",
+    "title": "Add Two Numbers",
+    "acceptance": "48.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/add-two-numbers"
+  },
+  {
+    "id": "4",
+    "title": "Median of Two Sorted Arrays",
+    "acceptance": "46.6%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays"
+  },
+  {
+    "id": "5",
+    "title": "Longest Palindromic Substring",
+    "acceptance": "37.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring"
+  },
+  {
+    "id": "11",
+    "title": "Container With Most Water",
+    "acceptance": "60.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/container-with-most-water"
+  },
+  {
+    "id": "12",
+    "title": "Integer to Roman",
+    "acceptance": "71.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/integer-to-roman"
+  },
+  {
+    "id": "269",
+    "title": "Alien Dictionary",
+    "acceptance": "37.2%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/alien-dictionary"
+  },
+  {
+    "id": "15",
+    "title": "3Sum",
+    "acceptance": "39.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/3sum"
+  },
+  {
+    "id": "21",
+    "title": "Merge Two Sorted Lists",
+    "acceptance": "68.3%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists"
+  },
+  {
+    "id": "283",
+    "title": "Move Zeroes",
+    "acceptance": "63.8%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/move-zeroes"
+  },
+  {
+    "id": "543",
+    "title": "Diameter of Binary Tree",
+    "acceptance": "65.5%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/diameter-of-binary-tree"
+  },
+  {
+    "id": "783",
+    "title": "Minimum Distance Between BST Nodes",
+    "acceptance": "61.3%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/minimum-distance-between-bst-nodes"
+  },
+  {
+    "id": "42",
+    "title": "Trapping Rain Water",
+    "acceptance": "67.4%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/trapping-rain-water"
+  },
+  {
+    "id": "705",
+    "title": "Design HashSet",
+    "acceptance": "68.0%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/design-hashset"
+  },
+  {
+    "id": "50",
+    "title": "Pow(x, n)",
+    "acceptance": "38.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/powx-n"
+  },
+  {
+    "id": "53",
+    "title": "Maximum Subarray",
+    "acceptance": "53.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-subarray"
+  },
+  {
+    "id": "804",
+    "title": "Unique Morse Code Words",
+    "acceptance": "83.6%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/unique-morse-code-words"
+  },
+  {
+    "id": "56",
+    "title": "Merge Intervals",
+    "acceptance": "51.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/merge-intervals"
+  },
+  {
+    "id": "811",
+    "title": "Subdomain Visit Count",
+    "acceptance": "77.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/subdomain-visit-count"
+  },
+  {
+    "id": "336",
+    "title": "Palindrome Pairs",
+    "acceptance": "37.2%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/palindrome-pairs"
+  },
+  {
+    "id": "342",
+    "title": "Power of Four",
+    "acceptance": "52.1%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/power-of-four"
+  },
+  {
+    "id": "349",
+    "title": "Intersection of Two Arrays",
+    "acceptance": "77.8%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/intersection-of-two-arrays"
+  },
+  {
+    "id": "98",
+    "title": "Validate Binary Search Tree",
+    "acceptance": "35.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/validate-binary-search-tree"
+  },
+  {
+    "id": "1048",
+    "title": "Longest String Chain",
+    "acceptance": "63.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-string-chain"
+  },
+  {
+    "id": "1268",
+    "title": "Search Suggestions System",
+    "acceptance": "65.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/search-suggestions-system"
+  },
+  {
+    "id": "124",
+    "title": "Binary Tree Maximum Path Sum",
+    "acceptance": "42.3%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum"
+  },
+  {
+    "id": "863",
+    "title": "All Nodes Distance K in Binary Tree",
+    "acceptance": "67.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree"
+  },
+  {
+    "id": "133",
+    "title": "Clone Graph",
+    "acceptance": "65.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/clone-graph"
+  },
+  {
+    "id": "392",
+    "title": "Is Subsequence",
+    "acceptance": "49.0%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/is-subsequence"
+  },
+  {
+    "id": "138",
+    "title": "Copy List with Random Pointer",
+    "acceptance": "62.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/copy-list-with-random-pointer"
+  },
+  {
+    "id": "423",
+    "title": "Reconstruct Original Digits from English",
+    "acceptance": "52.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/reconstruct-original-digits-from-english"
+  },
+  {
+    "id": "181",
+    "title": "Employees Earning More Than Their Managers",
+    "acceptance": "73.2%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/employees-earning-more-than-their-managers"
+  },
+  {
+    "id": "929",
+    "title": "Unique Email Addresses",
+    "acceptance": "67.9%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/unique-email-addresses"
+  },
+  {
+    "id": "199",
+    "title": "Binary Tree Right Side View",
+    "acceptance": "70.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/binary-tree-right-side-view"
+  },
+  {
+    "id": "200",
+    "title": "Number of Islands",
+    "acceptance": "64.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/number-of-islands"
+  },
+  {
+    "id": "953",
+    "title": "Verifying an Alien Dictionary",
+    "acceptance": "56.0%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/verifying-an-alien-dictionary"
+  },
+  {
+    "id": "236",
+    "title": "Lowest Common Ancestor of a Binary Tree",
+    "acceptance": "69.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree"
+  },
+  {
+    "id": "243",
+    "title": "Shortest Word Distance",
+    "acceptance": "66.3%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/shortest-word-distance"
+  },
+  {
+    "id": "973",
+    "title": "K Closest Points to Origin",
+    "acceptance": "69.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/k-closest-points-to-origin"
+  },
+  {
+    "id": "1169",
+    "title": "Invalid Transactions",
+    "acceptance": "32.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/invalid-transactions"
+  },
+  {
+    "id": "249",
+    "title": "Group Shifted Strings",
+    "acceptance": "67.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/group-shifted-strings"
+  },
+  {
+    "id": "2814",
+    "title": "Minimum Time Takes to Reach Destination Without Drowning",
+    "acceptance": "54.7%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/minimum-time-takes-to-reach-destination-without-drowning"
+  },
+  {
+    "id": "394",
+    "title": "Decode String",
+    "acceptance": "62.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/decode-string"
+  },
+  {
+    "id": "212",
+    "title": "Word Search II",
+    "acceptance": "38.5%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/word-search-ii"
+  },
+  {
+    "id": "79",
+    "title": "Word Search",
+    "acceptance": "47.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/word-search"
+  },
+  {
+    "id": "13",
+    "title": "Roman to Integer",
+    "acceptance": "66.6%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/roman-to-integer"
+  },
+  {
+    "id": "162",
+    "title": "Find Peak Element",
+    "acceptance": "47.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/find-peak-element"
+  },
+  {
+    "id": "78",
+    "title": "Subsets",
+    "acceptance": "82.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/subsets"
+  },
+  {
+    "id": "38",
+    "title": "Count and Say",
+    "acceptance": "62.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/count-and-say"
+  },
+  {
+    "id": "994",
+    "title": "Rotting Oranges",
+    "acceptance": "58.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/rotting-oranges"
+  },
+  {
+    "id": "789",
+    "title": "Escape The Ghosts",
+    "acceptance": "63.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/escape-the-ghosts"
+  },
+  {
+    "id": "20",
+    "title": "Valid Parentheses",
+    "acceptance": "44.2%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/valid-parentheses"
+  },
+  {
+    "id": "1650",
+    "title": "Lowest Common Ancestor of a Binary Tree III",
+    "acceptance": "83.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii"
+  },
+  {
+    "id": "420",
+    "title": "Strong Password Checker",
+    "acceptance": "15.8%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/strong-password-checker"
+  },
+  {
+    "id": "317",
+    "title": "Shortest Distance from All Buildings",
+    "acceptance": "44.9%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/shortest-distance-from-all-buildings"
+  },
+  {
+    "id": "1162",
+    "title": "As Far from Land as Possible",
+    "acceptance": "52.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/as-far-from-land-as-possible"
+  },
+  {
+    "id": "509",
+    "title": "Fibonacci Number",
+    "acceptance": "74.1%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/fibonacci-number"
+  }
+]

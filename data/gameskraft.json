@@ -1,0 +1,30 @@
+[
+  {
+    "id": "239",
+    "title": "Sliding Window Maximum",
+    "acceptance": "48.8%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/sliding-window-maximum"
+  },
+  {
+    "id": "3367",
+    "title": "Maximize Sum of Weights after Edge Removals",
+    "acceptance": "31.0%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/maximize-sum-of-weights-after-edge-removals"
+  },
+  {
+    "id": "2867",
+    "title": "Count Valid Paths in a Tree",
+    "acceptance": "36.2%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/count-valid-paths-in-a-tree"
+  },
+  {
+    "id": "3710",
+    "title": "Maximum Partition Factor",
+    "acceptance": "31.8%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/maximum-partition-factor"
+  }
+]

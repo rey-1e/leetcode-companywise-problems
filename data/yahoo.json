@@ -1,0 +1,247 @@
+[
+  {
+    "id": "1",
+    "title": "Two Sum",
+    "acceptance": "57.5%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/two-sum"
+  },
+  {
+    "id": "4",
+    "title": "Median of Two Sorted Arrays",
+    "acceptance": "46.6%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays"
+  },
+  {
+    "id": "9",
+    "title": "Palindrome Number",
+    "acceptance": "60.6%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/palindrome-number"
+  },
+  {
+    "id": "13",
+    "title": "Roman to Integer",
+    "acceptance": "66.6%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/roman-to-integer"
+  },
+  {
+    "id": "14",
+    "title": "Longest Common Prefix",
+    "acceptance": "47.6%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/longest-common-prefix"
+  },
+  {
+    "id": "20",
+    "title": "Valid Parentheses",
+    "acceptance": "44.2%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/valid-parentheses"
+  },
+  {
+    "id": "33",
+    "title": "Search in Rotated Sorted Array",
+    "acceptance": "44.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array"
+  },
+  {
+    "id": "39",
+    "title": "Combination Sum",
+    "acceptance": "76.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/combination-sum"
+  },
+  {
+    "id": "54",
+    "title": "Spiral Matrix",
+    "acceptance": "56.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/spiral-matrix"
+  },
+  {
+    "id": "98",
+    "title": "Validate Binary Search Tree",
+    "acceptance": "35.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/validate-binary-search-tree"
+  },
+  {
+    "id": "104",
+    "title": "Maximum Depth of Binary Tree",
+    "acceptance": "78.2%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/maximum-depth-of-binary-tree"
+  },
+  {
+    "id": "139",
+    "title": "Word Break",
+    "acceptance": "49.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/word-break"
+  },
+  {
+    "id": "141",
+    "title": "Linked List Cycle",
+    "acceptance": "54.3%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/linked-list-cycle"
+  },
+  {
+    "id": "146",
+    "title": "LRU Cache",
+    "acceptance": "47.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/lru-cache"
+  },
+  {
+    "id": "200",
+    "title": "Number of Islands",
+    "acceptance": "64.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/number-of-islands"
+  },
+  {
+    "id": "206",
+    "title": "Reverse Linked List",
+    "acceptance": "80.6%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/reverse-linked-list"
+  },
+  {
+    "id": "217",
+    "title": "Contains Duplicate",
+    "acceptance": "64.4%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/contains-duplicate"
+  },
+  {
+    "id": "284",
+    "title": "Peeking Iterator",
+    "acceptance": "61.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/peeking-iterator"
+  },
+  {
+    "id": "297",
+    "title": "Serialize and Deserialize Binary Tree",
+    "acceptance": "60.8%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree"
+  },
+  {
+    "id": "347",
+    "title": "Top K Frequent Elements",
+    "acceptance": "66.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements"
+  },
+  {
+    "id": "394",
+    "title": "Decode String",
+    "acceptance": "62.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/decode-string"
+  },
+  {
+    "id": "424",
+    "title": "Longest Repeating Character Replacement",
+    "acceptance": "59.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-repeating-character-replacement"
+  },
+  {
+    "id": "479",
+    "title": "Largest Palindrome Product",
+    "acceptance": "38.9%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/largest-palindrome-product"
+  },
+  {
+    "id": "491",
+    "title": "Non-decreasing Subsequences",
+    "acceptance": "62.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/non-decreasing-subsequences"
+  },
+  {
+    "id": "560",
+    "title": "Subarray Sum Equals K",
+    "acceptance": "47.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/subarray-sum-equals-k"
+  },
+  {
+    "id": "624",
+    "title": "Maximum Distance in Arrays",
+    "acceptance": "45.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-distance-in-arrays"
+  },
+  {
+    "id": "693",
+    "title": "Binary Number with Alternating Bits",
+    "acceptance": "69.9%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/binary-number-with-alternating-bits"
+  },
+  {
+    "id": "1030",
+    "title": "Matrix Cells in Distance Order",
+    "acceptance": "74.2%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/matrix-cells-in-distance-order"
+  },
+  {
+    "id": "1091",
+    "title": "Shortest Path in Binary Matrix",
+    "acceptance": "51.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/shortest-path-in-binary-matrix"
+  },
+  {
+    "id": "93",
+    "title": "Restore IP Addresses",
+    "acceptance": "56.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/restore-ip-addresses"
+  },
+  {
+    "id": "399",
+    "title": "Evaluate Division",
+    "acceptance": "64.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/evaluate-division"
+  },
+  {
+    "id": "341",
+    "title": "Flatten Nested List Iterator",
+    "acceptance": "65.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/flatten-nested-list-iterator"
+  },
+  {
+    "id": "162",
+    "title": "Find Peak Element",
+    "acceptance": "47.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/find-peak-element"
+  },
+  {
+    "id": "79",
+    "title": "Word Search",
+    "acceptance": "47.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/word-search"
+  },
+  {
+    "id": "253",
+    "title": "Meeting Rooms II",
+    "acceptance": "52.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/meeting-rooms-ii"
+  }
+]

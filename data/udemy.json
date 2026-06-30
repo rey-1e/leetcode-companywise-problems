@@ -1,0 +1,51 @@
+[
+  {
+    "id": "4",
+    "title": "Median of Two Sorted Arrays",
+    "acceptance": "46.6%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays"
+  },
+  {
+    "id": "36",
+    "title": "Valid Sudoku",
+    "acceptance": "64.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/valid-sudoku"
+  },
+  {
+    "id": "20",
+    "title": "Valid Parentheses",
+    "acceptance": "44.2%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/valid-parentheses"
+  },
+  {
+    "id": "21",
+    "title": "Merge Two Sorted Lists",
+    "acceptance": "68.3%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists"
+  },
+  {
+    "id": "26",
+    "title": "Remove Duplicates from Sorted Array",
+    "acceptance": "62.8%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array"
+  },
+  {
+    "id": "3477",
+    "title": "Fruits Into Baskets II",
+    "acceptance": "70.2%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/fruits-into-baskets-ii"
+  },
+  {
+    "id": "271",
+    "title": "Encode and Decode Strings",
+    "acceptance": "51.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/encode-and-decode-strings"
+  }
+]

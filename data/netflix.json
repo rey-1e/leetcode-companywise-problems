@@ -1,0 +1,219 @@
+[
+  {
+    "id": "3",
+    "title": "Longest Substring Without Repeating Characters",
+    "acceptance": "39.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+  },
+  {
+    "id": "41",
+    "title": "First Missing Positive",
+    "acceptance": "42.9%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/first-missing-positive"
+  },
+  {
+    "id": "56",
+    "title": "Merge Intervals",
+    "acceptance": "51.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/merge-intervals"
+  },
+  {
+    "id": "146",
+    "title": "LRU Cache",
+    "acceptance": "47.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/lru-cache"
+  },
+  {
+    "id": "210",
+    "title": "Course Schedule II",
+    "acceptance": "55.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/course-schedule-ii"
+  },
+  {
+    "id": "228",
+    "title": "Summary Ranges",
+    "acceptance": "54.2%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/summary-ranges"
+  },
+  {
+    "id": "253",
+    "title": "Meeting Rooms II",
+    "acceptance": "52.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/meeting-rooms-ii"
+  },
+  {
+    "id": "332",
+    "title": "Reconstruct Itinerary",
+    "acceptance": "44.6%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/reconstruct-itinerary"
+  },
+  {
+    "id": "347",
+    "title": "Top K Frequent Elements",
+    "acceptance": "66.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements"
+  },
+  {
+    "id": "359",
+    "title": "Logger Rate Limiter",
+    "acceptance": "76.8%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/logger-rate-limiter"
+  },
+  {
+    "id": "981",
+    "title": "Time Based Key-Value Store",
+    "acceptance": "49.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/time-based-key-value-store"
+  },
+  {
+    "id": "219",
+    "title": "Contains Duplicate II",
+    "acceptance": "51.3%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/contains-duplicate-ii"
+  },
+  {
+    "id": "20",
+    "title": "Valid Parentheses",
+    "acceptance": "44.2%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/valid-parentheses"
+  },
+  {
+    "id": "2622",
+    "title": "Cache With Time Limit",
+    "acceptance": "76.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/cache-with-time-limit"
+  },
+  {
+    "id": "322",
+    "title": "Coin Change",
+    "acceptance": "48.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/coin-change"
+  },
+  {
+    "id": "139",
+    "title": "Word Break",
+    "acceptance": "49.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/word-break"
+  },
+  {
+    "id": "79",
+    "title": "Word Search",
+    "acceptance": "47.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/word-search"
+  },
+  {
+    "id": "743",
+    "title": "Network Delay Time",
+    "acceptance": "60.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/network-delay-time"
+  },
+  {
+    "id": "875",
+    "title": "Koko Eating Bananas",
+    "acceptance": "50.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/koko-eating-bananas"
+  },
+  {
+    "id": "217",
+    "title": "Contains Duplicate",
+    "acceptance": "64.4%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/contains-duplicate"
+  },
+  {
+    "id": "220",
+    "title": "Contains Duplicate III",
+    "acceptance": "24.8%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/contains-duplicate-iii"
+  },
+  {
+    "id": "904",
+    "title": "Fruit Into Baskets",
+    "acceptance": "51.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/fruit-into-baskets"
+  },
+  {
+    "id": "169",
+    "title": "Majority Element",
+    "acceptance": "66.3%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/majority-element"
+  },
+  {
+    "id": "797",
+    "title": "All Paths From Source to Target",
+    "acceptance": "83.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/all-paths-from-source-to-target"
+  },
+  {
+    "id": "1136",
+    "title": "Parallel Courses",
+    "acceptance": "62.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/parallel-courses"
+  },
+  {
+    "id": "8",
+    "title": "String to Integer (atoi)",
+    "acceptance": "21.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/string-to-integer-atoi"
+  },
+  {
+    "id": "718",
+    "title": "Maximum Length of Repeated Subarray",
+    "acceptance": "51.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-length-of-repeated-subarray"
+  },
+  {
+    "id": "1146",
+    "title": "Snapshot Array",
+    "acceptance": "36.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/snapshot-array"
+  },
+  {
+    "id": "460",
+    "title": "LFU Cache",
+    "acceptance": "49.2%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/lfu-cache"
+  },
+  {
+    "id": "162",
+    "title": "Find Peak Element",
+    "acceptance": "47.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/find-peak-element"
+  },
+  {
+    "id": "242",
+    "title": "Valid Anagram",
+    "acceptance": "68.1%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/valid-anagram"
+  }
+]

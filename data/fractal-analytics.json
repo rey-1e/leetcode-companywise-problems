@@ -1,0 +1,114 @@
+[
+  {
+    "id": "1",
+    "title": "Two Sum",
+    "acceptance": "57.5%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/two-sum"
+  },
+  {
+    "id": "322",
+    "title": "Coin Change",
+    "acceptance": "48.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/coin-change"
+  },
+  {
+    "id": "3",
+    "title": "Longest Substring Without Repeating Characters",
+    "acceptance": "39.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+  },
+  {
+    "id": "5",
+    "title": "Longest Palindromic Substring",
+    "acceptance": "37.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring"
+  },
+  {
+    "id": "70",
+    "title": "Climbing Stairs",
+    "acceptance": "54.1%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/climbing-stairs"
+  },
+  {
+    "id": "1292",
+    "title": "Maximum Side Length of a Square with Sum Less than or Equal to Threshold",
+    "acceptance": "65.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold"
+  },
+  {
+    "id": "392",
+    "title": "Is Subsequence",
+    "acceptance": "49.0%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/is-subsequence"
+  },
+  {
+    "id": "270",
+    "title": "Closest Binary Search Tree Value",
+    "acceptance": "49.2%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/closest-binary-search-tree-value"
+  },
+  {
+    "id": "273",
+    "title": "Integer to English Words",
+    "acceptance": "35.0%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/integer-to-english-words"
+  },
+  {
+    "id": "3445",
+    "title": "Maximum Difference Between Even and Odd Frequency II",
+    "acceptance": "48.6%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii"
+  },
+  {
+    "id": "53",
+    "title": "Maximum Subarray",
+    "acceptance": "53.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-subarray"
+  },
+  {
+    "id": "3441",
+    "title": "Minimum Cost Good Caption",
+    "acceptance": "20.9%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/minimum-cost-good-caption"
+  },
+  {
+    "id": "185",
+    "title": "Department Top Three Salaries",
+    "acceptance": "60.5%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/department-top-three-salaries"
+  },
+  {
+    "id": "238",
+    "title": "Product of Array Except Self",
+    "acceptance": "68.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/product-of-array-except-self"
+  },
+  {
+    "id": "14",
+    "title": "Longest Common Prefix",
+    "acceptance": "47.6%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/longest-common-prefix"
+  },
+  {
+    "id": "197",
+    "title": "Rising Temperature",
+    "acceptance": "51.3%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/rising-temperature"
+  }
+]

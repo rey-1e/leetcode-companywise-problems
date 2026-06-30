@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1497",
+    "title": "Check If Array Pairs Are Divisible by k",
+    "acceptance": "46.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k"
+  },
+  {
+    "id": "84",
+    "title": "Largest Rectangle in Histogram",
+    "acceptance": "49.9%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/largest-rectangle-in-histogram"
+  },
+  {
+    "id": "1",
+    "title": "Two Sum",
+    "acceptance": "57.5%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/two-sum"
+  },
+  {
+    "id": "460",
+    "title": "LFU Cache",
+    "acceptance": "49.2%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/lfu-cache"
+  }
+]

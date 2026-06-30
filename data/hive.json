@@ -1,0 +1,44 @@
+[
+  {
+    "id": "912",
+    "title": "Sort an Array",
+    "acceptance": "55.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/sort-an-array"
+  },
+  {
+    "id": "200",
+    "title": "Number of Islands",
+    "acceptance": "64.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/number-of-islands"
+  },
+  {
+    "id": "297",
+    "title": "Serialize and Deserialize Binary Tree",
+    "acceptance": "60.8%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree"
+  },
+  {
+    "id": "1162",
+    "title": "As Far from Land as Possible",
+    "acceptance": "52.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/as-far-from-land-as-possible"
+  },
+  {
+    "id": "42",
+    "title": "Trapping Rain Water",
+    "acceptance": "67.4%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/trapping-rain-water"
+  },
+  {
+    "id": "68",
+    "title": "Text Justification",
+    "acceptance": "51.2%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/text-justification"
+  }
+]

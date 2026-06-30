@@ -1,0 +1,233 @@
+[
+  {
+    "id": "3143",
+    "title": "Maximum Points Inside the Square",
+    "acceptance": "39.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-points-inside-the-square"
+  },
+  {
+    "id": "2999",
+    "title": "Count the Number of Powerful Integers",
+    "acceptance": "46.2%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/count-the-number-of-powerful-integers"
+  },
+  {
+    "id": "3012",
+    "title": "Minimize Length of Array Using Operations",
+    "acceptance": "35.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimize-length-of-array-using-operations"
+  },
+  {
+    "id": "3051",
+    "title": "Find Candidates for Data Scientist Position",
+    "acceptance": "75.3%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/find-candidates-for-data-scientist-position"
+  },
+  {
+    "id": "3052",
+    "title": "Maximize Items",
+    "acceptance": "74.8%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/maximize-items"
+  },
+  {
+    "id": "42",
+    "title": "Trapping Rain Water",
+    "acceptance": "67.4%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/trapping-rain-water"
+  },
+  {
+    "id": "53",
+    "title": "Maximum Subarray",
+    "acceptance": "53.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-subarray"
+  },
+  {
+    "id": "2448",
+    "title": "Minimum Cost to Make Array Equal",
+    "acceptance": "46.8%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/minimum-cost-to-make-array-equal"
+  },
+  {
+    "id": "31",
+    "title": "Next Permutation",
+    "acceptance": "45.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/next-permutation"
+  },
+  {
+    "id": "810",
+    "title": "Chalkboard XOR Game",
+    "acceptance": "66.2%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/chalkboard-xor-game"
+  },
+  {
+    "id": "45",
+    "title": "Jump Game II",
+    "acceptance": "42.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/jump-game-ii"
+  },
+  {
+    "id": "55",
+    "title": "Jump Game",
+    "acceptance": "40.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/jump-game"
+  },
+  {
+    "id": "526",
+    "title": "Beautiful Arrangement",
+    "acceptance": "64.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/beautiful-arrangement"
+  },
+  {
+    "id": "200",
+    "title": "Number of Islands",
+    "acceptance": "64.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/number-of-islands"
+  },
+  {
+    "id": "2594",
+    "title": "Minimum Time to Repair Cars",
+    "acceptance": "59.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-time-to-repair-cars"
+  },
+  {
+    "id": "152",
+    "title": "Maximum Product Subarray",
+    "acceptance": "36.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-product-subarray"
+  },
+  {
+    "id": "72",
+    "title": "Edit Distance",
+    "acceptance": "60.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/edit-distance"
+  },
+  {
+    "id": "205",
+    "title": "Isomorphic Strings",
+    "acceptance": "48.4%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/isomorphic-strings"
+  },
+  {
+    "id": "49",
+    "title": "Group Anagrams",
+    "acceptance": "72.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/group-anagrams"
+  },
+  {
+    "id": "11",
+    "title": "Container With Most Water",
+    "acceptance": "60.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/container-with-most-water"
+  },
+  {
+    "id": "875",
+    "title": "Koko Eating Bananas",
+    "acceptance": "50.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/koko-eating-bananas"
+  },
+  {
+    "id": "5",
+    "title": "Longest Palindromic Substring",
+    "acceptance": "37.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring"
+  },
+  {
+    "id": "14",
+    "title": "Longest Common Prefix",
+    "acceptance": "47.6%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/longest-common-prefix"
+  },
+  {
+    "id": "188",
+    "title": "Best Time to Buy and Sell Stock IV",
+    "acceptance": "50.1%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv"
+  },
+  {
+    "id": "739",
+    "title": "Daily Temperatures",
+    "acceptance": "68.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/daily-temperatures"
+  },
+  {
+    "id": "992",
+    "title": "Subarrays with K Different Integers",
+    "acceptance": "68.1%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/subarrays-with-k-different-integers"
+  },
+  {
+    "id": "974",
+    "title": "Subarray Sums Divisible by K",
+    "acceptance": "56.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/subarray-sums-divisible-by-k"
+  },
+  {
+    "id": "3",
+    "title": "Longest Substring Without Repeating Characters",
+    "acceptance": "39.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+  },
+  {
+    "id": "394",
+    "title": "Decode String",
+    "acceptance": "62.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/decode-string"
+  },
+  {
+    "id": "1",
+    "title": "Two Sum",
+    "acceptance": "57.5%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/two-sum"
+  },
+  {
+    "id": "125",
+    "title": "Valid Palindrome",
+    "acceptance": "53.3%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/valid-palindrome"
+  },
+  {
+    "id": "1505",
+    "title": "Minimum Possible Integer After at Most K Adjacent Swaps On Digits",
+    "acceptance": "41.4%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits"
+  },
+  {
+    "id": "93",
+    "title": "Restore IP Addresses",
+    "acceptance": "56.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/restore-ip-addresses"
+  }
+]

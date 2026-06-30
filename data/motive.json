@@ -1,0 +1,72 @@
+[
+  {
+    "id": "628",
+    "title": "Maximum Product of Three Numbers",
+    "acceptance": "45.9%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/maximum-product-of-three-numbers"
+  },
+  {
+    "id": "525",
+    "title": "Contiguous Array",
+    "acceptance": "51.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/contiguous-array"
+  },
+  {
+    "id": "88",
+    "title": "Merge Sorted Array",
+    "acceptance": "54.9%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/merge-sorted-array"
+  },
+  {
+    "id": "678",
+    "title": "Valid Parenthesis String",
+    "acceptance": "40.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/valid-parenthesis-string"
+  },
+  {
+    "id": "240",
+    "title": "Search a 2D Matrix II",
+    "acceptance": "57.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/search-a-2d-matrix-ii"
+  },
+  {
+    "id": "1004",
+    "title": "Max Consecutive Ones III",
+    "acceptance": "67.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/max-consecutive-ones-iii"
+  },
+  {
+    "id": "49",
+    "title": "Group Anagrams",
+    "acceptance": "72.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/group-anagrams"
+  },
+  {
+    "id": "93",
+    "title": "Restore IP Addresses",
+    "acceptance": "56.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/restore-ip-addresses"
+  },
+  {
+    "id": "772",
+    "title": "Basic Calculator III",
+    "acceptance": "53.3%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/basic-calculator-iii"
+  },
+  {
+    "id": "227",
+    "title": "Basic Calculator II",
+    "acceptance": "46.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/basic-calculator-ii"
+  }
+]

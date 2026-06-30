@@ -1,0 +1,163 @@
+[
+  {
+    "id": "57",
+    "title": "Insert Interval",
+    "acceptance": "45.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/insert-interval"
+  },
+  {
+    "id": "1242",
+    "title": "Web Crawler Multithreaded",
+    "acceptance": "51.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/web-crawler-multithreaded"
+  },
+  {
+    "id": "617",
+    "title": "Merge Two Binary Trees",
+    "acceptance": "79.1%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/merge-two-binary-trees"
+  },
+  {
+    "id": "33",
+    "title": "Search in Rotated Sorted Array",
+    "acceptance": "44.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array"
+  },
+  {
+    "id": "139",
+    "title": "Word Break",
+    "acceptance": "49.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/word-break"
+  },
+  {
+    "id": "2034",
+    "title": "Stock Price Fluctuation",
+    "acceptance": "49.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/stock-price-fluctuation"
+  },
+  {
+    "id": "23",
+    "title": "Merge k Sorted Lists",
+    "acceptance": "59.6%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists"
+  },
+  {
+    "id": "239",
+    "title": "Sliding Window Maximum",
+    "acceptance": "48.8%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/sliding-window-maximum"
+  },
+  {
+    "id": "68",
+    "title": "Text Justification",
+    "acceptance": "51.2%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/text-justification"
+  },
+  {
+    "id": "349",
+    "title": "Intersection of Two Arrays",
+    "acceptance": "77.8%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/intersection-of-two-arrays"
+  },
+  {
+    "id": "236",
+    "title": "Lowest Common Ancestor of a Binary Tree",
+    "acceptance": "69.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree"
+  },
+  {
+    "id": "2759",
+    "title": "Convert JSON String to Object",
+    "acceptance": "62.0%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/convert-json-string-to-object"
+  },
+  {
+    "id": "208",
+    "title": "Implement Trie (Prefix Tree)",
+    "acceptance": "69.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/implement-trie-prefix-tree"
+  },
+  {
+    "id": "642",
+    "title": "Design Search Autocomplete System",
+    "acceptance": "50.0%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/design-search-autocomplete-system"
+  },
+  {
+    "id": "1146",
+    "title": "Snapshot Array",
+    "acceptance": "36.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/snapshot-array"
+  },
+  {
+    "id": "210",
+    "title": "Course Schedule II",
+    "acceptance": "55.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/course-schedule-ii"
+  },
+  {
+    "id": "1650",
+    "title": "Lowest Common Ancestor of a Binary Tree III",
+    "acceptance": "83.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii"
+  },
+  {
+    "id": "443",
+    "title": "String Compression",
+    "acceptance": "60.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/string-compression"
+  },
+  {
+    "id": "140",
+    "title": "Word Break II",
+    "acceptance": "55.6%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/word-break-ii"
+  },
+  {
+    "id": "146",
+    "title": "LRU Cache",
+    "acceptance": "47.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/lru-cache"
+  },
+  {
+    "id": "21",
+    "title": "Merge Two Sorted Lists",
+    "acceptance": "68.3%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists"
+  },
+  {
+    "id": "133",
+    "title": "Clone Graph",
+    "acceptance": "65.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/clone-graph"
+  },
+  {
+    "id": "981",
+    "title": "Time Based Key-Value Store",
+    "acceptance": "49.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/time-based-key-value-store"
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "id": "42",
+    "title": "Trapping Rain Water",
+    "acceptance": "67.4%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/trapping-rain-water"
+  },
+  {
+    "id": "2008",
+    "title": "Maximum Earnings From Taxi",
+    "acceptance": "46.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-earnings-from-taxi"
+  },
+  {
+    "id": "735",
+    "title": "Asteroid Collision",
+    "acceptance": "47.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/asteroid-collision"
+  },
+  {
+    "id": "146",
+    "title": "LRU Cache",
+    "acceptance": "47.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/lru-cache"
+  },
+  {
+    "id": "179",
+    "title": "Largest Number",
+    "acceptance": "43.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/largest-number"
+  },
+  {
+    "id": "459",
+    "title": "Repeated Substring Pattern",
+    "acceptance": "48.2%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/repeated-substring-pattern"
+  },
+  {
+    "id": "1443",
+    "title": "Minimum Time to Collect All Apples in a Tree",
+    "acceptance": "63.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree"
+  },
+  {
+    "id": "49",
+    "title": "Group Anagrams",
+    "acceptance": "72.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/group-anagrams"
+  },
+  {
+    "id": "121",
+    "title": "Best Time to Buy and Sell Stock",
+    "acceptance": "56.8%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+  },
+  {
+    "id": "84",
+    "title": "Largest Rectangle in Histogram",
+    "acceptance": "49.9%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/largest-rectangle-in-histogram"
+  },
+  {
+    "id": "41",
+    "title": "First Missing Positive",
+    "acceptance": "42.9%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/first-missing-positive"
+  },
+  {
+    "id": "15",
+    "title": "3Sum",
+    "acceptance": "39.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/3sum"
+  },
+  {
+    "id": "280",
+    "title": "Wiggle Sort",
+    "acceptance": "68.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/wiggle-sort"
+  },
+  {
+    "id": "994",
+    "title": "Rotting Oranges",
+    "acceptance": "58.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/rotting-oranges"
+  },
+  {
+    "id": "494",
+    "title": "Target Sum",
+    "acceptance": "52.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/target-sum"
+  },
+  {
+    "id": "462",
+    "title": "Minimum Moves to Equal Array Elements II",
+    "acceptance": "61.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii"
+  },
+  {
+    "id": "11",
+    "title": "Container With Most Water",
+    "acceptance": "60.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/container-with-most-water"
+  },
+  {
+    "id": "1302",
+    "title": "Deepest Leaves Sum",
+    "acceptance": "86.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/deepest-leaves-sum"
+  },
+  {
+    "id": "724",
+    "title": "Find Pivot Index",
+    "acceptance": "62.7%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/find-pivot-index"
+  },
+  {
+    "id": "26",
+    "title": "Remove Duplicates from Sorted Array",
+    "acceptance": "62.8%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array"
+  },
+  {
+    "id": "33",
+    "title": "Search in Rotated Sorted Array",
+    "acceptance": "44.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array"
+  },
+  {
+    "id": "3",
+    "title": "Longest Substring Without Repeating Characters",
+    "acceptance": "39.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+  },
+  {
+    "id": "22",
+    "title": "Generate Parentheses",
+    "acceptance": "78.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/generate-parentheses"
+  },
+  {
+    "id": "128",
+    "title": "Longest Consecutive Sequence",
+    "acceptance": "47.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-consecutive-sequence"
+  },
+  {
+    "id": "1011",
+    "title": "Capacity To Ship Packages Within D Days",
+    "acceptance": "73.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days"
+  }
+]

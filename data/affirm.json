@@ -1,0 +1,72 @@
+[
+  {
+    "id": "3076",
+    "title": "Shortest Uncommon Substring in an Array",
+    "acceptance": "50.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/shortest-uncommon-substring-in-an-array"
+  },
+  {
+    "id": "49",
+    "title": "Group Anagrams",
+    "acceptance": "72.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/group-anagrams"
+  },
+  {
+    "id": "362",
+    "title": "Design Hit Counter",
+    "acceptance": "69.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/design-hit-counter"
+  },
+  {
+    "id": "380",
+    "title": "Insert Delete GetRandom O(1)",
+    "acceptance": "55.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1"
+  },
+  {
+    "id": "381",
+    "title": "Insert Delete GetRandom O(1) - Duplicates allowed",
+    "acceptance": "36.6%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed"
+  },
+  {
+    "id": "443",
+    "title": "String Compression",
+    "acceptance": "60.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/string-compression"
+  },
+  {
+    "id": "736",
+    "title": "Parse Lisp Expression",
+    "acceptance": "53.5%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/parse-lisp-expression"
+  },
+  {
+    "id": "242",
+    "title": "Valid Anagram",
+    "acceptance": "68.1%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/valid-anagram"
+  },
+  {
+    "id": "322",
+    "title": "Coin Change",
+    "acceptance": "48.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/coin-change"
+  },
+  {
+    "id": "465",
+    "title": "Optimal Account Balancing",
+    "acceptance": "50.5%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/optimal-account-balancing"
+  }
+]

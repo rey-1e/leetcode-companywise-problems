@@ -1,0 +1,23 @@
+[
+  {
+    "id": "984",
+    "title": "String Without AAA or BBB",
+    "acceptance": "45.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/string-without-aaa-or-bbb"
+  },
+  {
+    "id": "860",
+    "title": "Lemonade Change",
+    "acceptance": "59.1%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/lemonade-change"
+  },
+  {
+    "id": "56",
+    "title": "Merge Intervals",
+    "acceptance": "51.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/merge-intervals"
+  }
+]

@@ -1,0 +1,275 @@
+[
+  {
+    "id": "2846",
+    "title": "Minimum Edge Weight Equilibrium Queries in a Tree",
+    "acceptance": "45.9%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree"
+  },
+  {
+    "id": "2518",
+    "title": "Number of Great Partitions",
+    "acceptance": "33.6%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/number-of-great-partitions"
+  },
+  {
+    "id": "2546",
+    "title": "Apply Bitwise Operations to Make Strings Equal",
+    "acceptance": "42.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal"
+  },
+  {
+    "id": "2897",
+    "title": "Apply Operations on Array to Maximize Sum of Squares",
+    "acceptance": "44.6%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares"
+  },
+  {
+    "id": "2048",
+    "title": "Next Greater Numerically Balanced Number",
+    "acceptance": "63.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/next-greater-numerically-balanced-number"
+  },
+  {
+    "id": "149",
+    "title": "Max Points on a Line",
+    "acceptance": "30.7%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/max-points-on-a-line"
+  },
+  {
+    "id": "2999",
+    "title": "Count the Number of Powerful Integers",
+    "acceptance": "46.2%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/count-the-number-of-powerful-integers"
+  },
+  {
+    "id": "2955",
+    "title": "Number of Same-End Substrings",
+    "acceptance": "61.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/number-of-same-end-substrings"
+  },
+  {
+    "id": "735",
+    "title": "Asteroid Collision",
+    "acceptance": "47.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/asteroid-collision"
+  },
+  {
+    "id": "3031",
+    "title": "Minimum Time to Revert Word to Initial State II",
+    "acceptance": "35.3%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-ii"
+  },
+  {
+    "id": "3029",
+    "title": "Minimum Time to Revert Word to Initial State I",
+    "acceptance": "42.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-i"
+  },
+  {
+    "id": "1755",
+    "title": "Closest Subsequence Sum",
+    "acceptance": "43.7%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/closest-subsequence-sum"
+  },
+  {
+    "id": "1746",
+    "title": "Maximum Subarray Sum After One Operation",
+    "acceptance": "65.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-subarray-sum-after-one-operation"
+  },
+  {
+    "id": "1799",
+    "title": "Maximize Score After N Operations",
+    "acceptance": "57.9%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/maximize-score-after-n-operations"
+  },
+  {
+    "id": "2378",
+    "title": "Choose Edges to Maximize Score in a Tree",
+    "acceptance": "56.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/choose-edges-to-maximize-score-in-a-tree"
+  },
+  {
+    "id": "2440",
+    "title": "Create Components With Same Value",
+    "acceptance": "53.6%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/create-components-with-same-value"
+  },
+  {
+    "id": "41",
+    "title": "First Missing Positive",
+    "acceptance": "42.9%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/first-missing-positive"
+  },
+  {
+    "id": "3414",
+    "title": "Maximum Score of Non-overlapping Intervals",
+    "acceptance": "31.5%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals"
+  },
+  {
+    "id": "907",
+    "title": "Sum of Subarray Minimums",
+    "acceptance": "38.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/sum-of-subarray-minimums"
+  },
+  {
+    "id": "975",
+    "title": "Odd Even Jump",
+    "acceptance": "41.2%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/odd-even-jump"
+  },
+  {
+    "id": "10",
+    "title": "Regular Expression Matching",
+    "acceptance": "31.0%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/regular-expression-matching"
+  },
+  {
+    "id": "205",
+    "title": "Isomorphic Strings",
+    "acceptance": "48.4%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/isomorphic-strings"
+  },
+  {
+    "id": "552",
+    "title": "Student Attendance Record II",
+    "acceptance": "56.6%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/student-attendance-record-ii"
+  },
+  {
+    "id": "1129",
+    "title": "Shortest Path with Alternating Colors",
+    "acceptance": "48.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/shortest-path-with-alternating-colors"
+  },
+  {
+    "id": "1463",
+    "title": "Cherry Pickup II",
+    "acceptance": "72.4%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/cherry-pickup-ii"
+  },
+  {
+    "id": "560",
+    "title": "Subarray Sum Equals K",
+    "acceptance": "47.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/subarray-sum-equals-k"
+  },
+  {
+    "id": "687",
+    "title": "Longest Univalue Path",
+    "acceptance": "43.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-univalue-path"
+  },
+  {
+    "id": "918",
+    "title": "Maximum Sum Circular Subarray",
+    "acceptance": "50.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-sum-circular-subarray"
+  },
+  {
+    "id": "85",
+    "title": "Maximal Rectangle",
+    "acceptance": "58.8%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/maximal-rectangle"
+  },
+  {
+    "id": "32",
+    "title": "Longest Valid Parentheses",
+    "acceptance": "38.8%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/longest-valid-parentheses"
+  },
+  {
+    "id": "546",
+    "title": "Remove Boxes",
+    "acceptance": "49.4%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/remove-boxes"
+  },
+  {
+    "id": "403",
+    "title": "Frog Jump",
+    "acceptance": "47.3%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/frog-jump"
+  },
+  {
+    "id": "295",
+    "title": "Find Median from Data Stream",
+    "acceptance": "54.5%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream"
+  },
+  {
+    "id": "456",
+    "title": "132 Pattern",
+    "acceptance": "34.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/132-pattern"
+  },
+  {
+    "id": "946",
+    "title": "Validate Stack Sequences",
+    "acceptance": "70.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/validate-stack-sequences"
+  },
+  {
+    "id": "337",
+    "title": "House Robber III",
+    "acceptance": "55.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/house-robber-iii"
+  },
+  {
+    "id": "239",
+    "title": "Sliding Window Maximum",
+    "acceptance": "48.8%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/sliding-window-maximum"
+  },
+  {
+    "id": "72",
+    "title": "Edit Distance",
+    "acceptance": "60.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/edit-distance"
+  },
+  {
+    "id": "1423",
+    "title": "Maximum Points You Can Obtain from Cards",
+    "acceptance": "57.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards"
+  }
+]

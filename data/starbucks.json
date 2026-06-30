@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1174",
+    "title": "Immediate Food Delivery II",
+    "acceptance": "56.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/immediate-food-delivery-ii"
+  },
+  {
+    "id": "1352",
+    "title": "Product of the Last K Numbers",
+    "acceptance": "62.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/product-of-the-last-k-numbers"
+  }
+]

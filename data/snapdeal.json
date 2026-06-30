@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1027",
+    "title": "Longest Arithmetic Subsequence",
+    "acceptance": "50.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-arithmetic-subsequence"
+  },
+  {
+    "id": "543",
+    "title": "Diameter of Binary Tree",
+    "acceptance": "65.5%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/diameter-of-binary-tree"
+  }
+]

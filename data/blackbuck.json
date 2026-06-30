@@ -1,0 +1,16 @@
+[
+  {
+    "id": "82",
+    "title": "Remove Duplicates from Sorted List II",
+    "acceptance": "51.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii"
+  },
+  {
+    "id": "22",
+    "title": "Generate Parentheses",
+    "acceptance": "78.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/generate-parentheses"
+  }
+]

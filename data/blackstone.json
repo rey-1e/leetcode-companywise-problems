@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1544",
+    "title": "Make The String Great",
+    "acceptance": "68.5%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/make-the-string-great"
+  },
+  {
+    "id": "780",
+    "title": "Reaching Points",
+    "acceptance": "34.4%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/reaching-points"
+  }
+]

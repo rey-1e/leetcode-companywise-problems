@@ -1,0 +1,142 @@
+[
+  {
+    "id": "1",
+    "title": "Two Sum",
+    "acceptance": "57.5%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/two-sum"
+  },
+  {
+    "id": "3",
+    "title": "Longest Substring Without Repeating Characters",
+    "acceptance": "39.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+  },
+  {
+    "id": "5",
+    "title": "Longest Palindromic Substring",
+    "acceptance": "37.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring"
+  },
+  {
+    "id": "2422",
+    "title": "Merge Operations to Turn Array Into a Palindrome",
+    "acceptance": "68.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/merge-operations-to-turn-array-into-a-palindrome"
+  },
+  {
+    "id": "70",
+    "title": "Climbing Stairs",
+    "acceptance": "54.1%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/climbing-stairs"
+  },
+  {
+    "id": "1234",
+    "title": "Replace the Substring for Balanced String",
+    "acceptance": "40.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/replace-the-substring-for-balanced-string"
+  },
+  {
+    "id": "1143",
+    "title": "Longest Common Subsequence",
+    "acceptance": "59.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-common-subsequence"
+  },
+  {
+    "id": "80",
+    "title": "Remove Duplicates from Sorted Array II",
+    "acceptance": "64.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii"
+  },
+  {
+    "id": "11",
+    "title": "Container With Most Water",
+    "acceptance": "60.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/container-with-most-water"
+  },
+  {
+    "id": "735",
+    "title": "Asteroid Collision",
+    "acceptance": "47.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/asteroid-collision"
+  },
+  {
+    "id": "121",
+    "title": "Best Time to Buy and Sell Stock",
+    "acceptance": "56.8%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+  },
+  {
+    "id": "2",
+    "title": "Add Two Numbers",
+    "acceptance": "48.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/add-two-numbers"
+  },
+  {
+    "id": "1654",
+    "title": "Minimum Jumps to Reach Home",
+    "acceptance": "30.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-jumps-to-reach-home"
+  },
+  {
+    "id": "134",
+    "title": "Gas Station",
+    "acceptance": "48.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/gas-station"
+  },
+  {
+    "id": "321",
+    "title": "Create Maximum Number",
+    "acceptance": "35.5%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/create-maximum-number"
+  },
+  {
+    "id": "49",
+    "title": "Group Anagrams",
+    "acceptance": "72.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/group-anagrams"
+  },
+  {
+    "id": "53",
+    "title": "Maximum Subarray",
+    "acceptance": "53.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-subarray"
+  },
+  {
+    "id": "322",
+    "title": "Coin Change",
+    "acceptance": "48.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/coin-change"
+  },
+  {
+    "id": "3819",
+    "title": "Rotate Non Negative Elements",
+    "acceptance": "48.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/rotate-non-negative-elements"
+  },
+  {
+    "id": "283",
+    "title": "Move Zeroes",
+    "acceptance": "63.8%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/move-zeroes"
+  }
+]

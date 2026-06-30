@@ -1,0 +1,65 @@
+[
+  {
+    "id": "2508",
+    "title": "Add Edges to Make Degrees of All Nodes Even",
+    "acceptance": "36.1%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even"
+  },
+  {
+    "id": "2246",
+    "title": "Longest Path With Different Adjacent Characters",
+    "acceptance": "54.0%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/longest-path-with-different-adjacent-characters"
+  },
+  {
+    "id": "2285",
+    "title": "Maximum Total Importance of Roads",
+    "acceptance": "69.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-total-importance-of-roads"
+  },
+  {
+    "id": "1566",
+    "title": "Detect Pattern of Length M Repeated K or More Times",
+    "acceptance": "43.9%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times"
+  },
+  {
+    "id": "1317",
+    "title": "Convert Integer to the Sum of Two No-Zero Integers",
+    "acceptance": "59.2%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers"
+  },
+  {
+    "id": "1342",
+    "title": "Number of Steps to Reduce a Number to Zero",
+    "acceptance": "85.8%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero"
+  },
+  {
+    "id": "1323",
+    "title": "Maximum 69 Number",
+    "acceptance": "84.5%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/maximum-69-number"
+  },
+  {
+    "id": "3225",
+    "title": "Maximum Score From Grid Operations",
+    "acceptance": "64.5%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/maximum-score-from-grid-operations"
+  },
+  {
+    "id": "14",
+    "title": "Longest Common Prefix",
+    "acceptance": "47.6%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/longest-common-prefix"
+  }
+]

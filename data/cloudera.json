@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1009",
+    "title": "Complement of Base 10 Integer",
+    "acceptance": "63.4%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/complement-of-base-10-integer"
+  },
+  {
+    "id": "476",
+    "title": "Number Complement",
+    "acceptance": "70.4%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/number-complement"
+  },
+  {
+    "id": "1061",
+    "title": "Lexicographically Smallest Equivalent String",
+    "acceptance": "81.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/lexicographically-smallest-equivalent-string"
+  }
+]

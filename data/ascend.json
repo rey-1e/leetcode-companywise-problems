@@ -1,0 +1,9 @@
+[
+  {
+    "id": "2002",
+    "title": "Maximum Product of the Length of Two Palindromic Subsequences",
+    "acceptance": "62.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences"
+  }
+]

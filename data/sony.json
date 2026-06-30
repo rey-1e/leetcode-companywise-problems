@@ -1,0 +1,37 @@
+[
+  {
+    "id": "2005",
+    "title": "Subtree Removal Game with Fibonacci Tree",
+    "acceptance": "57.5%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/subtree-removal-game-with-fibonacci-tree"
+  },
+  {
+    "id": "528",
+    "title": "Random Pick with Weight",
+    "acceptance": "49.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/random-pick-with-weight"
+  },
+  {
+    "id": "1512",
+    "title": "Number of Good Pairs",
+    "acceptance": "89.8%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/number-of-good-pairs"
+  },
+  {
+    "id": "20",
+    "title": "Valid Parentheses",
+    "acceptance": "44.2%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/valid-parentheses"
+  },
+  {
+    "id": "1",
+    "title": "Two Sum",
+    "acceptance": "57.5%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/two-sum"
+  }
+]

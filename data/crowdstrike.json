@@ -1,0 +1,79 @@
+[
+  {
+    "id": "443",
+    "title": "String Compression",
+    "acceptance": "60.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/string-compression"
+  },
+  {
+    "id": "200",
+    "title": "Number of Islands",
+    "acceptance": "64.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/number-of-islands"
+  },
+  {
+    "id": "283",
+    "title": "Move Zeroes",
+    "acceptance": "63.8%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/move-zeroes"
+  },
+  {
+    "id": "981",
+    "title": "Time Based Key-Value Store",
+    "acceptance": "49.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/time-based-key-value-store"
+  },
+  {
+    "id": "56",
+    "title": "Merge Intervals",
+    "acceptance": "51.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/merge-intervals"
+  },
+  {
+    "id": "271",
+    "title": "Encode and Decode Strings",
+    "acceptance": "51.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/encode-and-decode-strings"
+  },
+  {
+    "id": "42",
+    "title": "Trapping Rain Water",
+    "acceptance": "67.4%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/trapping-rain-water"
+  },
+  {
+    "id": "977",
+    "title": "Squares of a Sorted Array",
+    "acceptance": "73.8%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/squares-of-a-sorted-array"
+  },
+  {
+    "id": "207",
+    "title": "Course Schedule",
+    "acceptance": "51.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/course-schedule"
+  },
+  {
+    "id": "20",
+    "title": "Valid Parentheses",
+    "acceptance": "44.2%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/valid-parentheses"
+  },
+  {
+    "id": "133",
+    "title": "Clone Graph",
+    "acceptance": "65.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/clone-graph"
+  }
+]

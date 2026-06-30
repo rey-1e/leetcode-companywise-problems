@@ -1,0 +1,44 @@
+[
+  {
+    "id": "2942",
+    "title": "Find Words Containing Character",
+    "acceptance": "90.4%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/find-words-containing-character"
+  },
+  {
+    "id": "987",
+    "title": "Vertical Order Traversal of a Binary Tree",
+    "acceptance": "53.8%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree"
+  },
+  {
+    "id": "1248",
+    "title": "Count Number of Nice Subarrays",
+    "acceptance": "75.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/count-number-of-nice-subarrays"
+  },
+  {
+    "id": "301",
+    "title": "Remove Invalid Parentheses",
+    "acceptance": "49.9%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/remove-invalid-parentheses"
+  },
+  {
+    "id": "1797",
+    "title": "Design Authentication Manager",
+    "acceptance": "58.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/design-authentication-manager"
+  },
+  {
+    "id": "359",
+    "title": "Logger Rate Limiter",
+    "acceptance": "76.8%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/logger-rate-limiter"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1081",
+    "title": "Smallest Subsequence of Distinct Characters",
+    "acceptance": "63.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/smallest-subsequence-of-distinct-characters"
+  },
+  {
+    "id": "1209",
+    "title": "Remove All Adjacent Duplicates in String II",
+    "acceptance": "61.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii"
+  },
+  {
+    "id": "316",
+    "title": "Remove Duplicate Letters",
+    "acceptance": "53.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/remove-duplicate-letters"
+  },
+  {
+    "id": "49",
+    "title": "Group Anagrams",
+    "acceptance": "72.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/group-anagrams"
+  }
+]

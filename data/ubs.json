@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1268",
+    "title": "Search Suggestions System",
+    "acceptance": "65.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/search-suggestions-system"
+  },
+  {
+    "id": "3067",
+    "title": "Count Pairs of Connectable Servers in a Weighted Tree Network",
+    "acceptance": "55.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network"
+  },
+  {
+    "id": "20",
+    "title": "Valid Parentheses",
+    "acceptance": "44.2%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/valid-parentheses"
+  },
+  {
+    "id": "49",
+    "title": "Group Anagrams",
+    "acceptance": "72.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/group-anagrams"
+  }
+]

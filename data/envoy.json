@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1854",
+    "title": "Maximum Population Year",
+    "acceptance": "64.1%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/maximum-population-year"
+  },
+  {
+    "id": "198",
+    "title": "House Robber",
+    "acceptance": "53.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/house-robber"
+  }
+]

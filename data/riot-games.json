@@ -1,0 +1,30 @@
+[
+  {
+    "id": "37",
+    "title": "Sudoku Solver",
+    "acceptance": "65.5%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/sudoku-solver"
+  },
+  {
+    "id": "495",
+    "title": "Teemo Attacking",
+    "acceptance": "57.7%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/teemo-attacking"
+  },
+  {
+    "id": "3167",
+    "title": "Better Compression of String",
+    "acceptance": "75.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/better-compression-of-string"
+  },
+  {
+    "id": "289",
+    "title": "Game of Life",
+    "acceptance": "72.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/game-of-life"
+  }
+]

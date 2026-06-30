@@ -1,0 +1,79 @@
+[
+  {
+    "id": "527",
+    "title": "Word Abbreviation",
+    "acceptance": "62.7%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/word-abbreviation"
+  },
+  {
+    "id": "529",
+    "title": "Minesweeper",
+    "acceptance": "68.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minesweeper"
+  },
+  {
+    "id": "56",
+    "title": "Merge Intervals",
+    "acceptance": "51.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/merge-intervals"
+  },
+  {
+    "id": "622",
+    "title": "Design Circular Queue",
+    "acceptance": "54.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/design-circular-queue"
+  },
+  {
+    "id": "296",
+    "title": "Best Meeting Point",
+    "acceptance": "61.4%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/best-meeting-point"
+  },
+  {
+    "id": "317",
+    "title": "Shortest Distance from All Buildings",
+    "acceptance": "44.9%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/shortest-distance-from-all-buildings"
+  },
+  {
+    "id": "609",
+    "title": "Find Duplicate File in System",
+    "acceptance": "67.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/find-duplicate-file-in-system"
+  },
+  {
+    "id": "34",
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "acceptance": "48.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array"
+  },
+  {
+    "id": "1091",
+    "title": "Shortest Path in Binary Matrix",
+    "acceptance": "51.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/shortest-path-in-binary-matrix"
+  },
+  {
+    "id": "289",
+    "title": "Game of Life",
+    "acceptance": "72.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/game-of-life"
+  },
+  {
+    "id": "1274",
+    "title": "Number of Ships in a Rectangle",
+    "acceptance": "68.9%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/number-of-ships-in-a-rectangle"
+  }
+]

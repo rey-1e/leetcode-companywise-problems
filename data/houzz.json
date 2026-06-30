@@ -1,0 +1,16 @@
+[
+  {
+    "id": "660",
+    "title": "Remove 9",
+    "acceptance": "57.5%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/remove-9"
+  },
+  {
+    "id": "772",
+    "title": "Basic Calculator III",
+    "acceptance": "53.3%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/basic-calculator-iii"
+  }
+]

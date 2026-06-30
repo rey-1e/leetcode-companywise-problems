@@ -1,0 +1,51 @@
+[
+  {
+    "id": "985",
+    "title": "Sum of Even Numbers After Queries",
+    "acceptance": "68.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/sum-of-even-numbers-after-queries"
+  },
+  {
+    "id": "563",
+    "title": "Binary Tree Tilt",
+    "acceptance": "65.9%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/binary-tree-tilt"
+  },
+  {
+    "id": "2547",
+    "title": "Minimum Cost to Split an Array",
+    "acceptance": "44.5%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/minimum-cost-to-split-an-array"
+  },
+  {
+    "id": "2225",
+    "title": "Find Players With Zero or One Losses",
+    "acceptance": "72.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/find-players-with-zero-or-one-losses"
+  },
+  {
+    "id": "453",
+    "title": "Minimum Moves to Equal Array Elements",
+    "acceptance": "58.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements"
+  },
+  {
+    "id": "2133",
+    "title": "Check if Every Row and Column Contains All Numbers",
+    "acceptance": "54.1%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers"
+  },
+  {
+    "id": "346",
+    "title": "Moving Average from Data Stream",
+    "acceptance": "80.2%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/moving-average-from-data-stream"
+  }
+]

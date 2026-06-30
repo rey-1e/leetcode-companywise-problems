@@ -1,0 +1,86 @@
+[
+  {
+    "id": "36",
+    "title": "Valid Sudoku",
+    "acceptance": "64.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/valid-sudoku"
+  },
+  {
+    "id": "68",
+    "title": "Text Justification",
+    "acceptance": "51.2%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/text-justification"
+  },
+  {
+    "id": "79",
+    "title": "Word Search",
+    "acceptance": "47.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/word-search"
+  },
+  {
+    "id": "1160",
+    "title": "Find Words That Can Be Formed by Characters",
+    "acceptance": "71.6%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/find-words-that-can-be-formed-by-characters"
+  },
+  {
+    "id": "1604",
+    "title": "Alert Using Same Key-Card Three or More Times in a One Hour Period",
+    "acceptance": "46.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period"
+  },
+  {
+    "id": "2133",
+    "title": "Check if Every Row and Column Contains All Numbers",
+    "acceptance": "54.1%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers"
+  },
+  {
+    "id": "383",
+    "title": "Ransom Note",
+    "acceptance": "66.0%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/ransom-note"
+  },
+  {
+    "id": "221",
+    "title": "Maximal Square",
+    "acceptance": "50.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximal-square"
+  },
+  {
+    "id": "55",
+    "title": "Jump Game",
+    "acceptance": "40.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/jump-game"
+  },
+  {
+    "id": "1",
+    "title": "Two Sum",
+    "acceptance": "57.5%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/two-sum"
+  },
+  {
+    "id": "2225",
+    "title": "Find Players With Zero or One Losses",
+    "acceptance": "72.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/find-players-with-zero-or-one-losses"
+  },
+  {
+    "id": "2933",
+    "title": "High-Access Employees",
+    "acceptance": "47.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/high-access-employees"
+  }
+]

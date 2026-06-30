@@ -1,0 +1,23 @@
+[
+  {
+    "id": "2101",
+    "title": "Detonate the Maximum Bombs",
+    "acceptance": "50.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/detonate-the-maximum-bombs"
+  },
+  {
+    "id": "17",
+    "title": "Letter Combinations of a Phone Number",
+    "acceptance": "66.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number"
+  },
+  {
+    "id": "1472",
+    "title": "Design Browser History",
+    "acceptance": "78.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/design-browser-history"
+  }
+]

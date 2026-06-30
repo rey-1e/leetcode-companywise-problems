@@ -1,0 +1,128 @@
+[
+  {
+    "id": "1",
+    "title": "Two Sum",
+    "acceptance": "57.5%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/two-sum"
+  },
+  {
+    "id": "3",
+    "title": "Longest Substring Without Repeating Characters",
+    "acceptance": "39.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+  },
+  {
+    "id": "5",
+    "title": "Longest Palindromic Substring",
+    "acceptance": "37.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring"
+  },
+  {
+    "id": "34",
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "acceptance": "48.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array"
+  },
+  {
+    "id": "71",
+    "title": "Simplify Path",
+    "acceptance": "50.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/simplify-path"
+  },
+  {
+    "id": "392",
+    "title": "Is Subsequence",
+    "acceptance": "49.0%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/is-subsequence"
+  },
+  {
+    "id": "155",
+    "title": "Min Stack",
+    "acceptance": "58.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/min-stack"
+  },
+  {
+    "id": "419",
+    "title": "Battleships in a Board",
+    "acceptance": "77.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/battleships-in-a-board"
+  },
+  {
+    "id": "448",
+    "title": "Find All Numbers Disappeared in an Array",
+    "acceptance": "64.1%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array"
+  },
+  {
+    "id": "2694",
+    "title": "Event Emitter",
+    "acceptance": "75.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/event-emitter"
+  },
+  {
+    "id": "33",
+    "title": "Search in Rotated Sorted Array",
+    "acceptance": "44.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array"
+  },
+  {
+    "id": "394",
+    "title": "Decode String",
+    "acceptance": "62.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/decode-string"
+  },
+  {
+    "id": "200",
+    "title": "Number of Islands",
+    "acceptance": "64.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/number-of-islands"
+  },
+  {
+    "id": "2605",
+    "title": "Form Smallest Number From Two Digit Arrays",
+    "acceptance": "55.2%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays"
+  },
+  {
+    "id": "1984",
+    "title": "Minimum Difference Between Highest and Lowest of K Scores",
+    "acceptance": "66.3%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores"
+  },
+  {
+    "id": "125",
+    "title": "Valid Palindrome",
+    "acceptance": "53.3%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/valid-palindrome"
+  },
+  {
+    "id": "2609",
+    "title": "Find the Longest Balanced Substring of a Binary String",
+    "acceptance": "46.5%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/find-the-longest-balanced-substring-of-a-binary-string"
+  },
+  {
+    "id": "19",
+    "title": "Remove Nth Node From End of List",
+    "acceptance": "51.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list"
+  }
+]

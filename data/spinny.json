@@ -1,0 +1,51 @@
+[
+  {
+    "id": "1942",
+    "title": "The Number of the Smallest Unoccupied Chair",
+    "acceptance": "60.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair"
+  },
+  {
+    "id": "1943",
+    "title": "Describe the Painting",
+    "acceptance": "52.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/describe-the-painting"
+  },
+  {
+    "id": "1011",
+    "title": "Capacity To Ship Packages Within D Days",
+    "acceptance": "73.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days"
+  },
+  {
+    "id": "688",
+    "title": "Knight Probability in Chessboard",
+    "acceptance": "57.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/knight-probability-in-chessboard"
+  },
+  {
+    "id": "792",
+    "title": "Number of Matching Subsequences",
+    "acceptance": "50.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/number-of-matching-subsequences"
+  },
+  {
+    "id": "146",
+    "title": "LRU Cache",
+    "acceptance": "47.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/lru-cache"
+  },
+  {
+    "id": "1104",
+    "title": "Path In Zigzag Labelled Binary Tree",
+    "acceptance": "75.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree"
+  }
+]

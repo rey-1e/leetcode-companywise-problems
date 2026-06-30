@@ -1,0 +1,58 @@
+[
+  {
+    "id": "2058",
+    "title": "Find the Minimum and Maximum Number of Nodes Between Critical Points",
+    "acceptance": "69.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points"
+  },
+  {
+    "id": "3334",
+    "title": "Find the Maximum Factor Score of Array",
+    "acceptance": "41.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/find-the-maximum-factor-score-of-array"
+  },
+  {
+    "id": "5",
+    "title": "Longest Palindromic Substring",
+    "acceptance": "37.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring"
+  },
+  {
+    "id": "815",
+    "title": "Bus Routes",
+    "acceptance": "47.3%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/bus-routes"
+  },
+  {
+    "id": "1476",
+    "title": "Subrectangle Queries",
+    "acceptance": "86.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/subrectangle-queries"
+  },
+  {
+    "id": "3265",
+    "title": "Count Almost Equal Pairs I",
+    "acceptance": "38.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/count-almost-equal-pairs-i"
+  },
+  {
+    "id": "2032",
+    "title": "Two Out of Three",
+    "acceptance": "77.6%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/two-out-of-three"
+  },
+  {
+    "id": "75",
+    "title": "Sort Colors",
+    "acceptance": "69.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/sort-colors"
+  }
+]

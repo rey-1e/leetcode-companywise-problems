@@ -1,0 +1,16 @@
+[
+  {
+    "id": "68",
+    "title": "Text Justification",
+    "acceptance": "51.2%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/text-justification"
+  },
+  {
+    "id": "362",
+    "title": "Design Hit Counter",
+    "acceptance": "69.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/design-hit-counter"
+  }
+]

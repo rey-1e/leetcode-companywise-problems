@@ -1,0 +1,114 @@
+[
+  {
+    "id": "3070",
+    "title": "Count Submatrices with Top-Left Element and Sum Less Than k",
+    "acceptance": "74.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k"
+  },
+  {
+    "id": "2961",
+    "title": "Double Modular Exponentiation",
+    "acceptance": "48.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/double-modular-exponentiation"
+  },
+  {
+    "id": "2833",
+    "title": "Furthest Point From Origin",
+    "acceptance": "77.0%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/furthest-point-from-origin"
+  },
+  {
+    "id": "3080",
+    "title": "Mark Elements on Array by Performing Queries",
+    "acceptance": "49.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/mark-elements-on-array-by-performing-queries"
+  },
+  {
+    "id": "386",
+    "title": "Lexicographical Numbers",
+    "acceptance": "76.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/lexicographical-numbers"
+  },
+  {
+    "id": "20",
+    "title": "Valid Parentheses",
+    "acceptance": "44.2%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/valid-parentheses"
+  },
+  {
+    "id": "70",
+    "title": "Climbing Stairs",
+    "acceptance": "54.1%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/climbing-stairs"
+  },
+  {
+    "id": "200",
+    "title": "Number of Islands",
+    "acceptance": "64.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/number-of-islands"
+  },
+  {
+    "id": "3474",
+    "title": "Lexicographically Smallest Generated String",
+    "acceptance": "53.5%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/lexicographically-smallest-generated-string"
+  },
+  {
+    "id": "176",
+    "title": "Second Highest Salary",
+    "acceptance": "47.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/second-highest-salary"
+  },
+  {
+    "id": "14",
+    "title": "Longest Common Prefix",
+    "acceptance": "47.6%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/longest-common-prefix"
+  },
+  {
+    "id": "496",
+    "title": "Next Greater Element I",
+    "acceptance": "76.1%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/next-greater-element-i"
+  },
+  {
+    "id": "151",
+    "title": "Reverse Words in a String",
+    "acceptance": "56.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/reverse-words-in-a-string"
+  },
+  {
+    "id": "1482",
+    "title": "Minimum Number of Days to Make m Bouquets",
+    "acceptance": "56.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets"
+  },
+  {
+    "id": "763",
+    "title": "Partition Labels",
+    "acceptance": "81.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/partition-labels"
+  },
+  {
+    "id": "1",
+    "title": "Two Sum",
+    "acceptance": "57.5%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/two-sum"
+  }
+]

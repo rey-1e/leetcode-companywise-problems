@@ -1,0 +1,9 @@
+[
+  {
+    "id": "347",
+    "title": "Top K Frequent Elements",
+    "acceptance": "66.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements"
+  }
+]

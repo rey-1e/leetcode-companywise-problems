@@ -1,0 +1,65 @@
+[
+  {
+    "id": "146",
+    "title": "LRU Cache",
+    "acceptance": "47.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/lru-cache"
+  },
+  {
+    "id": "36",
+    "title": "Valid Sudoku",
+    "acceptance": "64.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/valid-sudoku"
+  },
+  {
+    "id": "37",
+    "title": "Sudoku Solver",
+    "acceptance": "65.5%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/sudoku-solver"
+  },
+  {
+    "id": "2627",
+    "title": "Debounce",
+    "acceptance": "91.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/debounce"
+  },
+  {
+    "id": "2604",
+    "title": "Minimum Time to Eat All Grains",
+    "acceptance": "40.9%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/minimum-time-to-eat-all-grains"
+  },
+  {
+    "id": "981",
+    "title": "Time Based Key-Value Store",
+    "acceptance": "49.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/time-based-key-value-store"
+  },
+  {
+    "id": "1797",
+    "title": "Design Authentication Manager",
+    "acceptance": "58.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/design-authentication-manager"
+  },
+  {
+    "id": "39",
+    "title": "Combination Sum",
+    "acceptance": "76.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/combination-sum"
+  },
+  {
+    "id": "2622",
+    "title": "Cache With Time Limit",
+    "acceptance": "76.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/cache-with-time-limit"
+  }
+]

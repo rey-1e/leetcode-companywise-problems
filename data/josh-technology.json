@@ -1,0 +1,240 @@
+[
+  {
+    "id": "1171",
+    "title": "Remove Zero Sum Consecutive Nodes from Linked List",
+    "acceptance": "53.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list"
+  },
+  {
+    "id": "283",
+    "title": "Move Zeroes",
+    "acceptance": "63.8%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/move-zeroes"
+  },
+  {
+    "id": "2181",
+    "title": "Merge Nodes in Between Zeros",
+    "acceptance": "89.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/merge-nodes-in-between-zeros"
+  },
+  {
+    "id": "2606",
+    "title": "Find the Substring With Maximum Cost",
+    "acceptance": "58.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/find-the-substring-with-maximum-cost"
+  },
+  {
+    "id": "2134",
+    "title": "Minimum Swaps to Group All 1's Together II",
+    "acceptance": "65.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii"
+  },
+  {
+    "id": "2824",
+    "title": "Count Pairs Whose Sum is Less than Target",
+    "acceptance": "87.7%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target"
+  },
+  {
+    "id": "25",
+    "title": "Reverse Nodes in k-Group",
+    "acceptance": "66.1%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/reverse-nodes-in-k-group"
+  },
+  {
+    "id": "2415",
+    "title": "Reverse Odd Levels of Binary Tree",
+    "acceptance": "86.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/reverse-odd-levels-of-binary-tree"
+  },
+  {
+    "id": "513",
+    "title": "Find Bottom Left Tree Value",
+    "acceptance": "72.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/find-bottom-left-tree-value"
+  },
+  {
+    "id": "2130",
+    "title": "Maximum Twin Sum of a Linked List",
+    "acceptance": "81.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list"
+  },
+  {
+    "id": "1448",
+    "title": "Count Good Nodes in Binary Tree",
+    "acceptance": "73.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/count-good-nodes-in-binary-tree"
+  },
+  {
+    "id": "402",
+    "title": "Remove K Digits",
+    "acceptance": "36.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/remove-k-digits"
+  },
+  {
+    "id": "179",
+    "title": "Largest Number",
+    "acceptance": "43.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/largest-number"
+  },
+  {
+    "id": "739",
+    "title": "Daily Temperatures",
+    "acceptance": "68.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/daily-temperatures"
+  },
+  {
+    "id": "1026",
+    "title": "Maximum Difference Between Node and Ancestor",
+    "acceptance": "78.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-difference-between-node-and-ancestor"
+  },
+  {
+    "id": "49",
+    "title": "Group Anagrams",
+    "acceptance": "72.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/group-anagrams"
+  },
+  {
+    "id": "226",
+    "title": "Invert Binary Tree",
+    "acceptance": "80.1%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/invert-binary-tree"
+  },
+  {
+    "id": "54",
+    "title": "Spiral Matrix",
+    "acceptance": "56.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/spiral-matrix"
+  },
+  {
+    "id": "2074",
+    "title": "Reverse Nodes in Even Length Groups",
+    "acceptance": "64.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/reverse-nodes-in-even-length-groups"
+  },
+  {
+    "id": "114",
+    "title": "Flatten Binary Tree to Linked List",
+    "acceptance": "70.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list"
+  },
+  {
+    "id": "19",
+    "title": "Remove Nth Node From End of List",
+    "acceptance": "51.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list"
+  },
+  {
+    "id": "875",
+    "title": "Koko Eating Bananas",
+    "acceptance": "50.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/koko-eating-bananas"
+  },
+  {
+    "id": "617",
+    "title": "Merge Two Binary Trees",
+    "acceptance": "79.1%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/merge-two-binary-trees"
+  },
+  {
+    "id": "132",
+    "title": "Palindrome Partitioning II",
+    "acceptance": "37.1%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/palindrome-partitioning-ii"
+  },
+  {
+    "id": "1315",
+    "title": "Sum of Nodes with Even-Valued Grandparent",
+    "acceptance": "85.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent"
+  },
+  {
+    "id": "21",
+    "title": "Merge Two Sorted Lists",
+    "acceptance": "68.3%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists"
+  },
+  {
+    "id": "328",
+    "title": "Odd Even Linked List",
+    "acceptance": "62.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/odd-even-linked-list"
+  },
+  {
+    "id": "1325",
+    "title": "Delete Leaves With a Given Value",
+    "acceptance": "77.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/delete-leaves-with-a-given-value"
+  },
+  {
+    "id": "33",
+    "title": "Search in Rotated Sorted Array",
+    "acceptance": "44.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array"
+  },
+  {
+    "id": "61",
+    "title": "Rotate List",
+    "acceptance": "42.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/rotate-list"
+  },
+  {
+    "id": "515",
+    "title": "Find Largest Value in Each Tree Row",
+    "acceptance": "66.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/find-largest-value-in-each-tree-row"
+  },
+  {
+    "id": "84",
+    "title": "Largest Rectangle in Histogram",
+    "acceptance": "49.9%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/largest-rectangle-in-histogram"
+  },
+  {
+    "id": "463",
+    "title": "Island Perimeter",
+    "acceptance": "74.4%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/island-perimeter"
+  },
+  {
+    "id": "70",
+    "title": "Climbing Stairs",
+    "acceptance": "54.1%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/climbing-stairs"
+  }
+]

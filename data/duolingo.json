@@ -1,0 +1,37 @@
+[
+  {
+    "id": "2227",
+    "title": "Encrypt and Decrypt Strings",
+    "acceptance": "38.4%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/encrypt-and-decrypt-strings"
+  },
+  {
+    "id": "2090",
+    "title": "K Radius Subarray Averages",
+    "acceptance": "46.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/k-radius-subarray-averages"
+  },
+  {
+    "id": "1733",
+    "title": "Minimum Number of People to Teach",
+    "acceptance": "67.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-number-of-people-to-teach"
+  },
+  {
+    "id": "2365",
+    "title": "Task Scheduler II",
+    "acceptance": "54.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/task-scheduler-ii"
+  },
+  {
+    "id": "329",
+    "title": "Longest Increasing Path in a Matrix",
+    "acceptance": "56.6%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix"
+  }
+]

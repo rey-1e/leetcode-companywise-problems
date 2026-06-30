@@ -1,0 +1,93 @@
+[
+  {
+    "id": "3",
+    "title": "Longest Substring Without Repeating Characters",
+    "acceptance": "39.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+  },
+  {
+    "id": "202",
+    "title": "Happy Number",
+    "acceptance": "59.7%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/happy-number"
+  },
+  {
+    "id": "498",
+    "title": "Diagonal Traverse",
+    "acceptance": "67.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/diagonal-traverse"
+  },
+  {
+    "id": "20",
+    "title": "Valid Parentheses",
+    "acceptance": "44.2%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/valid-parentheses"
+  },
+  {
+    "id": "53",
+    "title": "Maximum Subarray",
+    "acceptance": "53.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-subarray"
+  },
+  {
+    "id": "2642",
+    "title": "Design Graph With Shortest Path Calculator",
+    "acceptance": "65.2%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/design-graph-with-shortest-path-calculator"
+  },
+  {
+    "id": "155",
+    "title": "Min Stack",
+    "acceptance": "58.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/min-stack"
+  },
+  {
+    "id": "605",
+    "title": "Can Place Flowers",
+    "acceptance": "29.1%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/can-place-flowers"
+  },
+  {
+    "id": "31",
+    "title": "Next Permutation",
+    "acceptance": "45.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/next-permutation"
+  },
+  {
+    "id": "122",
+    "title": "Best Time to Buy and Sell Stock II",
+    "acceptance": "71.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii"
+  },
+  {
+    "id": "32",
+    "title": "Longest Valid Parentheses",
+    "acceptance": "38.8%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/longest-valid-parentheses"
+  },
+  {
+    "id": "55",
+    "title": "Jump Game",
+    "acceptance": "40.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/jump-game"
+  },
+  {
+    "id": "287",
+    "title": "Find the Duplicate Number",
+    "acceptance": "64.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/find-the-duplicate-number"
+  }
+]

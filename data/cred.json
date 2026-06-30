@@ -1,0 +1,16 @@
+[
+  {
+    "id": "3005",
+    "title": "Count Elements With Maximum Frequency",
+    "acceptance": "79.8%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/count-elements-with-maximum-frequency"
+  },
+  {
+    "id": "424",
+    "title": "Longest Repeating Character Replacement",
+    "acceptance": "59.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-repeating-character-replacement"
+  }
+]

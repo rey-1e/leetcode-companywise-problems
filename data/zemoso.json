@@ -1,0 +1,16 @@
+[
+  {
+    "id": "5",
+    "title": "Longest Palindromic Substring",
+    "acceptance": "37.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring"
+  },
+  {
+    "id": "300",
+    "title": "Longest Increasing Subsequence",
+    "acceptance": "59.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-increasing-subsequence"
+  }
+]

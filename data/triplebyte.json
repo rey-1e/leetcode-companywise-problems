@@ -1,0 +1,9 @@
+[
+  {
+    "id": "712",
+    "title": "Minimum ASCII Delete Sum for Two Strings",
+    "acceptance": "71.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings"
+  }
+]

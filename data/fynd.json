@@ -1,0 +1,9 @@
+[
+  {
+    "id": "1047",
+    "title": "Remove All Adjacent Duplicates In String",
+    "acceptance": "73.2%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string"
+  }
+]

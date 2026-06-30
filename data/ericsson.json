@@ -1,0 +1,23 @@
+[
+  {
+    "id": "20",
+    "title": "Valid Parentheses",
+    "acceptance": "44.2%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/valid-parentheses"
+  },
+  {
+    "id": "14",
+    "title": "Longest Common Prefix",
+    "acceptance": "47.6%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/longest-common-prefix"
+  },
+  {
+    "id": "224",
+    "title": "Basic Calculator",
+    "acceptance": "46.9%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/basic-calculator"
+  }
+]

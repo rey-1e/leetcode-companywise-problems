@@ -1,0 +1,100 @@
+[
+  {
+    "id": "1381",
+    "title": "Design a Stack With Increment Operation",
+    "acceptance": "79.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/design-a-stack-with-increment-operation"
+  },
+  {
+    "id": "42",
+    "title": "Trapping Rain Water",
+    "acceptance": "67.4%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/trapping-rain-water"
+  },
+  {
+    "id": "1048",
+    "title": "Longest String Chain",
+    "acceptance": "63.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-string-chain"
+  },
+  {
+    "id": "540",
+    "title": "Single Element in a Sorted Array",
+    "acceptance": "59.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/single-element-in-a-sorted-array"
+  },
+  {
+    "id": "1438",
+    "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+    "acceptance": "57.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit"
+  },
+  {
+    "id": "200",
+    "title": "Number of Islands",
+    "acceptance": "64.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/number-of-islands"
+  },
+  {
+    "id": "146",
+    "title": "LRU Cache",
+    "acceptance": "47.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/lru-cache"
+  },
+  {
+    "id": "827",
+    "title": "Making A Large Island",
+    "acceptance": "56.6%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/making-a-large-island"
+  },
+  {
+    "id": "130",
+    "title": "Surrounded Regions",
+    "acceptance": "45.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/surrounded-regions"
+  },
+  {
+    "id": "2116",
+    "title": "Check if a Parentheses String Can Be Valid",
+    "acceptance": "45.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid"
+  },
+  {
+    "id": "210",
+    "title": "Course Schedule II",
+    "acceptance": "55.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/course-schedule-ii"
+  },
+  {
+    "id": "394",
+    "title": "Decode String",
+    "acceptance": "62.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/decode-string"
+  },
+  {
+    "id": "76",
+    "title": "Minimum Window Substring",
+    "acceptance": "47.5%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/minimum-window-substring"
+  },
+  {
+    "id": "305",
+    "title": "Number of Islands II",
+    "acceptance": "40.6%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/number-of-islands-ii"
+  }
+]

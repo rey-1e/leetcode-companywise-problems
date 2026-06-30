@@ -1,0 +1,93 @@
+[
+  {
+    "id": "49",
+    "title": "Group Anagrams",
+    "acceptance": "72.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/group-anagrams"
+  },
+  {
+    "id": "200",
+    "title": "Number of Islands",
+    "acceptance": "64.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/number-of-islands"
+  },
+  {
+    "id": "680",
+    "title": "Valid Palindrome II",
+    "acceptance": "44.3%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/valid-palindrome-ii"
+  },
+  {
+    "id": "1047",
+    "title": "Remove All Adjacent Duplicates In String",
+    "acceptance": "73.2%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string"
+  },
+  {
+    "id": "240",
+    "title": "Search a 2D Matrix II",
+    "acceptance": "57.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/search-a-2d-matrix-ii"
+  },
+  {
+    "id": "79",
+    "title": "Word Search",
+    "acceptance": "47.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/word-search"
+  },
+  {
+    "id": "977",
+    "title": "Squares of a Sorted Array",
+    "acceptance": "73.8%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/squares-of-a-sorted-array"
+  },
+  {
+    "id": "1152",
+    "title": "Analyze User Website Visit Pattern",
+    "acceptance": "44.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/analyze-user-website-visit-pattern"
+  },
+  {
+    "id": "221",
+    "title": "Maximal Square",
+    "acceptance": "50.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximal-square"
+  },
+  {
+    "id": "253",
+    "title": "Meeting Rooms II",
+    "acceptance": "52.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/meeting-rooms-ii"
+  },
+  {
+    "id": "935",
+    "title": "Knight Dialer",
+    "acceptance": "61.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/knight-dialer"
+  },
+  {
+    "id": "973",
+    "title": "K Closest Points to Origin",
+    "acceptance": "69.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/k-closest-points-to-origin"
+  },
+  {
+    "id": "278",
+    "title": "First Bad Version",
+    "acceptance": "47.1%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/first-bad-version"
+  }
+]

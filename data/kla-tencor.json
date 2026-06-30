@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1192",
+    "title": "Critical Connections in a Network",
+    "acceptance": "59.7%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/critical-connections-in-a-network"
+  },
+  {
+    "id": "460",
+    "title": "LFU Cache",
+    "acceptance": "49.2%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/lfu-cache"
+  },
+  {
+    "id": "780",
+    "title": "Reaching Points",
+    "acceptance": "34.4%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/reaching-points"
+  },
+  {
+    "id": "2079",
+    "title": "Watering Plants",
+    "acceptance": "79.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/watering-plants"
+  }
+]

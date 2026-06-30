@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1",
+    "title": "Two Sum",
+    "acceptance": "57.5%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/two-sum"
+  },
+  {
+    "id": "1297",
+    "title": "Maximum Number of Occurrences of a Substring",
+    "acceptance": "54.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring"
+  },
+  {
+    "id": "21",
+    "title": "Merge Two Sorted Lists",
+    "acceptance": "68.3%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists"
+  },
+  {
+    "id": "88",
+    "title": "Merge Sorted Array",
+    "acceptance": "54.9%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/merge-sorted-array"
+  },
+  {
+    "id": "347",
+    "title": "Top K Frequent Elements",
+    "acceptance": "66.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements"
+  },
+  {
+    "id": "23",
+    "title": "Merge k Sorted Lists",
+    "acceptance": "59.6%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists"
+  },
+  {
+    "id": "56",
+    "title": "Merge Intervals",
+    "acceptance": "51.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/merge-intervals"
+  },
+  {
+    "id": "2386",
+    "title": "Find the K-Sum of an Array",
+    "acceptance": "41.5%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/find-the-k-sum-of-an-array"
+  },
+  {
+    "id": "253",
+    "title": "Meeting Rooms II",
+    "acceptance": "52.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/meeting-rooms-ii"
+  },
+  {
+    "id": "277",
+    "title": "Find the Celebrity",
+    "acceptance": "49.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/find-the-celebrity"
+  },
+  {
+    "id": "2043",
+    "title": "Simple Bank System",
+    "acceptance": "69.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/simple-bank-system"
+  },
+  {
+    "id": "2623",
+    "title": "Memoize",
+    "acceptance": "65.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/memoize"
+  }
+]

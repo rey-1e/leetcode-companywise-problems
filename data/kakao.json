@@ -1,0 +1,16 @@
+[
+  {
+    "id": "2212",
+    "title": "Maximum Points in an Archery Competition",
+    "acceptance": "51.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-points-in-an-archery-competition"
+  },
+  {
+    "id": "1210",
+    "title": "Minimum Moves to Reach Target with Rotations",
+    "acceptance": "52.2%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations"
+  }
+]

@@ -1,0 +1,149 @@
+[
+  {
+    "id": "1",
+    "title": "Two Sum",
+    "acceptance": "57.5%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/two-sum"
+  },
+  {
+    "id": "14",
+    "title": "Longest Common Prefix",
+    "acceptance": "47.6%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/longest-common-prefix"
+  },
+  {
+    "id": "2838",
+    "title": "Maximum Coins Heroes Can Collect",
+    "acceptance": "68.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-coins-heroes-can-collect"
+  },
+  {
+    "id": "2039",
+    "title": "The Time When the Network Becomes Idle",
+    "acceptance": "55.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/the-time-when-the-network-becomes-idle"
+  },
+  {
+    "id": "2030",
+    "title": "Smallest K-Length Subsequence With Occurrences of a Letter",
+    "acceptance": "39.8%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter"
+  },
+  {
+    "id": "121",
+    "title": "Best Time to Buy and Sell Stock",
+    "acceptance": "56.8%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+  },
+  {
+    "id": "122",
+    "title": "Best Time to Buy and Sell Stock II",
+    "acceptance": "71.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii"
+  },
+  {
+    "id": "2968",
+    "title": "Apply Operations to Maximize Frequency Score",
+    "acceptance": "38.9%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/apply-operations-to-maximize-frequency-score"
+  },
+  {
+    "id": "2141",
+    "title": "Maximum Running Time of N Computers",
+    "acceptance": "56.5%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/maximum-running-time-of-n-computers"
+  },
+  {
+    "id": "2137",
+    "title": "Pour Water Between Buckets to Make Water Levels Equal",
+    "acceptance": "68.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/pour-water-between-buckets-to-make-water-levels-equal"
+  },
+  {
+    "id": "3068",
+    "title": "Find the Maximum Sum of Node Values",
+    "acceptance": "69.4%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/find-the-maximum-sum-of-node-values"
+  },
+  {
+    "id": "1827",
+    "title": "Minimum Operations to Make the Array Increasing",
+    "acceptance": "82.0%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing"
+  },
+  {
+    "id": "2869",
+    "title": "Minimum Operations to Collect Elements",
+    "acceptance": "62.4%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/minimum-operations-to-collect-elements"
+  },
+  {
+    "id": "2735",
+    "title": "Collecting Chocolates",
+    "acceptance": "35.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/collecting-chocolates"
+  },
+  {
+    "id": "977",
+    "title": "Squares of a Sorted Array",
+    "acceptance": "73.8%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/squares-of-a-sorted-array"
+  },
+  {
+    "id": "241",
+    "title": "Different Ways to Add Parentheses",
+    "acceptance": "73.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/different-ways-to-add-parentheses"
+  },
+  {
+    "id": "52",
+    "title": "N-Queens II",
+    "acceptance": "78.7%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/n-queens-ii"
+  },
+  {
+    "id": "118",
+    "title": "Pascal's Triangle",
+    "acceptance": "78.9%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/pascals-triangle"
+  },
+  {
+    "id": "805",
+    "title": "Split Array With Same Average",
+    "acceptance": "27.0%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/split-array-with-same-average"
+  },
+  {
+    "id": "2552",
+    "title": "Count Increasing Quadruplets",
+    "acceptance": "34.5%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/count-increasing-quadruplets"
+  },
+  {
+    "id": "322",
+    "title": "Coin Change",
+    "acceptance": "48.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/coin-change"
+  }
+]

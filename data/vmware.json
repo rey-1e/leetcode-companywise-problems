@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1328",
+    "title": "Break a Palindrome",
+    "acceptance": "51.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/break-a-palindrome"
+  },
+  {
+    "id": "2217",
+    "title": "Find Palindrome With Fixed Length",
+    "acceptance": "38.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/find-palindrome-with-fixed-length"
+  },
+  {
+    "id": "2263",
+    "title": "Make Array Non-decreasing or Non-increasing",
+    "acceptance": "65.6%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/make-array-non-decreasing-or-non-increasing"
+  },
+  {
+    "id": "875",
+    "title": "Koko Eating Bananas",
+    "acceptance": "50.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/koko-eating-bananas"
+  },
+  {
+    "id": "994",
+    "title": "Rotting Oranges",
+    "acceptance": "58.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/rotting-oranges"
+  },
+  {
+    "id": "142",
+    "title": "Linked List Cycle II",
+    "acceptance": "57.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/linked-list-cycle-ii"
+  },
+  {
+    "id": "146",
+    "title": "LRU Cache",
+    "acceptance": "47.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/lru-cache"
+  },
+  {
+    "id": "981",
+    "title": "Time Based Key-Value Store",
+    "acceptance": "49.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/time-based-key-value-store"
+  }
+]

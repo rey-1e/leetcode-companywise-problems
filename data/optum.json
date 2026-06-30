@@ -1,0 +1,37 @@
+[
+  {
+    "id": "2000",
+    "title": "Reverse Prefix of Word",
+    "acceptance": "86.5%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/reverse-prefix-of-word"
+  },
+  {
+    "id": "1555",
+    "title": "Bank Account Summary",
+    "acceptance": "52.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/bank-account-summary"
+  },
+  {
+    "id": "1143",
+    "title": "Longest Common Subsequence",
+    "acceptance": "59.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-common-subsequence"
+  },
+  {
+    "id": "53",
+    "title": "Maximum Subarray",
+    "acceptance": "53.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-subarray"
+  },
+  {
+    "id": "1",
+    "title": "Two Sum",
+    "acceptance": "57.5%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/two-sum"
+  }
+]

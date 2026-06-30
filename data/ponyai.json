@@ -1,0 +1,30 @@
+[
+  {
+    "id": "786",
+    "title": "K-th Smallest Prime Fraction",
+    "acceptance": "69.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/k-th-smallest-prime-fraction"
+  },
+  {
+    "id": "1235",
+    "title": "Maximum Profit in Job Scheduling",
+    "acceptance": "54.7%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling"
+  },
+  {
+    "id": "1824",
+    "title": "Minimum Sideway Jumps",
+    "acceptance": "51.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-sideway-jumps"
+  },
+  {
+    "id": "1838",
+    "title": "Frequency of the Most Frequent Element",
+    "acceptance": "44.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/frequency-of-the-most-frequent-element"
+  }
+]

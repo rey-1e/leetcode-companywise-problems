@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1742",
+    "title": "Maximum Number of Balls in a Box",
+    "acceptance": "74.9%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/maximum-number-of-balls-in-a-box"
+  },
+  {
+    "id": "340",
+    "title": "Longest Substring with At Most K Distinct Characters",
+    "acceptance": "50.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters"
+  }
+]

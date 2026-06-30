@@ -1,0 +1,72 @@
+[
+  {
+    "id": "594",
+    "title": "Longest Harmonious Subsequence",
+    "acceptance": "64.7%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/longest-harmonious-subsequence"
+  },
+  {
+    "id": "1139",
+    "title": "Largest 1-Bordered Square",
+    "acceptance": "52.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/largest-1-bordered-square"
+  },
+  {
+    "id": "177",
+    "title": "Nth Highest Salary",
+    "acceptance": "39.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/nth-highest-salary"
+  },
+  {
+    "id": "238",
+    "title": "Product of Array Except Self",
+    "acceptance": "68.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/product-of-array-except-self"
+  },
+  {
+    "id": "176",
+    "title": "Second Highest Salary",
+    "acceptance": "47.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/second-highest-salary"
+  },
+  {
+    "id": "20",
+    "title": "Valid Parentheses",
+    "acceptance": "44.2%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/valid-parentheses"
+  },
+  {
+    "id": "5",
+    "title": "Longest Palindromic Substring",
+    "acceptance": "37.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring"
+  },
+  {
+    "id": "3",
+    "title": "Longest Substring Without Repeating Characters",
+    "acceptance": "39.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+  },
+  {
+    "id": "570",
+    "title": "Managers with at Least 5 Direct Reports",
+    "acceptance": "49.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/managers-with-at-least-5-direct-reports"
+  },
+  {
+    "id": "907",
+    "title": "Sum of Subarray Minimums",
+    "acceptance": "38.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/sum-of-subarray-minimums"
+  }
+]

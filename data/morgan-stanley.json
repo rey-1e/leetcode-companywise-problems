@@ -1,0 +1,387 @@
+[
+  {
+    "id": "1",
+    "title": "Two Sum",
+    "acceptance": "57.5%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/two-sum"
+  },
+  {
+    "id": "3",
+    "title": "Longest Substring Without Repeating Characters",
+    "acceptance": "39.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+  },
+  {
+    "id": "1964",
+    "title": "Find the Longest Valid Obstacle Course at Each Position",
+    "acceptance": "62.5%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position"
+  },
+  {
+    "id": "55",
+    "title": "Jump Game",
+    "acceptance": "40.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/jump-game"
+  },
+  {
+    "id": "56",
+    "title": "Merge Intervals",
+    "acceptance": "51.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/merge-intervals"
+  },
+  {
+    "id": "75",
+    "title": "Sort Colors",
+    "acceptance": "69.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/sort-colors"
+  },
+  {
+    "id": "121",
+    "title": "Best Time to Buy and Sell Stock",
+    "acceptance": "56.8%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+  },
+  {
+    "id": "138",
+    "title": "Copy List with Random Pointer",
+    "acceptance": "62.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/copy-list-with-random-pointer"
+  },
+  {
+    "id": "146",
+    "title": "LRU Cache",
+    "acceptance": "47.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/lru-cache"
+  },
+  {
+    "id": "2152",
+    "title": "Minimum Number of Lines to Cover Points",
+    "acceptance": "44.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-number-of-lines-to-cover-points"
+  },
+  {
+    "id": "1217",
+    "title": "Minimum Cost to Move Chips to The Same Position",
+    "acceptance": "72.9%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position"
+  },
+  {
+    "id": "2395",
+    "title": "Find Subarrays With Equal Sum",
+    "acceptance": "67.0%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/find-subarrays-with-equal-sum"
+  },
+  {
+    "id": "2432",
+    "title": "The Employee That Worked on the Longest Task",
+    "acceptance": "51.7%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task"
+  },
+  {
+    "id": "2433",
+    "title": "Find The Original Array of Prefix Xor",
+    "acceptance": "88.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/find-the-original-array-of-prefix-xor"
+  },
+  {
+    "id": "1626",
+    "title": "Best Team With No Conflicts",
+    "acceptance": "50.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/best-team-with-no-conflicts"
+  },
+  {
+    "id": "2444",
+    "title": "Count Subarrays With Fixed Bounds",
+    "acceptance": "69.2%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/count-subarrays-with-fixed-bounds"
+  },
+  {
+    "id": "496",
+    "title": "Next Greater Element I",
+    "acceptance": "76.1%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/next-greater-element-i"
+  },
+  {
+    "id": "525",
+    "title": "Contiguous Array",
+    "acceptance": "51.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/contiguous-array"
+  },
+  {
+    "id": "215",
+    "title": "Kth Largest Element in an Array",
+    "acceptance": "68.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array"
+  },
+  {
+    "id": "253",
+    "title": "Meeting Rooms II",
+    "acceptance": "52.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/meeting-rooms-ii"
+  },
+  {
+    "id": "15",
+    "title": "3Sum",
+    "acceptance": "39.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/3sum"
+  },
+  {
+    "id": "49",
+    "title": "Group Anagrams",
+    "acceptance": "72.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/group-anagrams"
+  },
+  {
+    "id": "992",
+    "title": "Subarrays with K Different Integers",
+    "acceptance": "68.1%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/subarrays-with-k-different-integers"
+  },
+  {
+    "id": "26",
+    "title": "Remove Duplicates from Sorted Array",
+    "acceptance": "62.8%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array"
+  },
+  {
+    "id": "936",
+    "title": "Stamping The Sequence",
+    "acceptance": "62.3%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/stamping-the-sequence"
+  },
+  {
+    "id": "22",
+    "title": "Generate Parentheses",
+    "acceptance": "78.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/generate-parentheses"
+  },
+  {
+    "id": "1539",
+    "title": "Kth Missing Positive Number",
+    "acceptance": "63.5%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/kth-missing-positive-number"
+  },
+  {
+    "id": "518",
+    "title": "Coin Change II",
+    "acceptance": "60.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/coin-change-ii"
+  },
+  {
+    "id": "2607",
+    "title": "Make K-Subarray Sums Equal",
+    "acceptance": "38.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/make-k-subarray-sums-equal"
+  },
+  {
+    "id": "79",
+    "title": "Word Search",
+    "acceptance": "47.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/word-search"
+  },
+  {
+    "id": "1658",
+    "title": "Minimum Operations to Reduce X to Zero",
+    "acceptance": "40.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero"
+  },
+  {
+    "id": "1209",
+    "title": "Remove All Adjacent Duplicates in String II",
+    "acceptance": "61.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii"
+  },
+  {
+    "id": "1143",
+    "title": "Longest Common Subsequence",
+    "acceptance": "59.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-common-subsequence"
+  },
+  {
+    "id": "556",
+    "title": "Next Greater Element III",
+    "acceptance": "35.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/next-greater-element-iii"
+  },
+  {
+    "id": "3144",
+    "title": "Minimum Substring Partition of Equal Character Frequency",
+    "acceptance": "40.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-substring-partition-of-equal-character-frequency"
+  },
+  {
+    "id": "54",
+    "title": "Spiral Matrix",
+    "acceptance": "56.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/spiral-matrix"
+  },
+  {
+    "id": "1529",
+    "title": "Minimum Suffix Flips",
+    "acceptance": "73.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-suffix-flips"
+  },
+  {
+    "id": "503",
+    "title": "Next Greater Element II",
+    "acceptance": "68.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/next-greater-element-ii"
+  },
+  {
+    "id": "1326",
+    "title": "Minimum Number of Taps to Open to Water a Garden",
+    "acceptance": "51.0%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden"
+  },
+  {
+    "id": "9",
+    "title": "Palindrome Number",
+    "acceptance": "60.6%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/palindrome-number"
+  },
+  {
+    "id": "387",
+    "title": "First Unique Character in a String",
+    "acceptance": "65.5%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/first-unique-character-in-a-string"
+  },
+  {
+    "id": "1481",
+    "title": "Least Number of Unique Integers after K Removals",
+    "acceptance": "63.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals"
+  },
+  {
+    "id": "135",
+    "title": "Candy",
+    "acceptance": "48.5%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/candy"
+  },
+  {
+    "id": "5",
+    "title": "Longest Palindromic Substring",
+    "acceptance": "37.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring"
+  },
+  {
+    "id": "152",
+    "title": "Maximum Product Subarray",
+    "acceptance": "36.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-product-subarray"
+  },
+  {
+    "id": "739",
+    "title": "Daily Temperatures",
+    "acceptance": "68.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/daily-temperatures"
+  },
+  {
+    "id": "19",
+    "title": "Remove Nth Node From End of List",
+    "acceptance": "51.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list"
+  },
+  {
+    "id": "143",
+    "title": "Reorder List",
+    "acceptance": "65.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/reorder-list"
+  },
+  {
+    "id": "234",
+    "title": "Palindrome Linked List",
+    "acceptance": "58.0%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/palindrome-linked-list"
+  },
+  {
+    "id": "300",
+    "title": "Longest Increasing Subsequence",
+    "acceptance": "59.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-increasing-subsequence"
+  },
+  {
+    "id": "169",
+    "title": "Majority Element",
+    "acceptance": "66.3%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/majority-element"
+  },
+  {
+    "id": "740",
+    "title": "Delete and Earn",
+    "acceptance": "57.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/delete-and-earn"
+  },
+  {
+    "id": "907",
+    "title": "Sum of Subarray Minimums",
+    "acceptance": "38.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/sum-of-subarray-minimums"
+  },
+  {
+    "id": "322",
+    "title": "Coin Change",
+    "acceptance": "48.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/coin-change"
+  },
+  {
+    "id": "1470",
+    "title": "Shuffle the Array",
+    "acceptance": "88.8%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/shuffle-the-array"
+  }
+]

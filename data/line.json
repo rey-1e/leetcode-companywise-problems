@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1547",
+    "title": "Minimum Cost to Cut a Stick",
+    "acceptance": "63.0%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/minimum-cost-to-cut-a-stick"
+  },
+  {
+    "id": "239",
+    "title": "Sliding Window Maximum",
+    "acceptance": "48.8%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/sliding-window-maximum"
+  },
+  {
+    "id": "146",
+    "title": "LRU Cache",
+    "acceptance": "47.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/lru-cache"
+  }
+]

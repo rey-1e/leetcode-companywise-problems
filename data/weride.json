@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1235",
+    "title": "Maximum Profit in Job Scheduling",
+    "acceptance": "54.7%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling"
+  },
+  {
+    "id": "3123",
+    "title": "Find Edges in Shortest Paths",
+    "acceptance": "46.7%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/find-edges-in-shortest-paths"
+  },
+  {
+    "id": "329",
+    "title": "Longest Increasing Path in a Matrix",
+    "acceptance": "56.6%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix"
+  },
+  {
+    "id": "2592",
+    "title": "Maximize Greatness of an Array",
+    "acceptance": "61.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximize-greatness-of-an-array"
+  },
+  {
+    "id": "778",
+    "title": "Swim in Rising Water",
+    "acceptance": "67.8%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/swim-in-rising-water"
+  },
+  {
+    "id": "68",
+    "title": "Text Justification",
+    "acceptance": "51.2%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/text-justification"
+  },
+  {
+    "id": "2791",
+    "title": "Count Paths That Can Form a Palindrome in a Tree",
+    "acceptance": "52.2%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree"
+  },
+  {
+    "id": "696",
+    "title": "Count Binary Substrings",
+    "acceptance": "70.4%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/count-binary-substrings"
+  },
+  {
+    "id": "353",
+    "title": "Design Snake Game",
+    "acceptance": "40.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/design-snake-game"
+  },
+  {
+    "id": "1559",
+    "title": "Detect Cycles in 2D Grid",
+    "acceptance": "63.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/detect-cycles-in-2d-grid"
+  }
+]

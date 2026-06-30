@@ -1,0 +1,72 @@
+[
+  {
+    "id": "349",
+    "title": "Intersection of Two Arrays",
+    "acceptance": "77.8%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/intersection-of-two-arrays"
+  },
+  {
+    "id": "733",
+    "title": "Flood Fill",
+    "acceptance": "68.3%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/flood-fill"
+  },
+  {
+    "id": "383",
+    "title": "Ransom Note",
+    "acceptance": "66.0%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/ransom-note"
+  },
+  {
+    "id": "1",
+    "title": "Two Sum",
+    "acceptance": "57.5%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/two-sum"
+  },
+  {
+    "id": "33",
+    "title": "Search in Rotated Sorted Array",
+    "acceptance": "44.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array"
+  },
+  {
+    "id": "528",
+    "title": "Random Pick with Weight",
+    "acceptance": "49.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/random-pick-with-weight"
+  },
+  {
+    "id": "53",
+    "title": "Maximum Subarray",
+    "acceptance": "53.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-subarray"
+  },
+  {
+    "id": "350",
+    "title": "Intersection of Two Arrays II",
+    "acceptance": "59.9%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/intersection-of-two-arrays-ii"
+  },
+  {
+    "id": "20",
+    "title": "Valid Parentheses",
+    "acceptance": "44.2%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/valid-parentheses"
+  },
+  {
+    "id": "645",
+    "title": "Set Mismatch",
+    "acceptance": "43.6%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/set-mismatch"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1407",
+    "title": "Top Travellers",
+    "acceptance": "57.3%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/top-travellers"
+  },
+  {
+    "id": "1294",
+    "title": "Weather Type in Each Country",
+    "acceptance": "67.1%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/weather-type-in-each-country"
+  },
+  {
+    "id": "1440",
+    "title": "Evaluate Boolean Expression",
+    "acceptance": "71.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/evaluate-boolean-expression"
+  },
+  {
+    "id": "1321",
+    "title": "Restaurant Growth",
+    "acceptance": "58.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/restaurant-growth"
+  },
+  {
+    "id": "1378",
+    "title": "Replace Employee ID With The Unique Identifier",
+    "acceptance": "83.5%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier"
+  },
+  {
+    "id": "2680",
+    "title": "Maximum OR",
+    "acceptance": "43.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-or"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "196",
+    "title": "Delete Duplicate Emails",
+    "acceptance": "66.0%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/delete-duplicate-emails"
+  },
+  {
+    "id": "3",
+    "title": "Longest Substring Without Repeating Characters",
+    "acceptance": "39.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+  },
+  {
+    "id": "49",
+    "title": "Group Anagrams",
+    "acceptance": "72.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/group-anagrams"
+  },
+  {
+    "id": "185",
+    "title": "Department Top Three Salaries",
+    "acceptance": "60.5%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/department-top-three-salaries"
+  },
+  {
+    "id": "1",
+    "title": "Two Sum",
+    "acceptance": "57.5%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/two-sum"
+  },
+  {
+    "id": "696",
+    "title": "Count Binary Substrings",
+    "acceptance": "70.4%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/count-binary-substrings"
+  },
+  {
+    "id": "1413",
+    "title": "Minimum Value to Get Positive Step by Step Sum",
+    "acceptance": "64.7%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum"
+  },
+  {
+    "id": "1328",
+    "title": "Break a Palindrome",
+    "acceptance": "51.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/break-a-palindrome"
+  },
+  {
+    "id": "20",
+    "title": "Valid Parentheses",
+    "acceptance": "44.2%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/valid-parentheses"
+  },
+  {
+    "id": "53",
+    "title": "Maximum Subarray",
+    "acceptance": "53.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-subarray"
+  }
+]

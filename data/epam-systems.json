@@ -1,0 +1,352 @@
+[
+  {
+    "id": "1",
+    "title": "Two Sum",
+    "acceptance": "57.5%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/two-sum"
+  },
+  {
+    "id": "2",
+    "title": "Add Two Numbers",
+    "acceptance": "48.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/add-two-numbers"
+  },
+  {
+    "id": "3",
+    "title": "Longest Substring Without Repeating Characters",
+    "acceptance": "39.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+  },
+  {
+    "id": "5",
+    "title": "Longest Palindromic Substring",
+    "acceptance": "37.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring"
+  },
+  {
+    "id": "9",
+    "title": "Palindrome Number",
+    "acceptance": "60.6%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/palindrome-number"
+  },
+  {
+    "id": "15",
+    "title": "3Sum",
+    "acceptance": "39.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/3sum"
+  },
+  {
+    "id": "20",
+    "title": "Valid Parentheses",
+    "acceptance": "44.2%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/valid-parentheses"
+  },
+  {
+    "id": "42",
+    "title": "Trapping Rain Water",
+    "acceptance": "67.4%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/trapping-rain-water"
+  },
+  {
+    "id": "49",
+    "title": "Group Anagrams",
+    "acceptance": "72.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/group-anagrams"
+  },
+  {
+    "id": "88",
+    "title": "Merge Sorted Array",
+    "acceptance": "54.9%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/merge-sorted-array"
+  },
+  {
+    "id": "2033",
+    "title": "Minimum Operations to Make a Uni-Value Grid",
+    "acceptance": "70.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid"
+  },
+  {
+    "id": "121",
+    "title": "Best Time to Buy and Sell Stock",
+    "acceptance": "56.8%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+  },
+  {
+    "id": "735",
+    "title": "Asteroid Collision",
+    "acceptance": "47.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/asteroid-collision"
+  },
+  {
+    "id": "242",
+    "title": "Valid Anagram",
+    "acceptance": "68.1%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/valid-anagram"
+  },
+  {
+    "id": "322",
+    "title": "Coin Change",
+    "acceptance": "48.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/coin-change"
+  },
+  {
+    "id": "198",
+    "title": "House Robber",
+    "acceptance": "53.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/house-robber"
+  },
+  {
+    "id": "416",
+    "title": "Partition Equal Subset Sum",
+    "acceptance": "49.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/partition-equal-subset-sum"
+  },
+  {
+    "id": "14",
+    "title": "Longest Common Prefix",
+    "acceptance": "47.6%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/longest-common-prefix"
+  },
+  {
+    "id": "1026",
+    "title": "Maximum Difference Between Node and Ancestor",
+    "acceptance": "78.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-difference-between-node-and-ancestor"
+  },
+  {
+    "id": "7",
+    "title": "Reverse Integer",
+    "acceptance": "31.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/reverse-integer"
+  },
+  {
+    "id": "128",
+    "title": "Longest Consecutive Sequence",
+    "acceptance": "47.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-consecutive-sequence"
+  },
+  {
+    "id": "443",
+    "title": "String Compression",
+    "acceptance": "60.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/string-compression"
+  },
+  {
+    "id": "189",
+    "title": "Rotate Array",
+    "acceptance": "44.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/rotate-array"
+  },
+  {
+    "id": "344",
+    "title": "Reverse String",
+    "acceptance": "80.8%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/reverse-string"
+  },
+  {
+    "id": "387",
+    "title": "First Unique Character in a String",
+    "acceptance": "65.5%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/first-unique-character-in-a-string"
+  },
+  {
+    "id": "167",
+    "title": "Two Sum II - Input Array Is Sorted",
+    "acceptance": "65.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted"
+  },
+  {
+    "id": "50",
+    "title": "Pow(x, n)",
+    "acceptance": "38.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/powx-n"
+  },
+  {
+    "id": "56",
+    "title": "Merge Intervals",
+    "acceptance": "51.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/merge-intervals"
+  },
+  {
+    "id": "182",
+    "title": "Duplicate Emails",
+    "acceptance": "73.8%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/duplicate-emails"
+  },
+  {
+    "id": "22",
+    "title": "Generate Parentheses",
+    "acceptance": "78.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/generate-parentheses"
+  },
+  {
+    "id": "345",
+    "title": "Reverse Vowels of a String",
+    "acceptance": "61.3%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/reverse-vowels-of-a-string"
+  },
+  {
+    "id": "1907",
+    "title": "Count Salary Categories",
+    "acceptance": "64.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/count-salary-categories"
+  },
+  {
+    "id": "43",
+    "title": "Multiply Strings",
+    "acceptance": "44.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/multiply-strings"
+  },
+  {
+    "id": "26",
+    "title": "Remove Duplicates from Sorted Array",
+    "acceptance": "62.8%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array"
+  },
+  {
+    "id": "53",
+    "title": "Maximum Subarray",
+    "acceptance": "53.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-subarray"
+  },
+  {
+    "id": "151",
+    "title": "Reverse Words in a String",
+    "acceptance": "56.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/reverse-words-in-a-string"
+  },
+  {
+    "id": "62",
+    "title": "Unique Paths",
+    "acceptance": "66.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/unique-paths"
+  },
+  {
+    "id": "72",
+    "title": "Edit Distance",
+    "acceptance": "60.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/edit-distance"
+  },
+  {
+    "id": "13",
+    "title": "Roman to Integer",
+    "acceptance": "66.6%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/roman-to-integer"
+  },
+  {
+    "id": "2620",
+    "title": "Counter",
+    "acceptance": "82.4%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/counter"
+  },
+  {
+    "id": "206",
+    "title": "Reverse Linked List",
+    "acceptance": "80.6%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/reverse-linked-list"
+  },
+  {
+    "id": "283",
+    "title": "Move Zeroes",
+    "acceptance": "63.8%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/move-zeroes"
+  },
+  {
+    "id": "451",
+    "title": "Sort Characters By Frequency",
+    "acceptance": "75.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/sort-characters-by-frequency"
+  },
+  {
+    "id": "347",
+    "title": "Top K Frequent Elements",
+    "acceptance": "66.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements"
+  },
+  {
+    "id": "215",
+    "title": "Kth Largest Element in an Array",
+    "acceptance": "68.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array"
+  },
+  {
+    "id": "41",
+    "title": "First Missing Positive",
+    "acceptance": "42.9%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/first-missing-positive"
+  },
+  {
+    "id": "4",
+    "title": "Median of Two Sorted Arrays",
+    "acceptance": "46.6%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays"
+  },
+  {
+    "id": "21",
+    "title": "Merge Two Sorted Lists",
+    "acceptance": "68.3%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists"
+  },
+  {
+    "id": "146",
+    "title": "LRU Cache",
+    "acceptance": "47.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/lru-cache"
+  },
+  {
+    "id": "54",
+    "title": "Spiral Matrix",
+    "acceptance": "56.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/spiral-matrix"
+  }
+]

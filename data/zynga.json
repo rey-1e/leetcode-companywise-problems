@@ -1,0 +1,16 @@
+[
+  {
+    "id": "206",
+    "title": "Reverse Linked List",
+    "acceptance": "80.6%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/reverse-linked-list"
+  },
+  {
+    "id": "692",
+    "title": "Top K Frequent Words",
+    "acceptance": "60.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/top-k-frequent-words"
+  }
+]

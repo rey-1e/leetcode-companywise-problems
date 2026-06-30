@@ -1,0 +1,93 @@
+[
+  {
+    "id": "1475",
+    "title": "Final Prices With a Special Discount in a Shop",
+    "acceptance": "84.1%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop"
+  },
+  {
+    "id": "931",
+    "title": "Minimum Falling Path Sum",
+    "acceptance": "60.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-falling-path-sum"
+  },
+  {
+    "id": "1642",
+    "title": "Furthest Building You Can Reach",
+    "acceptance": "50.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/furthest-building-you-can-reach"
+  },
+  {
+    "id": "134",
+    "title": "Gas Station",
+    "acceptance": "48.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/gas-station"
+  },
+  {
+    "id": "15",
+    "title": "3Sum",
+    "acceptance": "39.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/3sum"
+  },
+  {
+    "id": "2222",
+    "title": "Number of Ways to Select Buildings",
+    "acceptance": "50.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/number-of-ways-to-select-buildings"
+  },
+  {
+    "id": "1526",
+    "title": "Minimum Number of Increments on Subarrays to Form a Target Array",
+    "acceptance": "78.2%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array"
+  },
+  {
+    "id": "416",
+    "title": "Partition Equal Subset Sum",
+    "acceptance": "49.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/partition-equal-subset-sum"
+  },
+  {
+    "id": "735",
+    "title": "Asteroid Collision",
+    "acceptance": "47.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/asteroid-collision"
+  },
+  {
+    "id": "3",
+    "title": "Longest Substring Without Repeating Characters",
+    "acceptance": "39.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+  },
+  {
+    "id": "994",
+    "title": "Rotting Oranges",
+    "acceptance": "58.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/rotting-oranges"
+  },
+  {
+    "id": "16",
+    "title": "3Sum Closest",
+    "acceptance": "48.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/3sum-closest"
+  },
+  {
+    "id": "11",
+    "title": "Container With Most Water",
+    "acceptance": "60.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/container-with-most-water"
+  }
+]

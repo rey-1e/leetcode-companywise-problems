@@ -1,0 +1,44 @@
+[
+  {
+    "id": "540",
+    "title": "Single Element in a Sorted Array",
+    "acceptance": "59.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/single-element-in-a-sorted-array"
+  },
+  {
+    "id": "53",
+    "title": "Maximum Subarray",
+    "acceptance": "53.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-subarray"
+  },
+  {
+    "id": "239",
+    "title": "Sliding Window Maximum",
+    "acceptance": "48.8%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/sliding-window-maximum"
+  },
+  {
+    "id": "2385",
+    "title": "Amount of Time for Binary Tree to Be Infected",
+    "acceptance": "65.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected"
+  },
+  {
+    "id": "49",
+    "title": "Group Anagrams",
+    "acceptance": "72.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/group-anagrams"
+  },
+  {
+    "id": "1626",
+    "title": "Best Team With No Conflicts",
+    "acceptance": "50.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/best-team-with-no-conflicts"
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "id": "1",
+    "title": "Two Sum",
+    "acceptance": "57.5%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/two-sum"
+  },
+  {
+    "id": "4",
+    "title": "Median of Two Sorted Arrays",
+    "acceptance": "46.6%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays"
+  },
+  {
+    "id": "17",
+    "title": "Letter Combinations of a Phone Number",
+    "acceptance": "66.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number"
+  },
+  {
+    "id": "1001",
+    "title": "Grid Illumination",
+    "acceptance": "39.3%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/grid-illumination"
+  },
+  {
+    "id": "609",
+    "title": "Find Duplicate File in System",
+    "acceptance": "67.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/find-duplicate-file-in-system"
+  },
+  {
+    "id": "2043",
+    "title": "Simple Bank System",
+    "acceptance": "69.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/simple-bank-system"
+  },
+  {
+    "id": "140",
+    "title": "Word Break II",
+    "acceptance": "55.6%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/word-break-ii"
+  },
+  {
+    "id": "1236",
+    "title": "Web Crawler",
+    "acceptance": "68.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/web-crawler"
+  },
+  {
+    "id": "1178",
+    "title": "Number of Valid Words for Each Puzzle",
+    "acceptance": "47.8%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/number-of-valid-words-for-each-puzzle"
+  },
+  {
+    "id": "290",
+    "title": "Word Pattern",
+    "acceptance": "44.1%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/word-pattern"
+  },
+  {
+    "id": "289",
+    "title": "Game of Life",
+    "acceptance": "72.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/game-of-life"
+  },
+  {
+    "id": "291",
+    "title": "Word Pattern II",
+    "acceptance": "48.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/word-pattern-ii"
+  },
+  {
+    "id": "2296",
+    "title": "Design a Text Editor",
+    "acceptance": "50.7%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/design-a-text-editor"
+  },
+  {
+    "id": "1242",
+    "title": "Web Crawler Multithreaded",
+    "acceptance": "51.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/web-crawler-multithreaded"
+  },
+  {
+    "id": "1250",
+    "title": "Check If It Is a Good Array",
+    "acceptance": "65.0%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/check-if-it-is-a-good-array"
+  },
+  {
+    "id": "362",
+    "title": "Design Hit Counter",
+    "acceptance": "69.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/design-hit-counter"
+  },
+  {
+    "id": "1845",
+    "title": "Seat Reservation Manager",
+    "acceptance": "67.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/seat-reservation-manager"
+  },
+  {
+    "id": "924",
+    "title": "Minimize Malware Spread",
+    "acceptance": "43.2%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/minimize-malware-spread"
+  },
+  {
+    "id": "928",
+    "title": "Minimize Malware Spread II",
+    "acceptance": "45.6%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/minimize-malware-spread-ii"
+  },
+  {
+    "id": "56",
+    "title": "Merge Intervals",
+    "acceptance": "51.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/merge-intervals"
+  },
+  {
+    "id": "843",
+    "title": "Guess the Word",
+    "acceptance": "36.7%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/guess-the-word"
+  },
+  {
+    "id": "135",
+    "title": "Candy",
+    "acceptance": "48.5%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/candy"
+  }
+]

@@ -1,0 +1,303 @@
+[
+  {
+    "id": "2858",
+    "title": "Minimum Edge Reversals So Every Node Is Reachable",
+    "acceptance": "59.5%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable"
+  },
+  {
+    "id": "2930",
+    "title": "Number of Strings Which Can Be Rearranged to Contain Substring",
+    "acceptance": "57.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/number-of-strings-which-can-be-rearranged-to-contain-substring"
+  },
+  {
+    "id": "2959",
+    "title": "Number of Possible Sets of Closing Branches",
+    "acceptance": "51.0%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/number-of-possible-sets-of-closing-branches"
+  },
+  {
+    "id": "2953",
+    "title": "Count Complete Substrings",
+    "acceptance": "30.4%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/count-complete-substrings"
+  },
+  {
+    "id": "1326",
+    "title": "Minimum Number of Taps to Open to Water a Garden",
+    "acceptance": "51.0%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden"
+  },
+  {
+    "id": "740",
+    "title": "Delete and Earn",
+    "acceptance": "57.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/delete-and-earn"
+  },
+  {
+    "id": "2742",
+    "title": "Painting the Walls",
+    "acceptance": "49.1%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/painting-the-walls"
+  },
+  {
+    "id": "2771",
+    "title": "Longest Non-decreasing Subarray From Two Arrays",
+    "acceptance": "31.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays"
+  },
+  {
+    "id": "55",
+    "title": "Jump Game",
+    "acceptance": "40.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/jump-game"
+  },
+  {
+    "id": "1",
+    "title": "Two Sum",
+    "acceptance": "57.5%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/two-sum"
+  },
+  {
+    "id": "1268",
+    "title": "Search Suggestions System",
+    "acceptance": "65.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/search-suggestions-system"
+  },
+  {
+    "id": "180",
+    "title": "Consecutive Numbers",
+    "acceptance": "48.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/consecutive-numbers"
+  },
+  {
+    "id": "2444",
+    "title": "Count Subarrays With Fixed Bounds",
+    "acceptance": "69.2%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/count-subarrays-with-fixed-bounds"
+  },
+  {
+    "id": "176",
+    "title": "Second Highest Salary",
+    "acceptance": "47.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/second-highest-salary"
+  },
+  {
+    "id": "2187",
+    "title": "Minimum Time to Complete Trips",
+    "acceptance": "39.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-time-to-complete-trips"
+  },
+  {
+    "id": "1639",
+    "title": "Number of Ways to Form a Target String Given a Dictionary",
+    "acceptance": "56.5%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary"
+  },
+  {
+    "id": "735",
+    "title": "Asteroid Collision",
+    "acceptance": "47.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/asteroid-collision"
+  },
+  {
+    "id": "1944",
+    "title": "Number of Visible People in a Queue",
+    "acceptance": "73.1%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/number-of-visible-people-in-a-queue"
+  },
+  {
+    "id": "355",
+    "title": "Design Twitter",
+    "acceptance": "44.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/design-twitter"
+  },
+  {
+    "id": "696",
+    "title": "Count Binary Substrings",
+    "acceptance": "70.4%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/count-binary-substrings"
+  },
+  {
+    "id": "200",
+    "title": "Number of Islands",
+    "acceptance": "64.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/number-of-islands"
+  },
+  {
+    "id": "3513",
+    "title": "Number of Unique XOR Triplets I",
+    "acceptance": "26.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/number-of-unique-xor-triplets-i"
+  },
+  {
+    "id": "3514",
+    "title": "Number of Unique XOR Triplets II",
+    "acceptance": "32.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/number-of-unique-xor-triplets-ii"
+  },
+  {
+    "id": "31",
+    "title": "Next Permutation",
+    "acceptance": "45.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/next-permutation"
+  },
+  {
+    "id": "328",
+    "title": "Odd Even Linked List",
+    "acceptance": "62.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/odd-even-linked-list"
+  },
+  {
+    "id": "886",
+    "title": "Possible Bipartition",
+    "acceptance": "52.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/possible-bipartition"
+  },
+  {
+    "id": "15",
+    "title": "3Sum",
+    "acceptance": "39.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/3sum"
+  },
+  {
+    "id": "2603",
+    "title": "Collect Coins in a Tree",
+    "acceptance": "40.1%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/collect-coins-in-a-tree"
+  },
+  {
+    "id": "754",
+    "title": "Reach a Number",
+    "acceptance": "45.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/reach-a-number"
+  },
+  {
+    "id": "295",
+    "title": "Find Median from Data Stream",
+    "acceptance": "54.5%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream"
+  },
+  {
+    "id": "197",
+    "title": "Rising Temperature",
+    "acceptance": "51.3%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/rising-temperature"
+  },
+  {
+    "id": "805",
+    "title": "Split Array With Same Average",
+    "acceptance": "27.0%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/split-array-with-same-average"
+  },
+  {
+    "id": "626",
+    "title": "Exchange Seats",
+    "acceptance": "74.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/exchange-seats"
+  },
+  {
+    "id": "584",
+    "title": "Find Customer Referee",
+    "acceptance": "72.9%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/find-customer-referee"
+  },
+  {
+    "id": "2751",
+    "title": "Robot Collisions",
+    "acceptance": "61.6%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/robot-collisions"
+  },
+  {
+    "id": "76",
+    "title": "Minimum Window Substring",
+    "acceptance": "47.5%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/minimum-window-substring"
+  },
+  {
+    "id": "3709",
+    "title": "Design Exam Scores Tracker",
+    "acceptance": "44.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/design-exam-scores-tracker"
+  },
+  {
+    "id": "3715",
+    "title": "Sum of Perfect Square Ancestors",
+    "acceptance": "42.7%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/sum-of-perfect-square-ancestors"
+  },
+  {
+    "id": "587",
+    "title": "Erect the Fence",
+    "acceptance": "53.0%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/erect-the-fence"
+  },
+  {
+    "id": "149",
+    "title": "Max Points on a Line",
+    "acceptance": "30.7%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/max-points-on-a-line"
+  },
+  {
+    "id": "115",
+    "title": "Distinct Subsequences",
+    "acceptance": "51.9%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/distinct-subsequences"
+  },
+  {
+    "id": "1235",
+    "title": "Maximum Profit in Job Scheduling",
+    "acceptance": "54.7%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling"
+  },
+  {
+    "id": "53",
+    "title": "Maximum Subarray",
+    "acceptance": "53.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-subarray"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "3206",
+    "title": "Alternating Groups I",
+    "acceptance": "69.1%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/alternating-groups-i"
+  },
+  {
+    "id": "3208",
+    "title": "Alternating Groups II",
+    "acceptance": "60.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/alternating-groups-ii"
+  },
+  {
+    "id": "68",
+    "title": "Text Justification",
+    "acceptance": "51.2%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/text-justification"
+  },
+  {
+    "id": "3006",
+    "title": "Find Beautiful Indices in the Given Array I",
+    "acceptance": "40.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i"
+  },
+  {
+    "id": "36",
+    "title": "Valid Sudoku",
+    "acceptance": "64.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/valid-sudoku"
+  }
+]

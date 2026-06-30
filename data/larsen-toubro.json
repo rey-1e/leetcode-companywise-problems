@@ -1,0 +1,16 @@
+[
+  {
+    "id": "3079",
+    "title": "Find the Sum of Encrypted Integers",
+    "acceptance": "74.9%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/find-the-sum-of-encrypted-integers"
+  },
+  {
+    "id": "3105",
+    "title": "Longest Strictly Increasing or Strictly Decreasing Subarray",
+    "acceptance": "64.9%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray"
+  }
+]

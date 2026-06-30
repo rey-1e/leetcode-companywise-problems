@@ -1,0 +1,44 @@
+[
+  {
+    "id": "54",
+    "title": "Spiral Matrix",
+    "acceptance": "56.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/spiral-matrix"
+  },
+  {
+    "id": "87",
+    "title": "Scramble String",
+    "acceptance": "44.6%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/scramble-string"
+  },
+  {
+    "id": "229",
+    "title": "Majority Element II",
+    "acceptance": "56.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/majority-element-ii"
+  },
+  {
+    "id": "2518",
+    "title": "Number of Great Partitions",
+    "acceptance": "33.6%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/number-of-great-partitions"
+  },
+  {
+    "id": "56",
+    "title": "Merge Intervals",
+    "acceptance": "51.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/merge-intervals"
+  },
+  {
+    "id": "969",
+    "title": "Pancake Sorting",
+    "acceptance": "71.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/pancake-sorting"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "882",
+    "title": "Reachable Nodes In Subdivided Graph",
+    "acceptance": "52.1%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/reachable-nodes-in-subdivided-graph"
+  },
+  {
+    "id": "410",
+    "title": "Split Array Largest Sum",
+    "acceptance": "60.4%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/split-array-largest-sum"
+  }
+]

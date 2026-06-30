@@ -1,0 +1,23 @@
+[
+  {
+    "id": "132",
+    "title": "Palindrome Partitioning II",
+    "acceptance": "37.1%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/palindrome-partitioning-ii"
+  },
+  {
+    "id": "131",
+    "title": "Palindrome Partitioning",
+    "acceptance": "74.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/palindrome-partitioning"
+  },
+  {
+    "id": "56",
+    "title": "Merge Intervals",
+    "acceptance": "51.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/merge-intervals"
+  }
+]

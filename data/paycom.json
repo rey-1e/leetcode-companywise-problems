@@ -1,0 +1,16 @@
+[
+  {
+    "id": "217",
+    "title": "Contains Duplicate",
+    "acceptance": "64.4%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/contains-duplicate"
+  },
+  {
+    "id": "1200",
+    "title": "Minimum Absolute Difference",
+    "acceptance": "75.1%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/minimum-absolute-difference"
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "id": "20",
+    "title": "Valid Parentheses",
+    "acceptance": "44.2%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/valid-parentheses"
+  },
+  {
+    "id": "49",
+    "title": "Group Anagrams",
+    "acceptance": "72.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/group-anagrams"
+  },
+  {
+    "id": "121",
+    "title": "Best Time to Buy and Sell Stock",
+    "acceptance": "56.8%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+  },
+  {
+    "id": "202",
+    "title": "Happy Number",
+    "acceptance": "59.7%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/happy-number"
+  },
+  {
+    "id": "2291",
+    "title": "Maximum Profit From Trading Stocks",
+    "acceptance": "48.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-profit-from-trading-stocks"
+  },
+  {
+    "id": "3004",
+    "title": "Maximum Subtree of the Same Color",
+    "acceptance": "58.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-subtree-of-the-same-color"
+  },
+  {
+    "id": "3068",
+    "title": "Find the Maximum Sum of Node Values",
+    "acceptance": "69.4%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/find-the-maximum-sum-of-node-values"
+  },
+  {
+    "id": "200",
+    "title": "Number of Islands",
+    "acceptance": "64.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/number-of-islands"
+  },
+  {
+    "id": "5",
+    "title": "Longest Palindromic Substring",
+    "acceptance": "37.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring"
+  },
+  {
+    "id": "1",
+    "title": "Two Sum",
+    "acceptance": "57.5%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/two-sum"
+  },
+  {
+    "id": "268",
+    "title": "Missing Number",
+    "acceptance": "72.0%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/missing-number"
+  },
+  {
+    "id": "70",
+    "title": "Climbing Stairs",
+    "acceptance": "54.1%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/climbing-stairs"
+  },
+  {
+    "id": "12",
+    "title": "Integer to Roman",
+    "acceptance": "71.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/integer-to-roman"
+  },
+  {
+    "id": "287",
+    "title": "Find the Duplicate Number",
+    "acceptance": "64.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/find-the-duplicate-number"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "7",
+    "title": "Reverse Integer",
+    "acceptance": "31.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/reverse-integer"
+  },
+  {
+    "id": "1755",
+    "title": "Closest Subsequence Sum",
+    "acceptance": "43.7%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/closest-subsequence-sum"
+  },
+  {
+    "id": "2747",
+    "title": "Count Zero Request Servers",
+    "acceptance": "35.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/count-zero-request-servers"
+  },
+  {
+    "id": "2271",
+    "title": "Maximum White Tiles Covered by a Carpet",
+    "acceptance": "35.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet"
+  },
+  {
+    "id": "509",
+    "title": "Fibonacci Number",
+    "acceptance": "74.1%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/fibonacci-number"
+  },
+  {
+    "id": "283",
+    "title": "Move Zeroes",
+    "acceptance": "63.8%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/move-zeroes"
+  },
+  {
+    "id": "125",
+    "title": "Valid Palindrome",
+    "acceptance": "53.3%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/valid-palindrome"
+  },
+  {
+    "id": "176",
+    "title": "Second Highest Salary",
+    "acceptance": "47.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/second-highest-salary"
+  }
+]

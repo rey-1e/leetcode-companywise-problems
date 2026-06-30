@@ -1,0 +1,65 @@
+[
+  {
+    "id": "780",
+    "title": "Reaching Points",
+    "acceptance": "34.4%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/reaching-points"
+  },
+  {
+    "id": "68",
+    "title": "Text Justification",
+    "acceptance": "51.2%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/text-justification"
+  },
+  {
+    "id": "920",
+    "title": "Number of Music Playlists",
+    "acceptance": "60.1%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/number-of-music-playlists"
+  },
+  {
+    "id": "1112",
+    "title": "Highest Grade For Each Student",
+    "acceptance": "71.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/highest-grade-for-each-student"
+  },
+  {
+    "id": "453",
+    "title": "Minimum Moves to Equal Array Elements",
+    "acceptance": "58.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements"
+  },
+  {
+    "id": "1366",
+    "title": "Rank Teams by Votes",
+    "acceptance": "60.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/rank-teams-by-votes"
+  },
+  {
+    "id": "1137",
+    "title": "N-th Tribonacci Number",
+    "acceptance": "63.2%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/n-th-tribonacci-number"
+  },
+  {
+    "id": "945",
+    "title": "Minimum Increment to Make Array Unique",
+    "acceptance": "60.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-increment-to-make-array-unique"
+  },
+  {
+    "id": "761",
+    "title": "Special Binary String",
+    "acceptance": "79.3%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/special-binary-string"
+  }
+]

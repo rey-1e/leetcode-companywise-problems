@@ -1,0 +1,16 @@
+[
+  {
+    "id": "452",
+    "title": "Minimum Number of Arrows to Burst Balloons",
+    "acceptance": "61.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons"
+  },
+  {
+    "id": "111",
+    "title": "Minimum Depth of Binary Tree",
+    "acceptance": "52.9%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/minimum-depth-of-binary-tree"
+  }
+]

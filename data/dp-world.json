@@ -1,0 +1,93 @@
+[
+  {
+    "id": "2747",
+    "title": "Count Zero Request Servers",
+    "acceptance": "35.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/count-zero-request-servers"
+  },
+  {
+    "id": "33",
+    "title": "Search in Rotated Sorted Array",
+    "acceptance": "44.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array"
+  },
+  {
+    "id": "1011",
+    "title": "Capacity To Ship Packages Within D Days",
+    "acceptance": "73.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days"
+  },
+  {
+    "id": "968",
+    "title": "Binary Tree Cameras",
+    "acceptance": "47.9%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/binary-tree-cameras"
+  },
+  {
+    "id": "757",
+    "title": "Set Intersection Size At Least Two",
+    "acceptance": "58.0%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/set-intersection-size-at-least-two"
+  },
+  {
+    "id": "49",
+    "title": "Group Anagrams",
+    "acceptance": "72.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/group-anagrams"
+  },
+  {
+    "id": "287",
+    "title": "Find the Duplicate Number",
+    "acceptance": "64.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/find-the-duplicate-number"
+  },
+  {
+    "id": "221",
+    "title": "Maximal Square",
+    "acceptance": "50.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximal-square"
+  },
+  {
+    "id": "3",
+    "title": "Longest Substring Without Repeating Characters",
+    "acceptance": "39.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+  },
+  {
+    "id": "5",
+    "title": "Longest Palindromic Substring",
+    "acceptance": "37.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring"
+  },
+  {
+    "id": "781",
+    "title": "Rabbits in Forest",
+    "acceptance": "58.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/rabbits-in-forest"
+  },
+  {
+    "id": "399",
+    "title": "Evaluate Division",
+    "acceptance": "64.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/evaluate-division"
+  },
+  {
+    "id": "76",
+    "title": "Minimum Window Substring",
+    "acceptance": "47.5%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/minimum-window-substring"
+  }
+]

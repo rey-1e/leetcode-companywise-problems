@@ -1,0 +1,23 @@
+[
+  {
+    "id": "8",
+    "title": "String to Integer (atoi)",
+    "acceptance": "21.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/string-to-integer-atoi"
+  },
+  {
+    "id": "1087",
+    "title": "Brace Expansion",
+    "acceptance": "66.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/brace-expansion"
+  },
+  {
+    "id": "287",
+    "title": "Find the Duplicate Number",
+    "acceptance": "64.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/find-the-duplicate-number"
+  }
+]

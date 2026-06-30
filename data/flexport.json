@@ -1,0 +1,72 @@
+[
+  {
+    "id": "729",
+    "title": "My Calendar I",
+    "acceptance": "58.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/my-calendar-i"
+  },
+  {
+    "id": "981",
+    "title": "Time Based Key-Value Store",
+    "acceptance": "49.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/time-based-key-value-store"
+  },
+  {
+    "id": "17",
+    "title": "Letter Combinations of a Phone Number",
+    "acceptance": "66.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number"
+  },
+  {
+    "id": "300",
+    "title": "Longest Increasing Subsequence",
+    "acceptance": "59.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-increasing-subsequence"
+  },
+  {
+    "id": "713",
+    "title": "Subarray Product Less Than K",
+    "acceptance": "54.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/subarray-product-less-than-k"
+  },
+  {
+    "id": "948",
+    "title": "Bag of Tokens",
+    "acceptance": "59.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/bag-of-tokens"
+  },
+  {
+    "id": "468",
+    "title": "Validate IP Address",
+    "acceptance": "28.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/validate-ip-address"
+  },
+  {
+    "id": "394",
+    "title": "Decode String",
+    "acceptance": "62.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/decode-string"
+  },
+  {
+    "id": "133",
+    "title": "Clone Graph",
+    "acceptance": "65.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/clone-graph"
+  },
+  {
+    "id": "299",
+    "title": "Bulls and Cows",
+    "acceptance": "52.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/bulls-and-cows"
+  }
+]

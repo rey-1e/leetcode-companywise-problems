@@ -1,0 +1,37 @@
+[
+  {
+    "id": "2560",
+    "title": "House Robber IV",
+    "acceptance": "64.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/house-robber-iv"
+  },
+  {
+    "id": "1695",
+    "title": "Maximum Erasure Value",
+    "acceptance": "64.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-erasure-value"
+  },
+  {
+    "id": "665",
+    "title": "Non-decreasing Array",
+    "acceptance": "25.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/non-decreasing-array"
+  },
+  {
+    "id": "658",
+    "title": "Find K Closest Elements",
+    "acceptance": "49.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/find-k-closest-elements"
+  },
+  {
+    "id": "2858",
+    "title": "Minimum Edge Reversals So Every Node Is Reachable",
+    "acceptance": "59.5%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable"
+  }
+]

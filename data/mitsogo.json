@@ -1,0 +1,114 @@
+[
+  {
+    "id": "3131",
+    "title": "Find the Integer Added to Array I",
+    "acceptance": "82.9%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/find-the-integer-added-to-array-i"
+  },
+  {
+    "id": "3132",
+    "title": "Find the Integer Added to Array II",
+    "acceptance": "33.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/find-the-integer-added-to-array-ii"
+  },
+  {
+    "id": "3144",
+    "title": "Minimum Substring Partition of Equal Character Frequency",
+    "acceptance": "40.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-substring-partition-of-equal-character-frequency"
+  },
+  {
+    "id": "3213",
+    "title": "Construct String with Minimum Cost",
+    "acceptance": "19.0%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/construct-string-with-minimum-cost"
+  },
+  {
+    "id": "3180",
+    "title": "Maximum Total Reward Using Operations I",
+    "acceptance": "30.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-total-reward-using-operations-i"
+  },
+  {
+    "id": "3181",
+    "title": "Maximum Total Reward Using Operations II",
+    "acceptance": "21.9%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/maximum-total-reward-using-operations-ii"
+  },
+  {
+    "id": "3097",
+    "title": "Shortest Subarray With OR at Least K II",
+    "acceptance": "50.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii"
+  },
+  {
+    "id": "3095",
+    "title": "Shortest Subarray With OR at Least K I",
+    "acceptance": "44.6%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i"
+  },
+  {
+    "id": "3128",
+    "title": "Right Triangles",
+    "acceptance": "48.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/right-triangles"
+  },
+  {
+    "id": "556",
+    "title": "Next Greater Element III",
+    "acceptance": "35.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/next-greater-element-iii"
+  },
+  {
+    "id": "2978",
+    "title": "Symmetric Coordinates",
+    "acceptance": "41.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/symmetric-coordinates"
+  },
+  {
+    "id": "118",
+    "title": "Pascal's Triangle",
+    "acceptance": "78.9%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/pascals-triangle"
+  },
+  {
+    "id": "6",
+    "title": "Zigzag Conversion",
+    "acceptance": "54.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/zigzag-conversion"
+  },
+  {
+    "id": "31",
+    "title": "Next Permutation",
+    "acceptance": "45.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/next-permutation"
+  },
+  {
+    "id": "20",
+    "title": "Valid Parentheses",
+    "acceptance": "44.2%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/valid-parentheses"
+  },
+  {
+    "id": "3837",
+    "title": "Delayed Count of Equal Elements",
+    "acceptance": "80.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/delayed-count-of-equal-elements"
+  }
+]

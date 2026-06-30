@@ -1,0 +1,51 @@
+[
+  {
+    "id": "1435",
+    "title": "Create a Session Bar Chart",
+    "acceptance": "74.4%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/create-a-session-bar-chart"
+  },
+  {
+    "id": "1500",
+    "title": "Design a File Sharing System",
+    "acceptance": "41.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/design-a-file-sharing-system"
+  },
+  {
+    "id": "1230",
+    "title": "Toss Strange Coins",
+    "acceptance": "58.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/toss-strange-coins"
+  },
+  {
+    "id": "146",
+    "title": "LRU Cache",
+    "acceptance": "47.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/lru-cache"
+  },
+  {
+    "id": "345",
+    "title": "Reverse Vowels of a String",
+    "acceptance": "61.3%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/reverse-vowels-of-a-string"
+  },
+  {
+    "id": "295",
+    "title": "Find Median from Data Stream",
+    "acceptance": "54.5%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream"
+  },
+  {
+    "id": "56",
+    "title": "Merge Intervals",
+    "acceptance": "51.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/merge-intervals"
+  }
+]

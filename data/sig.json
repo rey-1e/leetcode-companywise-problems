@@ -1,0 +1,72 @@
+[
+  {
+    "id": "68",
+    "title": "Text Justification",
+    "acceptance": "51.2%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/text-justification"
+  },
+  {
+    "id": "54",
+    "title": "Spiral Matrix",
+    "acceptance": "56.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/spiral-matrix"
+  },
+  {
+    "id": "3161",
+    "title": "Block Placement Queries",
+    "acceptance": "18.7%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/block-placement-queries"
+  },
+  {
+    "id": "2768",
+    "title": "Number of Black Blocks",
+    "acceptance": "41.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/number-of-black-blocks"
+  },
+  {
+    "id": "48",
+    "title": "Rotate Image",
+    "acceptance": "80.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/rotate-image"
+  },
+  {
+    "id": "1861",
+    "title": "Rotating the Box",
+    "acceptance": "82.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/rotating-the-box"
+  },
+  {
+    "id": "1743",
+    "title": "Restore the Array From Adjacent Pairs",
+    "acceptance": "75.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/restore-the-array-from-adjacent-pairs"
+  },
+  {
+    "id": "3043",
+    "title": "Find the Length of the Longest Common Prefix",
+    "acceptance": "62.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix"
+  },
+  {
+    "id": "2817",
+    "title": "Minimum Absolute Difference Between Elements With Constraint",
+    "acceptance": "37.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-absolute-difference-between-elements-with-constraint"
+  },
+  {
+    "id": "2502",
+    "title": "Design Memory Allocator",
+    "acceptance": "50.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/design-memory-allocator"
+  }
+]

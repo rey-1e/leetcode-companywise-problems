@@ -1,0 +1,65 @@
+[
+  {
+    "id": "754",
+    "title": "Reach a Number",
+    "acceptance": "45.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/reach-a-number"
+  },
+  {
+    "id": "763",
+    "title": "Partition Labels",
+    "acceptance": "81.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/partition-labels"
+  },
+  {
+    "id": "2398",
+    "title": "Maximum Number of Robots Within Budget",
+    "acceptance": "38.6%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/maximum-number-of-robots-within-budget"
+  },
+  {
+    "id": "684",
+    "title": "Redundant Connection",
+    "acceptance": "67.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/redundant-connection"
+  },
+  {
+    "id": "32",
+    "title": "Longest Valid Parentheses",
+    "acceptance": "38.8%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/longest-valid-parentheses"
+  },
+  {
+    "id": "42",
+    "title": "Trapping Rain Water",
+    "acceptance": "67.4%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/trapping-rain-water"
+  },
+  {
+    "id": "1377",
+    "title": "Frog Position After T Seconds",
+    "acceptance": "38.5%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/frog-position-after-t-seconds"
+  },
+  {
+    "id": "488",
+    "title": "Zuma Game",
+    "acceptance": "29.7%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/zuma-game"
+  },
+  {
+    "id": "664",
+    "title": "Strange Printer",
+    "acceptance": "60.9%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/strange-printer"
+  }
+]

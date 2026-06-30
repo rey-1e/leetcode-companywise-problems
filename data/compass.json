@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1023",
+    "title": "Camelcase Matching",
+    "acceptance": "65.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/camelcase-matching"
+  },
+  {
+    "id": "49",
+    "title": "Group Anagrams",
+    "acceptance": "72.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/group-anagrams"
+  },
+  {
+    "id": "572",
+    "title": "Subtree of Another Tree",
+    "acceptance": "51.6%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/subtree-of-another-tree"
+  },
+  {
+    "id": "2739",
+    "title": "Total Distance Traveled",
+    "acceptance": "41.4%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/total-distance-traveled"
+  },
+  {
+    "id": "981",
+    "title": "Time Based Key-Value Store",
+    "acceptance": "49.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/time-based-key-value-store"
+  },
+  {
+    "id": "394",
+    "title": "Decode String",
+    "acceptance": "62.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/decode-string"
+  },
+  {
+    "id": "332",
+    "title": "Reconstruct Itinerary",
+    "acceptance": "44.6%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/reconstruct-itinerary"
+  },
+  {
+    "id": "253",
+    "title": "Meeting Rooms II",
+    "acceptance": "52.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/meeting-rooms-ii"
+  }
+]

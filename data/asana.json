@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1668",
+    "title": "Maximum Repeating Substring",
+    "acceptance": "41.7%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/maximum-repeating-substring"
+  },
+  {
+    "id": "238",
+    "title": "Product of Array Except Self",
+    "acceptance": "68.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/product-of-array-except-self"
+  },
+  {
+    "id": "973",
+    "title": "K Closest Points to Origin",
+    "acceptance": "69.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/k-closest-points-to-origin"
+  },
+  {
+    "id": "3650",
+    "title": "Minimum Cost Path with Edge Reversals",
+    "acceptance": "61.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-cost-path-with-edge-reversals"
+  }
+]

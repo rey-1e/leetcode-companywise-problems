@@ -1,0 +1,16 @@
+[
+  {
+    "id": "3205",
+    "title": "Maximum Array Hopping Score I",
+    "acceptance": "76.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-array-hopping-score-i"
+  },
+  {
+    "id": "3221",
+    "title": "Maximum Array Hopping Score II",
+    "acceptance": "59.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-array-hopping-score-ii"
+  }
+]

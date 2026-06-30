@@ -1,0 +1,163 @@
+[
+  {
+    "id": "4",
+    "title": "Median of Two Sorted Arrays",
+    "acceptance": "46.6%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays"
+  },
+  {
+    "id": "399",
+    "title": "Evaluate Division",
+    "acceptance": "64.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/evaluate-division"
+  },
+  {
+    "id": "1258",
+    "title": "Synonymous Sentences",
+    "acceptance": "57.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/synonymous-sentences"
+  },
+  {
+    "id": "631",
+    "title": "Design Excel Sum Formula",
+    "acceptance": "39.7%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/design-excel-sum-formula"
+  },
+  {
+    "id": "1046",
+    "title": "Last Stone Weight",
+    "acceptance": "66.5%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/last-stone-weight"
+  },
+  {
+    "id": "465",
+    "title": "Optimal Account Balancing",
+    "acceptance": "50.5%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/optimal-account-balancing"
+  },
+  {
+    "id": "1944",
+    "title": "Number of Visible People in a Queue",
+    "acceptance": "73.1%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/number-of-visible-people-in-a-queue"
+  },
+  {
+    "id": "721",
+    "title": "Accounts Merge",
+    "acceptance": "61.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/accounts-merge"
+  },
+  {
+    "id": "460",
+    "title": "LFU Cache",
+    "acceptance": "49.2%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/lfu-cache"
+  },
+  {
+    "id": "21",
+    "title": "Merge Two Sorted Lists",
+    "acceptance": "68.3%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists"
+  },
+  {
+    "id": "3484",
+    "title": "Design Spreadsheet",
+    "acceptance": "74.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/design-spreadsheet"
+  },
+  {
+    "id": "3387",
+    "title": "Maximize Amount After Two Days of Conversions",
+    "acceptance": "61.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximize-amount-after-two-days-of-conversions"
+  },
+  {
+    "id": "2939",
+    "title": "Maximum Xor Product",
+    "acceptance": "29.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-xor-product"
+  },
+  {
+    "id": "1326",
+    "title": "Minimum Number of Taps to Open to Water a Garden",
+    "acceptance": "51.0%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden"
+  },
+  {
+    "id": "1396",
+    "title": "Design Underground System",
+    "acceptance": "74.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/design-underground-system"
+  },
+  {
+    "id": "23",
+    "title": "Merge k Sorted Lists",
+    "acceptance": "59.6%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists"
+  },
+  {
+    "id": "347",
+    "title": "Top K Frequent Elements",
+    "acceptance": "66.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements"
+  },
+  {
+    "id": "737",
+    "title": "Sentence Similarity II",
+    "acceptance": "51.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/sentence-similarity-ii"
+  },
+  {
+    "id": "692",
+    "title": "Top K Frequent Words",
+    "acceptance": "60.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/top-k-frequent-words"
+  },
+  {
+    "id": "146",
+    "title": "LRU Cache",
+    "acceptance": "47.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/lru-cache"
+  },
+  {
+    "id": "56",
+    "title": "Merge Intervals",
+    "acceptance": "51.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/merge-intervals"
+  },
+  {
+    "id": "2296",
+    "title": "Design a Text Editor",
+    "acceptance": "50.7%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/design-a-text-editor"
+  },
+  {
+    "id": "3",
+    "title": "Longest Substring Without Repeating Characters",
+    "acceptance": "39.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+  }
+]

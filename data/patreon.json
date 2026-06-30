@@ -1,0 +1,30 @@
+[
+  {
+    "id": "71",
+    "title": "Simplify Path",
+    "acceptance": "50.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/simplify-path"
+  },
+  {
+    "id": "359",
+    "title": "Logger Rate Limiter",
+    "acceptance": "76.8%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/logger-rate-limiter"
+  },
+  {
+    "id": "56",
+    "title": "Merge Intervals",
+    "acceptance": "51.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/merge-intervals"
+  },
+  {
+    "id": "243",
+    "title": "Shortest Word Distance",
+    "acceptance": "66.3%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/shortest-word-distance"
+  }
+]

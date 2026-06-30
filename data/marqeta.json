@@ -1,0 +1,16 @@
+[
+  {
+    "id": "146",
+    "title": "LRU Cache",
+    "acceptance": "47.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/lru-cache"
+  },
+  {
+    "id": "705",
+    "title": "Design HashSet",
+    "acceptance": "68.0%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/design-hashset"
+  }
+]

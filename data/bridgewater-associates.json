@@ -1,0 +1,16 @@
+[
+  {
+    "id": "2393",
+    "title": "Count Strictly Increasing Subarrays",
+    "acceptance": "71.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/count-strictly-increasing-subarrays"
+  },
+  {
+    "id": "935",
+    "title": "Knight Dialer",
+    "acceptance": "61.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/knight-dialer"
+  }
+]

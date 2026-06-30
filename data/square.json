@@ -1,0 +1,86 @@
+[
+  {
+    "id": "999",
+    "title": "Available Captures for Rook",
+    "acceptance": "71.8%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/available-captures-for-rook"
+  },
+  {
+    "id": "573",
+    "title": "Squirrel Simulation",
+    "acceptance": "57.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/squirrel-simulation"
+  },
+  {
+    "id": "2069",
+    "title": "Walking Robot Simulation II",
+    "acceptance": "43.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/walking-robot-simulation-ii"
+  },
+  {
+    "id": "139",
+    "title": "Word Break",
+    "acceptance": "49.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/word-break"
+  },
+  {
+    "id": "699",
+    "title": "Falling Squares",
+    "acceptance": "47.8%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/falling-squares"
+  },
+  {
+    "id": "2768",
+    "title": "Number of Black Blocks",
+    "acceptance": "41.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/number-of-black-blocks"
+  },
+  {
+    "id": "1814",
+    "title": "Count Nice Pairs in an Array",
+    "acceptance": "48.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/count-nice-pairs-in-an-array"
+  },
+  {
+    "id": "1861",
+    "title": "Rotating the Box",
+    "acceptance": "82.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/rotating-the-box"
+  },
+  {
+    "id": "490",
+    "title": "The Maze",
+    "acceptance": "60.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/the-maze"
+  },
+  {
+    "id": "969",
+    "title": "Pancake Sorting",
+    "acceptance": "71.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/pancake-sorting"
+  },
+  {
+    "id": "300",
+    "title": "Longest Increasing Subsequence",
+    "acceptance": "59.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-increasing-subsequence"
+  },
+  {
+    "id": "271",
+    "title": "Encode and Decode Strings",
+    "acceptance": "51.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/encode-and-decode-strings"
+  }
+]

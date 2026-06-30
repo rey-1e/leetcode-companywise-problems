@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1694",
+    "title": "Reformat Phone Number",
+    "acceptance": "67.7%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/reformat-phone-number"
+  },
+  {
+    "id": "394",
+    "title": "Decode String",
+    "acceptance": "62.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/decode-string"
+  },
+  {
+    "id": "2964",
+    "title": "Number of Divisible Triplet Sums",
+    "acceptance": "67.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/number-of-divisible-triplet-sums"
+  }
+]

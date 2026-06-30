@@ -1,0 +1,107 @@
+[
+  {
+    "id": "71",
+    "title": "Simplify Path",
+    "acceptance": "50.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/simplify-path"
+  },
+  {
+    "id": "631",
+    "title": "Design Excel Sum Formula",
+    "acceptance": "39.7%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/design-excel-sum-formula"
+  },
+  {
+    "id": "1242",
+    "title": "Web Crawler Multithreaded",
+    "acceptance": "51.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/web-crawler-multithreaded"
+  },
+  {
+    "id": "2408",
+    "title": "Design SQL",
+    "acceptance": "64.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/design-sql"
+  },
+  {
+    "id": "981",
+    "title": "Time Based Key-Value Store",
+    "acceptance": "49.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/time-based-key-value-store"
+  },
+  {
+    "id": "341",
+    "title": "Flatten Nested List Iterator",
+    "acceptance": "65.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/flatten-nested-list-iterator"
+  },
+  {
+    "id": "271",
+    "title": "Encode and Decode Strings",
+    "acceptance": "51.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/encode-and-decode-strings"
+  },
+  {
+    "id": "2502",
+    "title": "Design Memory Allocator",
+    "acceptance": "50.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/design-memory-allocator"
+  },
+  {
+    "id": "2373",
+    "title": "Largest Local Values in a Matrix",
+    "acceptance": "87.7%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/largest-local-values-in-a-matrix"
+  },
+  {
+    "id": "735",
+    "title": "Asteroid Collision",
+    "acceptance": "47.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/asteroid-collision"
+  },
+  {
+    "id": "751",
+    "title": "IP to CIDR",
+    "acceptance": "53.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/ip-to-cidr"
+  },
+  {
+    "id": "42",
+    "title": "Trapping Rain Water",
+    "acceptance": "67.4%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/trapping-rain-water"
+  },
+  {
+    "id": "3484",
+    "title": "Design Spreadsheet",
+    "acceptance": "74.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/design-spreadsheet"
+  },
+  {
+    "id": "994",
+    "title": "Rotting Oranges",
+    "acceptance": "58.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/rotting-oranges"
+  },
+  {
+    "id": "362",
+    "title": "Design Hit Counter",
+    "acceptance": "69.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/design-hit-counter"
+  }
+]

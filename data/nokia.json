@@ -1,0 +1,51 @@
+[
+  {
+    "id": "146",
+    "title": "LRU Cache",
+    "acceptance": "47.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/lru-cache"
+  },
+  {
+    "id": "2144",
+    "title": "Minimum Cost of Buying Candies With Discount",
+    "acceptance": "62.9%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount"
+  },
+  {
+    "id": "1250",
+    "title": "Check If It Is a Good Array",
+    "acceptance": "65.0%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/check-if-it-is-a-good-array"
+  },
+  {
+    "id": "204",
+    "title": "Count Primes",
+    "acceptance": "36.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/count-primes"
+  },
+  {
+    "id": "14",
+    "title": "Longest Common Prefix",
+    "acceptance": "47.6%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/longest-common-prefix"
+  },
+  {
+    "id": "242",
+    "title": "Valid Anagram",
+    "acceptance": "68.1%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/valid-anagram"
+  },
+  {
+    "id": "20",
+    "title": "Valid Parentheses",
+    "acceptance": "44.2%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/valid-parentheses"
+  }
+]

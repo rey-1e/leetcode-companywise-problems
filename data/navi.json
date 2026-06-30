@@ -1,0 +1,23 @@
+[
+  {
+    "id": "2616",
+    "title": "Minimize the Maximum Difference of Pairs",
+    "acceptance": "51.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs"
+  },
+  {
+    "id": "42",
+    "title": "Trapping Rain Water",
+    "acceptance": "67.4%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/trapping-rain-water"
+  },
+  {
+    "id": "55",
+    "title": "Jump Game",
+    "acceptance": "40.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/jump-game"
+  }
+]

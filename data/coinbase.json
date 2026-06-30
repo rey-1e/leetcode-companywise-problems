@@ -1,0 +1,86 @@
+[
+  {
+    "id": "281",
+    "title": "Zigzag Iterator",
+    "acceptance": "67.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/zigzag-iterator"
+  },
+  {
+    "id": "68",
+    "title": "Text Justification",
+    "acceptance": "51.2%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/text-justification"
+  },
+  {
+    "id": "588",
+    "title": "Design In-Memory File System",
+    "acceptance": "48.4%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/design-in-memory-file-system"
+  },
+  {
+    "id": "1166",
+    "title": "Design File System",
+    "acceptance": "65.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/design-file-system"
+  },
+  {
+    "id": "2325",
+    "title": "Decode the Message",
+    "acceptance": "85.8%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/decode-the-message"
+  },
+  {
+    "id": "2043",
+    "title": "Simple Bank System",
+    "acceptance": "69.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/simple-bank-system"
+  },
+  {
+    "id": "981",
+    "title": "Time Based Key-Value Store",
+    "acceptance": "49.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/time-based-key-value-store"
+  },
+  {
+    "id": "3043",
+    "title": "Find the Length of the Longest Common Prefix",
+    "acceptance": "62.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix"
+  },
+  {
+    "id": "528",
+    "title": "Random Pick with Weight",
+    "acceptance": "49.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/random-pick-with-weight"
+  },
+  {
+    "id": "121",
+    "title": "Best Time to Buy and Sell Stock",
+    "acceptance": "56.8%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+  },
+  {
+    "id": "622",
+    "title": "Design Circular Queue",
+    "acceptance": "54.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/design-circular-queue"
+  },
+  {
+    "id": "210",
+    "title": "Course Schedule II",
+    "acceptance": "55.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/course-schedule-ii"
+  }
+]

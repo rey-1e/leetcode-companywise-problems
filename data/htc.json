@@ -1,0 +1,37 @@
+[
+  {
+    "id": "787",
+    "title": "Cheapest Flights Within K Stops",
+    "acceptance": "41.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/cheapest-flights-within-k-stops"
+  },
+  {
+    "id": "1512",
+    "title": "Number of Good Pairs",
+    "acceptance": "89.8%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/number-of-good-pairs"
+  },
+  {
+    "id": "509",
+    "title": "Fibonacci Number",
+    "acceptance": "74.1%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/fibonacci-number"
+  },
+  {
+    "id": "118",
+    "title": "Pascal's Triangle",
+    "acceptance": "78.9%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/pascals-triangle"
+  },
+  {
+    "id": "605",
+    "title": "Can Place Flowers",
+    "acceptance": "29.1%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/can-place-flowers"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "id": "1",
+    "title": "Two Sum",
+    "acceptance": "57.5%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/two-sum"
+  },
+  {
+    "id": "3",
+    "title": "Longest Substring Without Repeating Characters",
+    "acceptance": "39.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+  },
+  {
+    "id": "1917",
+    "title": "Leetcodify Friends Recommendations",
+    "acceptance": "28.7%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/leetcodify-friends-recommendations"
+  },
+  {
+    "id": "1919",
+    "title": "Leetcodify Similar Friends",
+    "acceptance": "43.3%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/leetcodify-similar-friends"
+  },
+  {
+    "id": "20",
+    "title": "Valid Parentheses",
+    "acceptance": "44.2%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/valid-parentheses"
+  },
+  {
+    "id": "1152",
+    "title": "Analyze User Website Visit Pattern",
+    "acceptance": "44.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/analyze-user-website-visit-pattern"
+  },
+  {
+    "id": "215",
+    "title": "Kth Largest Element in an Array",
+    "acceptance": "68.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array"
+  },
+  {
+    "id": "346",
+    "title": "Moving Average from Data Stream",
+    "acceptance": "80.2%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/moving-average-from-data-stream"
+  },
+  {
+    "id": "383",
+    "title": "Ransom Note",
+    "acceptance": "66.0%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/ransom-note"
+  },
+  {
+    "id": "286",
+    "title": "Walls and Gates",
+    "acceptance": "64.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/walls-and-gates"
+  },
+  {
+    "id": "480",
+    "title": "Sliding Window Median",
+    "acceptance": "39.0%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/sliding-window-median"
+  },
+  {
+    "id": "509",
+    "title": "Fibonacci Number",
+    "acceptance": "74.1%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/fibonacci-number"
+  },
+  {
+    "id": "295",
+    "title": "Find Median from Data Stream",
+    "acceptance": "54.5%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream"
+  },
+  {
+    "id": "104",
+    "title": "Maximum Depth of Binary Tree",
+    "acceptance": "78.2%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/maximum-depth-of-binary-tree"
+  },
+  {
+    "id": "125",
+    "title": "Valid Palindrome",
+    "acceptance": "53.3%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/valid-palindrome"
+  }
+]

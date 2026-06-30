@@ -1,0 +1,44 @@
+[
+  {
+    "id": "611",
+    "title": "Valid Triangle Number",
+    "acceptance": "56.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/valid-triangle-number"
+  },
+  {
+    "id": "20",
+    "title": "Valid Parentheses",
+    "acceptance": "44.2%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/valid-parentheses"
+  },
+  {
+    "id": "48",
+    "title": "Rotate Image",
+    "acceptance": "80.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/rotate-image"
+  },
+  {
+    "id": "3",
+    "title": "Longest Substring Without Repeating Characters",
+    "acceptance": "39.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+  },
+  {
+    "id": "1695",
+    "title": "Maximum Erasure Value",
+    "acceptance": "64.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-erasure-value"
+  },
+  {
+    "id": "2964",
+    "title": "Number of Divisible Triplet Sums",
+    "acceptance": "67.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/number-of-divisible-triplet-sums"
+  }
+]

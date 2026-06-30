@@ -1,0 +1,16 @@
+[
+  {
+    "id": "71",
+    "title": "Simplify Path",
+    "acceptance": "50.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/simplify-path"
+  },
+  {
+    "id": "1760",
+    "title": "Minimum Limit of Balls in a Bag",
+    "acceptance": "66.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag"
+  }
+]

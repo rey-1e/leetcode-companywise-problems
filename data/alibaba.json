@@ -1,0 +1,37 @@
+[
+  {
+    "id": "548",
+    "title": "Split Array with Equal Sum",
+    "acceptance": "50.1%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/split-array-with-equal-sum"
+  },
+  {
+    "id": "555",
+    "title": "Split Concatenated Strings",
+    "acceptance": "43.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/split-concatenated-strings"
+  },
+  {
+    "id": "666",
+    "title": "Path Sum IV",
+    "acceptance": "62.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/path-sum-iv"
+  },
+  {
+    "id": "678",
+    "title": "Valid Parenthesis String",
+    "acceptance": "40.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/valid-parenthesis-string"
+  },
+  {
+    "id": "215",
+    "title": "Kth Largest Element in an Array",
+    "acceptance": "68.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array"
+  }
+]

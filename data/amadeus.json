@@ -1,0 +1,16 @@
+[
+  {
+    "id": "2079",
+    "title": "Watering Plants",
+    "acceptance": "79.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/watering-plants"
+  },
+  {
+    "id": "242",
+    "title": "Valid Anagram",
+    "acceptance": "68.1%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/valid-anagram"
+  }
+]

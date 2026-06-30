@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1432",
+    "title": "Max Difference You Can Get From Changing an Integer",
+    "acceptance": "48.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer"
+  },
+  {
+    "id": "17",
+    "title": "Letter Combinations of a Phone Number",
+    "acceptance": "66.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number"
+  },
+  {
+    "id": "15",
+    "title": "3Sum",
+    "acceptance": "39.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/3sum"
+  },
+  {
+    "id": "875",
+    "title": "Koko Eating Bananas",
+    "acceptance": "50.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/koko-eating-bananas"
+  }
+]

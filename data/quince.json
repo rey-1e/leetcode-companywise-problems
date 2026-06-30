@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1911",
+    "title": "Maximum Alternating Subsequence Sum",
+    "acceptance": "59.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-alternating-subsequence-sum"
+  },
+  {
+    "id": "875",
+    "title": "Koko Eating Bananas",
+    "acceptance": "50.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/koko-eating-bananas"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "2070",
+    "title": "Most Beautiful Item for Each Query",
+    "acceptance": "62.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/most-beautiful-item-for-each-query"
+  },
+  {
+    "id": "2269",
+    "title": "Find the K-Beauty of a Number",
+    "acceptance": "63.4%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/find-the-k-beauty-of-a-number"
+  },
+  {
+    "id": "1657",
+    "title": "Determine if Two Strings Are Close",
+    "acceptance": "54.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/determine-if-two-strings-are-close"
+  }
+]

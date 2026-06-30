@@ -1,0 +1,23 @@
+[
+  {
+    "id": "2416",
+    "title": "Sum of Prefix Scores of Strings",
+    "acceptance": "60.8%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/sum-of-prefix-scores-of-strings"
+  },
+  {
+    "id": "224",
+    "title": "Basic Calculator",
+    "acceptance": "46.9%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/basic-calculator"
+  },
+  {
+    "id": "1017",
+    "title": "Convert to Base -2",
+    "acceptance": "61.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/convert-to-base-2"
+  }
+]

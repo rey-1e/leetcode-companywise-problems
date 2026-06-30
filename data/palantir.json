@@ -1,0 +1,205 @@
+[
+  {
+    "id": "23",
+    "title": "Merge k Sorted Lists",
+    "acceptance": "59.6%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists"
+  },
+  {
+    "id": "539",
+    "title": "Minimum Time Difference",
+    "acceptance": "62.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-time-difference"
+  },
+  {
+    "id": "56",
+    "title": "Merge Intervals",
+    "acceptance": "51.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/merge-intervals"
+  },
+  {
+    "id": "136",
+    "title": "Single Number",
+    "acceptance": "77.7%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/single-number"
+  },
+  {
+    "id": "146",
+    "title": "LRU Cache",
+    "acceptance": "47.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/lru-cache"
+  },
+  {
+    "id": "3006",
+    "title": "Find Beautiful Indices in the Given Array I",
+    "acceptance": "40.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i"
+  },
+  {
+    "id": "721",
+    "title": "Accounts Merge",
+    "acceptance": "61.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/accounts-merge"
+  },
+  {
+    "id": "217",
+    "title": "Contains Duplicate",
+    "acceptance": "64.4%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/contains-duplicate"
+  },
+  {
+    "id": "219",
+    "title": "Contains Duplicate II",
+    "acceptance": "51.3%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/contains-duplicate-ii"
+  },
+  {
+    "id": "220",
+    "title": "Contains Duplicate III",
+    "acceptance": "24.8%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/contains-duplicate-iii"
+  },
+  {
+    "id": "3008",
+    "title": "Find Beautiful Indices in the Given Array II",
+    "acceptance": "27.9%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii"
+  },
+  {
+    "id": "245",
+    "title": "Shortest Word Distance III",
+    "acceptance": "59.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/shortest-word-distance-iii"
+  },
+  {
+    "id": "427",
+    "title": "Construct Quad Tree",
+    "acceptance": "78.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/construct-quad-tree"
+  },
+  {
+    "id": "273",
+    "title": "Integer to English Words",
+    "acceptance": "35.0%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/integer-to-english-words"
+  },
+  {
+    "id": "303",
+    "title": "Range Sum Query - Immutable",
+    "acceptance": "72.2%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/range-sum-query-immutable"
+  },
+  {
+    "id": "1232",
+    "title": "Check If It Is a Straight Line",
+    "acceptance": "40.1%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/check-if-it-is-a-straight-line"
+  },
+  {
+    "id": "325",
+    "title": "Maximum Size Subarray Sum Equals k",
+    "acceptance": "50.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-size-subarray-sum-equals-k"
+  },
+  {
+    "id": "2225",
+    "title": "Find Players With Zero or One Losses",
+    "acceptance": "72.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/find-players-with-zero-or-one-losses"
+  },
+  {
+    "id": "2312",
+    "title": "Selling Pieces of Wood",
+    "acceptance": "52.9%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/selling-pieces-of-wood"
+  },
+  {
+    "id": "2964",
+    "title": "Number of Divisible Triplet Sums",
+    "acceptance": "67.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/number-of-divisible-triplet-sums"
+  },
+  {
+    "id": "2539",
+    "title": "Count the Number of Good Subsequences",
+    "acceptance": "48.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/count-the-number-of-good-subsequences"
+  },
+  {
+    "id": "981",
+    "title": "Time Based Key-Value Store",
+    "acceptance": "49.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/time-based-key-value-store"
+  },
+  {
+    "id": "5",
+    "title": "Longest Palindromic Substring",
+    "acceptance": "37.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring"
+  },
+  {
+    "id": "1202",
+    "title": "Smallest String With Swaps",
+    "acceptance": "60.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/smallest-string-with-swaps"
+  },
+  {
+    "id": "718",
+    "title": "Maximum Length of Repeated Subarray",
+    "acceptance": "51.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-length-of-repeated-subarray"
+  },
+  {
+    "id": "210",
+    "title": "Course Schedule II",
+    "acceptance": "55.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/course-schedule-ii"
+  },
+  {
+    "id": "3650",
+    "title": "Minimum Cost Path with Edge Reversals",
+    "acceptance": "61.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-cost-path-with-edge-reversals"
+  },
+  {
+    "id": "244",
+    "title": "Shortest Word Distance II",
+    "acceptance": "62.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/shortest-word-distance-ii"
+  },
+  {
+    "id": "443",
+    "title": "String Compression",
+    "acceptance": "60.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/string-compression"
+  }
+]

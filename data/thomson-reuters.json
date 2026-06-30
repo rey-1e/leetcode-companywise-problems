@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1974",
+    "title": "Minimum Time to Type Word Using Special Typewriter",
+    "acceptance": "78.7%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter"
+  },
+  {
+    "id": "1839",
+    "title": "Longest Substring Of All Vowels in Order",
+    "acceptance": "51.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-substring-of-all-vowels-in-order"
+  }
+]

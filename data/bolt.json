@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1941",
+    "title": "Check if All Characters Have Equal Number of Occurrences",
+    "acceptance": "79.5%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences"
+  },
+  {
+    "id": "438",
+    "title": "Find All Anagrams in a String",
+    "acceptance": "53.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/find-all-anagrams-in-a-string"
+  },
+  {
+    "id": "121",
+    "title": "Best Time to Buy and Sell Stock",
+    "acceptance": "56.8%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+  },
+  {
+    "id": "123",
+    "title": "Best Time to Buy and Sell Stock III",
+    "acceptance": "53.7%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii"
+  },
+  {
+    "id": "560",
+    "title": "Subarray Sum Equals K",
+    "acceptance": "47.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/subarray-sum-equals-k"
+  },
+  {
+    "id": "2696",
+    "title": "Minimum String Length After Removing Substrings",
+    "acceptance": "77.2%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/minimum-string-length-after-removing-substrings"
+  }
+]

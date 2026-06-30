@@ -1,0 +1,44 @@
+[
+  {
+    "id": "121",
+    "title": "Best Time to Buy and Sell Stock",
+    "acceptance": "56.8%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+  },
+  {
+    "id": "1419",
+    "title": "Minimum Number of Frogs Croaking",
+    "acceptance": "51.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-number-of-frogs-croaking"
+  },
+  {
+    "id": "227",
+    "title": "Basic Calculator II",
+    "acceptance": "46.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/basic-calculator-ii"
+  },
+  {
+    "id": "994",
+    "title": "Rotting Oranges",
+    "acceptance": "58.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/rotting-oranges"
+  },
+  {
+    "id": "443",
+    "title": "String Compression",
+    "acceptance": "60.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/string-compression"
+  },
+  {
+    "id": "149",
+    "title": "Max Points on a Line",
+    "acceptance": "30.7%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/max-points-on-a-line"
+  }
+]

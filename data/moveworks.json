@@ -1,0 +1,44 @@
+[
+  {
+    "id": "68",
+    "title": "Text Justification",
+    "acceptance": "51.2%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/text-justification"
+  },
+  {
+    "id": "140",
+    "title": "Word Break II",
+    "acceptance": "55.6%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/word-break-ii"
+  },
+  {
+    "id": "3076",
+    "title": "Shortest Uncommon Substring in an Array",
+    "acceptance": "50.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/shortest-uncommon-substring-in-an-array"
+  },
+  {
+    "id": "1258",
+    "title": "Synonymous Sentences",
+    "acceptance": "57.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/synonymous-sentences"
+  },
+  {
+    "id": "56",
+    "title": "Merge Intervals",
+    "acceptance": "51.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/merge-intervals"
+  },
+  {
+    "id": "2366",
+    "title": "Minimum Replacements to Sort the Array",
+    "acceptance": "53.1%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/minimum-replacements-to-sort-the-array"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "2176",
+    "title": "Count Equal and Divisible Pairs in an Array",
+    "acceptance": "83.9%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array"
+  },
+  {
+    "id": "121",
+    "title": "Best Time to Buy and Sell Stock",
+    "acceptance": "56.8%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+  }
+]

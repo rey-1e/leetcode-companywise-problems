@@ -1,0 +1,93 @@
+[
+  {
+    "id": "983",
+    "title": "Minimum Cost For Tickets",
+    "acceptance": "67.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-cost-for-tickets"
+  },
+  {
+    "id": "1",
+    "title": "Two Sum",
+    "acceptance": "57.5%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/two-sum"
+  },
+  {
+    "id": "1073",
+    "title": "Adding Two Negabinary Numbers",
+    "acceptance": "37.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/adding-two-negabinary-numbers"
+  },
+  {
+    "id": "2086",
+    "title": "Minimum Number of Food Buckets to Feed the Hamsters",
+    "acceptance": "48.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters"
+  },
+  {
+    "id": "146",
+    "title": "LRU Cache",
+    "acceptance": "47.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/lru-cache"
+  },
+  {
+    "id": "1253",
+    "title": "Reconstruct a 2-Row Binary Matrix",
+    "acceptance": "49.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix"
+  },
+  {
+    "id": "20",
+    "title": "Valid Parentheses",
+    "acceptance": "44.2%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/valid-parentheses"
+  },
+  {
+    "id": "71",
+    "title": "Simplify Path",
+    "acceptance": "50.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/simplify-path"
+  },
+  {
+    "id": "739",
+    "title": "Daily Temperatures",
+    "acceptance": "68.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/daily-temperatures"
+  },
+  {
+    "id": "1404",
+    "title": "Number of Steps to Reduce a Number in Binary Representation to One",
+    "acceptance": "63.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one"
+  },
+  {
+    "id": "721",
+    "title": "Accounts Merge",
+    "acceptance": "61.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/accounts-merge"
+  },
+  {
+    "id": "560",
+    "title": "Subarray Sum Equals K",
+    "acceptance": "47.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/subarray-sum-equals-k"
+  },
+  {
+    "id": "198",
+    "title": "House Robber",
+    "acceptance": "53.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/house-robber"
+  }
+]

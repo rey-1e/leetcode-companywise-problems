@@ -1,0 +1,30 @@
+[
+  {
+    "id": "2087",
+    "title": "Minimum Cost Homecoming of a Robot in a Grid",
+    "acceptance": "51.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid"
+  },
+  {
+    "id": "409",
+    "title": "Longest Palindrome",
+    "acceptance": "56.0%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/longest-palindrome"
+  },
+  {
+    "id": "2379",
+    "title": "Minimum Recolors to Get K Consecutive Black Blocks",
+    "acceptance": "68.7%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks"
+  },
+  {
+    "id": "20",
+    "title": "Valid Parentheses",
+    "acceptance": "44.2%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/valid-parentheses"
+  }
+]

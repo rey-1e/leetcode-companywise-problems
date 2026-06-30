@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1311",
+    "title": "Get Watched Videos by Your Friends",
+    "acceptance": "53.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/get-watched-videos-by-your-friends"
+  },
+  {
+    "id": "2850",
+    "title": "Minimum Moves to Spread Stones Over Grid",
+    "acceptance": "45.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid"
+  },
+  {
+    "id": "2471",
+    "title": "Minimum Number of Operations to Sort a Binary Tree by Level",
+    "acceptance": "74.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level"
+  },
+  {
+    "id": "2745",
+    "title": "Construct the Longest New String",
+    "acceptance": "54.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/construct-the-longest-new-string"
+  },
+  {
+    "id": "1324",
+    "title": "Print Words Vertically",
+    "acceptance": "67.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/print-words-vertically"
+  }
+]

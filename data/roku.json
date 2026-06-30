@@ -1,0 +1,121 @@
+[
+  {
+    "id": "394",
+    "title": "Decode String",
+    "acceptance": "62.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/decode-string"
+  },
+  {
+    "id": "146",
+    "title": "LRU Cache",
+    "acceptance": "47.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/lru-cache"
+  },
+  {
+    "id": "844",
+    "title": "Backspace String Compare",
+    "acceptance": "49.9%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/backspace-string-compare"
+  },
+  {
+    "id": "43",
+    "title": "Multiply Strings",
+    "acceptance": "44.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/multiply-strings"
+  },
+  {
+    "id": "628",
+    "title": "Maximum Product of Three Numbers",
+    "acceptance": "45.9%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/maximum-product-of-three-numbers"
+  },
+  {
+    "id": "1004",
+    "title": "Max Consecutive Ones III",
+    "acceptance": "67.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/max-consecutive-ones-iii"
+  },
+  {
+    "id": "864",
+    "title": "Shortest Path to Get All Keys",
+    "acceptance": "54.6%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/shortest-path-to-get-all-keys"
+  },
+  {
+    "id": "679",
+    "title": "24 Game",
+    "acceptance": "59.5%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/24-game"
+  },
+  {
+    "id": "680",
+    "title": "Valid Palindrome II",
+    "acceptance": "44.3%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/valid-palindrome-ii"
+  },
+  {
+    "id": "347",
+    "title": "Top K Frequent Elements",
+    "acceptance": "66.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements"
+  },
+  {
+    "id": "678",
+    "title": "Valid Parenthesis String",
+    "acceptance": "40.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/valid-parenthesis-string"
+  },
+  {
+    "id": "135",
+    "title": "Candy",
+    "acceptance": "48.5%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/candy"
+  },
+  {
+    "id": "695",
+    "title": "Max Area of Island",
+    "acceptance": "74.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/max-area-of-island"
+  },
+  {
+    "id": "983",
+    "title": "Minimum Cost For Tickets",
+    "acceptance": "67.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-cost-for-tickets"
+  },
+  {
+    "id": "15",
+    "title": "3Sum",
+    "acceptance": "39.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/3sum"
+  },
+  {
+    "id": "987",
+    "title": "Vertical Order Traversal of a Binary Tree",
+    "acceptance": "53.8%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree"
+  },
+  {
+    "id": "735",
+    "title": "Asteroid Collision",
+    "acceptance": "47.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/asteroid-collision"
+  }
+]

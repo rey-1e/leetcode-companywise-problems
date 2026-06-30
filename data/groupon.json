@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1648",
+    "title": "Sell Diminishing-Valued Colored Balls",
+    "acceptance": "30.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/sell-diminishing-valued-colored-balls"
+  },
+  {
+    "id": "45",
+    "title": "Jump Game II",
+    "acceptance": "42.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/jump-game-ii"
+  }
+]

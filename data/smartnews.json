@@ -1,0 +1,16 @@
+[
+  {
+    "id": "146",
+    "title": "LRU Cache",
+    "acceptance": "47.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/lru-cache"
+  },
+  {
+    "id": "1647",
+    "title": "Minimum Deletions to Make Character Frequencies Unique",
+    "acceptance": "61.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique"
+  }
+]

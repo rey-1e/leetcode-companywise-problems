@@ -1,0 +1,16 @@
+[
+  {
+    "id": "310",
+    "title": "Minimum Height Trees",
+    "acceptance": "42.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-height-trees"
+  },
+  {
+    "id": "502",
+    "title": "IPO",
+    "acceptance": "53.5%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/ipo"
+  }
+]

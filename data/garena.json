@@ -1,0 +1,16 @@
+[
+  {
+    "id": "810",
+    "title": "Chalkboard XOR Game",
+    "acceptance": "66.2%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/chalkboard-xor-game"
+  },
+  {
+    "id": "15",
+    "title": "3Sum",
+    "acceptance": "39.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/3sum"
+  }
+]

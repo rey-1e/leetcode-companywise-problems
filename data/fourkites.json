@@ -1,0 +1,23 @@
+[
+  {
+    "id": "2901",
+    "title": "Longest Unequal Adjacent Groups Subsequence II",
+    "acceptance": "51.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii"
+  },
+  {
+    "id": "2419",
+    "title": "Longest Subarray With Maximum Bitwise AND",
+    "acceptance": "65.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and"
+  },
+  {
+    "id": "2900",
+    "title": "Longest Unequal Adjacent Groups Subsequence I",
+    "acceptance": "66.9%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1848",
+    "title": "Minimum Distance to the Target Element",
+    "acceptance": "64.5%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/minimum-distance-to-the-target-element"
+  },
+  {
+    "id": "1975",
+    "title": "Maximum Matrix Sum",
+    "acceptance": "67.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-matrix-sum"
+  },
+  {
+    "id": "2747",
+    "title": "Count Zero Request Servers",
+    "acceptance": "35.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/count-zero-request-servers"
+  },
+  {
+    "id": "1",
+    "title": "Two Sum",
+    "acceptance": "57.5%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/two-sum"
+  }
+]

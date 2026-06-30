@@ -1,0 +1,30 @@
+[
+  {
+    "id": "3164",
+    "title": "Find the Number of Good Pairs II",
+    "acceptance": "26.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/find-the-number-of-good-pairs-ii"
+  },
+  {
+    "id": "3162",
+    "title": "Find the Number of Good Pairs I",
+    "acceptance": "86.4%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/find-the-number-of-good-pairs-i"
+  },
+  {
+    "id": "3224",
+    "title": "Minimum Array Changes to Make Differences Equal",
+    "acceptance": "24.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-array-changes-to-make-differences-equal"
+  },
+  {
+    "id": "1",
+    "title": "Two Sum",
+    "acceptance": "57.5%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/two-sum"
+  }
+]

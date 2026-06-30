@@ -1,0 +1,121 @@
+[
+  {
+    "id": "2360",
+    "title": "Longest Cycle in a Graph",
+    "acceptance": "50.7%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/longest-cycle-in-a-graph"
+  },
+  {
+    "id": "2359",
+    "title": "Find Closest Node to Given Two Nodes",
+    "acceptance": "53.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/find-closest-node-to-given-two-nodes"
+  },
+  {
+    "id": "2374",
+    "title": "Node With Highest Edge Score",
+    "acceptance": "49.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/node-with-highest-edge-score"
+  },
+  {
+    "id": "1993",
+    "title": "Operations on Tree",
+    "acceptance": "45.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/operations-on-tree"
+  },
+  {
+    "id": "73",
+    "title": "Set Matrix Zeroes",
+    "acceptance": "62.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/set-matrix-zeroes"
+  },
+  {
+    "id": "3",
+    "title": "Longest Substring Without Repeating Characters",
+    "acceptance": "39.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+  },
+  {
+    "id": "3409",
+    "title": "Longest Subsequence With Decreasing Adjacent Difference",
+    "acceptance": "16.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-subsequence-with-decreasing-adjacent-difference"
+  },
+  {
+    "id": "1857",
+    "title": "Largest Color Value in a Directed Graph",
+    "acceptance": "57.3%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/largest-color-value-in-a-directed-graph"
+  },
+  {
+    "id": "3515",
+    "title": "Shortest Path in a Weighted Tree",
+    "acceptance": "42.3%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/shortest-path-in-a-weighted-tree"
+  },
+  {
+    "id": "239",
+    "title": "Sliding Window Maximum",
+    "acceptance": "48.8%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/sliding-window-maximum"
+  },
+  {
+    "id": "1717",
+    "title": "Maximum Score From Removing Substrings",
+    "acceptance": "66.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-score-from-removing-substrings"
+  },
+  {
+    "id": "134",
+    "title": "Gas Station",
+    "acceptance": "48.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/gas-station"
+  },
+  {
+    "id": "735",
+    "title": "Asteroid Collision",
+    "acceptance": "47.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/asteroid-collision"
+  },
+  {
+    "id": "1",
+    "title": "Two Sum",
+    "acceptance": "57.5%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/two-sum"
+  },
+  {
+    "id": "56",
+    "title": "Merge Intervals",
+    "acceptance": "51.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/merge-intervals"
+  },
+  {
+    "id": "3842",
+    "title": "Toggle Light Bulbs",
+    "acceptance": "72.0%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/toggle-light-bulbs"
+  },
+  {
+    "id": "152",
+    "title": "Maximum Product Subarray",
+    "acceptance": "36.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-product-subarray"
+  }
+]

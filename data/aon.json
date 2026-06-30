@@ -1,0 +1,37 @@
+[
+  {
+    "id": "3053",
+    "title": "Classifying Triangles by Lengths",
+    "acceptance": "51.3%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/classifying-triangles-by-lengths"
+  },
+  {
+    "id": "3022",
+    "title": "Minimize OR of Remaining Elements Using Operations",
+    "acceptance": "30.3%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/minimize-or-of-remaining-elements-using-operations"
+  },
+  {
+    "id": "3315",
+    "title": "Construct the Minimum Bitwise Array II",
+    "acceptance": "66.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii"
+  },
+  {
+    "id": "3314",
+    "title": "Construct the Minimum Bitwise Array I",
+    "acceptance": "85.2%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/construct-the-minimum-bitwise-array-i"
+  },
+  {
+    "id": "200",
+    "title": "Number of Islands",
+    "acceptance": "64.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/number-of-islands"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "id": "1457",
+    "title": "Pseudo-Palindromic Paths in a Binary Tree",
+    "acceptance": "68.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree"
+  },
+  {
+    "id": "68",
+    "title": "Text Justification",
+    "acceptance": "51.2%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/text-justification"
+  },
+  {
+    "id": "9",
+    "title": "Palindrome Number",
+    "acceptance": "60.6%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/palindrome-number"
+  },
+  {
+    "id": "3433",
+    "title": "Count Mentions Per User",
+    "acceptance": "50.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/count-mentions-per-user"
+  },
+  {
+    "id": "621",
+    "title": "Task Scheduler",
+    "acceptance": "63.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/task-scheduler"
+  },
+  {
+    "id": "209",
+    "title": "Minimum Size Subarray Sum",
+    "acceptance": "51.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-size-subarray-sum"
+  },
+  {
+    "id": "185",
+    "title": "Department Top Three Salaries",
+    "acceptance": "60.5%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/department-top-three-salaries"
+  },
+  {
+    "id": "125",
+    "title": "Valid Palindrome",
+    "acceptance": "53.3%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/valid-palindrome"
+  },
+  {
+    "id": "3447",
+    "title": "Assign Elements to Groups with Constraints",
+    "acceptance": "27.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/assign-elements-to-groups-with-constraints"
+  },
+  {
+    "id": "3452",
+    "title": "Sum of Good Numbers",
+    "acceptance": "69.7%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/sum-of-good-numbers"
+  },
+  {
+    "id": "49",
+    "title": "Group Anagrams",
+    "acceptance": "72.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/group-anagrams"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "2327",
+    "title": "Number of People Aware of a Secret",
+    "acceptance": "60.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/number-of-people-aware-of-a-secret"
+  },
+  {
+    "id": "924",
+    "title": "Minimize Malware Spread",
+    "acceptance": "43.2%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/minimize-malware-spread"
+  },
+  {
+    "id": "1797",
+    "title": "Design Authentication Manager",
+    "acceptance": "58.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/design-authentication-manager"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "990",
+    "title": "Satisfiability of Equality Equations",
+    "acceptance": "51.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/satisfiability-of-equality-equations"
+  },
+  {
+    "id": "1722",
+    "title": "Minimize Hamming Distance After Swap Operations",
+    "acceptance": "69.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations"
+  },
+  {
+    "id": "1438",
+    "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+    "acceptance": "57.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit"
+  }
+]

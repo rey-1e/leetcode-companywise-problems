@@ -1,0 +1,219 @@
+[
+  {
+    "id": "621",
+    "title": "Task Scheduler",
+    "acceptance": "63.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/task-scheduler"
+  },
+  {
+    "id": "2896",
+    "title": "Apply Operations to Make Two Strings Equal",
+    "acceptance": "27.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/apply-operations-to-make-two-strings-equal"
+  },
+  {
+    "id": "502",
+    "title": "IPO",
+    "acceptance": "53.5%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/ipo"
+  },
+  {
+    "id": "503",
+    "title": "Next Greater Element II",
+    "acceptance": "68.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/next-greater-element-ii"
+  },
+  {
+    "id": "25",
+    "title": "Reverse Nodes in k-Group",
+    "acceptance": "66.1%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/reverse-nodes-in-k-group"
+  },
+  {
+    "id": "3",
+    "title": "Longest Substring Without Repeating Characters",
+    "acceptance": "39.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+  },
+  {
+    "id": "1011",
+    "title": "Capacity To Ship Packages Within D Days",
+    "acceptance": "73.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days"
+  },
+  {
+    "id": "42",
+    "title": "Trapping Rain Water",
+    "acceptance": "67.4%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/trapping-rain-water"
+  },
+  {
+    "id": "250",
+    "title": "Count Univalue Subtrees",
+    "acceptance": "57.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/count-univalue-subtrees"
+  },
+  {
+    "id": "380",
+    "title": "Insert Delete GetRandom O(1)",
+    "acceptance": "55.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1"
+  },
+  {
+    "id": "76",
+    "title": "Minimum Window Substring",
+    "acceptance": "47.5%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/minimum-window-substring"
+  },
+  {
+    "id": "410",
+    "title": "Split Array Largest Sum",
+    "acceptance": "60.4%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/split-array-largest-sum"
+  },
+  {
+    "id": "402",
+    "title": "Remove K Digits",
+    "acceptance": "36.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/remove-k-digits"
+  },
+  {
+    "id": "85",
+    "title": "Maximal Rectangle",
+    "acceptance": "58.8%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/maximal-rectangle"
+  },
+  {
+    "id": "132",
+    "title": "Palindrome Partitioning II",
+    "acceptance": "37.1%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/palindrome-partitioning-ii"
+  },
+  {
+    "id": "475",
+    "title": "Heaters",
+    "acceptance": "41.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/heaters"
+  },
+  {
+    "id": "546",
+    "title": "Remove Boxes",
+    "acceptance": "49.4%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/remove-boxes"
+  },
+  {
+    "id": "53",
+    "title": "Maximum Subarray",
+    "acceptance": "53.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-subarray"
+  },
+  {
+    "id": "2115",
+    "title": "Find All Possible Recipes from Given Supplies",
+    "acceptance": "56.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies"
+  },
+  {
+    "id": "239",
+    "title": "Sliding Window Maximum",
+    "acceptance": "48.8%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/sliding-window-maximum"
+  },
+  {
+    "id": "2616",
+    "title": "Minimize the Maximum Difference of Pairs",
+    "acceptance": "51.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs"
+  },
+  {
+    "id": "968",
+    "title": "Binary Tree Cameras",
+    "acceptance": "47.9%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/binary-tree-cameras"
+  },
+  {
+    "id": "698",
+    "title": "Partition to K Equal Sum Subsets",
+    "acceptance": "38.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/partition-to-k-equal-sum-subsets"
+  },
+  {
+    "id": "375",
+    "title": "Guess Number Higher or Lower II",
+    "acceptance": "52.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/guess-number-higher-or-lower-ii"
+  },
+  {
+    "id": "2381",
+    "title": "Shifting Letters II",
+    "acceptance": "53.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/shifting-letters-ii"
+  },
+  {
+    "id": "56",
+    "title": "Merge Intervals",
+    "acceptance": "51.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/merge-intervals"
+  },
+  {
+    "id": "4",
+    "title": "Median of Two Sorted Arrays",
+    "acceptance": "46.6%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays"
+  },
+  {
+    "id": "979",
+    "title": "Distribute Coins in Binary Tree",
+    "acceptance": "77.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/distribute-coins-in-binary-tree"
+  },
+  {
+    "id": "139",
+    "title": "Word Break",
+    "acceptance": "49.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/word-break"
+  },
+  {
+    "id": "3607",
+    "title": "Power Grid Maintenance",
+    "acceptance": "56.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/power-grid-maintenance"
+  },
+  {
+    "id": "198",
+    "title": "House Robber",
+    "acceptance": "53.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/house-robber"
+  }
+]

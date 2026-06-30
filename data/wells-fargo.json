@@ -1,0 +1,170 @@
+[
+  {
+    "id": "2904",
+    "title": "Shortest and Lexicographically Smallest Beautiful String",
+    "acceptance": "41.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string"
+  },
+  {
+    "id": "2892",
+    "title": "Minimizing Array After Replacing Pairs With Their Product",
+    "acceptance": "40.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimizing-array-after-replacing-pairs-with-their-product"
+  },
+  {
+    "id": "1953",
+    "title": "Maximum Number of Weeks for Which You Can Work",
+    "acceptance": "42.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-number-of-weeks-for-which-you-can-work"
+  },
+  {
+    "id": "238",
+    "title": "Product of Array Except Self",
+    "acceptance": "68.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/product-of-array-except-self"
+  },
+  {
+    "id": "796",
+    "title": "Rotate String",
+    "acceptance": "66.6%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/rotate-string"
+  },
+  {
+    "id": "1307",
+    "title": "Verbal Arithmetic Puzzle",
+    "acceptance": "34.9%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/verbal-arithmetic-puzzle"
+  },
+  {
+    "id": "1768",
+    "title": "Merge Strings Alternately",
+    "acceptance": "82.1%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/merge-strings-alternately"
+  },
+  {
+    "id": "703",
+    "title": "Kth Largest Element in a Stream",
+    "acceptance": "61.0%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-a-stream"
+  },
+  {
+    "id": "54",
+    "title": "Spiral Matrix",
+    "acceptance": "56.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/spiral-matrix"
+  },
+  {
+    "id": "14",
+    "title": "Longest Common Prefix",
+    "acceptance": "47.6%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/longest-common-prefix"
+  },
+  {
+    "id": "2696",
+    "title": "Minimum String Length After Removing Substrings",
+    "acceptance": "77.2%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/minimum-string-length-after-removing-substrings"
+  },
+  {
+    "id": "53",
+    "title": "Maximum Subarray",
+    "acceptance": "53.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-subarray"
+  },
+  {
+    "id": "200",
+    "title": "Number of Islands",
+    "acceptance": "64.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/number-of-islands"
+  },
+  {
+    "id": "2062",
+    "title": "Count Vowel Substrings of a String",
+    "acceptance": "73.2%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/count-vowel-substrings-of-a-string"
+  },
+  {
+    "id": "460",
+    "title": "LFU Cache",
+    "acceptance": "49.2%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/lfu-cache"
+  },
+  {
+    "id": "253",
+    "title": "Meeting Rooms II",
+    "acceptance": "52.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/meeting-rooms-ii"
+  },
+  {
+    "id": "844",
+    "title": "Backspace String Compare",
+    "acceptance": "49.9%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/backspace-string-compare"
+  },
+  {
+    "id": "160",
+    "title": "Intersection of Two Linked Lists",
+    "acceptance": "63.7%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/intersection-of-two-linked-lists"
+  },
+  {
+    "id": "20",
+    "title": "Valid Parentheses",
+    "acceptance": "44.2%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/valid-parentheses"
+  },
+  {
+    "id": "146",
+    "title": "LRU Cache",
+    "acceptance": "47.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/lru-cache"
+  },
+  {
+    "id": "2008",
+    "title": "Maximum Earnings From Taxi",
+    "acceptance": "46.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-earnings-from-taxi"
+  },
+  {
+    "id": "696",
+    "title": "Count Binary Substrings",
+    "acceptance": "70.4%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/count-binary-substrings"
+  },
+  {
+    "id": "93",
+    "title": "Restore IP Addresses",
+    "acceptance": "56.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/restore-ip-addresses"
+  },
+  {
+    "id": "56",
+    "title": "Merge Intervals",
+    "acceptance": "51.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/merge-intervals"
+  }
+]

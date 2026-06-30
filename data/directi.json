@@ -1,0 +1,58 @@
+[
+  {
+    "id": "2473",
+    "title": "Minimum Cost to Buy Apples",
+    "acceptance": "67.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-cost-to-buy-apples"
+  },
+  {
+    "id": "2479",
+    "title": "Maximum XOR of Two Non-Overlapping Subtrees",
+    "acceptance": "52.2%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/maximum-xor-of-two-non-overlapping-subtrees"
+  },
+  {
+    "id": "2538",
+    "title": "Difference Between Maximum and Minimum Price Sum",
+    "acceptance": "33.6%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum"
+  },
+  {
+    "id": "1524",
+    "title": "Number of Sub-arrays With Odd Sum",
+    "acceptance": "55.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum"
+  },
+  {
+    "id": "1535",
+    "title": "Find the Winner of an Array Game",
+    "acceptance": "56.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/find-the-winner-of-an-array-game"
+  },
+  {
+    "id": "1542",
+    "title": "Find Longest Awesome Substring",
+    "acceptance": "46.9%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/find-longest-awesome-substring"
+  },
+  {
+    "id": "1584",
+    "title": "Min Cost to Connect All Points",
+    "acceptance": "70.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/min-cost-to-connect-all-points"
+  },
+  {
+    "id": "1727",
+    "title": "Largest Submatrix With Rearrangements",
+    "acceptance": "80.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/largest-submatrix-with-rearrangements"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "577",
+    "title": "Employee Bonus",
+    "acceptance": "77.4%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/employee-bonus"
+  },
+  {
+    "id": "1491",
+    "title": "Average Salary Excluding the Minimum and Maximum Salary",
+    "acceptance": "63.6%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary"
+  }
+]

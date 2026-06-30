@@ -1,0 +1,345 @@
+[
+  {
+    "id": "10",
+    "title": "Regular Expression Matching",
+    "acceptance": "31.0%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/regular-expression-matching"
+  },
+  {
+    "id": "588",
+    "title": "Design In-Memory File System",
+    "acceptance": "48.4%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/design-in-memory-file-system"
+  },
+  {
+    "id": "78",
+    "title": "Subsets",
+    "acceptance": "82.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/subsets"
+  },
+  {
+    "id": "139",
+    "title": "Word Break",
+    "acceptance": "49.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/word-break"
+  },
+  {
+    "id": "146",
+    "title": "LRU Cache",
+    "acceptance": "47.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/lru-cache"
+  },
+  {
+    "id": "200",
+    "title": "Number of Islands",
+    "acceptance": "64.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/number-of-islands"
+  },
+  {
+    "id": "715",
+    "title": "Range Module",
+    "acceptance": "45.0%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/range-module"
+  },
+  {
+    "id": "207",
+    "title": "Course Schedule",
+    "acceptance": "51.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/course-schedule"
+  },
+  {
+    "id": "724",
+    "title": "Find Pivot Index",
+    "acceptance": "62.7%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/find-pivot-index"
+  },
+  {
+    "id": "776",
+    "title": "Split BST",
+    "acceptance": "82.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/split-bst"
+  },
+  {
+    "id": "340",
+    "title": "Longest Substring with At Most K Distinct Characters",
+    "acceptance": "50.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters"
+  },
+  {
+    "id": "355",
+    "title": "Design Twitter",
+    "acceptance": "44.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/design-twitter"
+  },
+  {
+    "id": "394",
+    "title": "Decode String",
+    "acceptance": "62.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/decode-string"
+  },
+  {
+    "id": "460",
+    "title": "LFU Cache",
+    "acceptance": "49.2%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/lfu-cache"
+  },
+  {
+    "id": "1044",
+    "title": "Longest Duplicate Substring",
+    "acceptance": "31.2%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/longest-duplicate-substring"
+  },
+  {
+    "id": "334",
+    "title": "Increasing Triplet Subsequence",
+    "acceptance": "39.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/increasing-triplet-subsequence"
+  },
+  {
+    "id": "239",
+    "title": "Sliding Window Maximum",
+    "acceptance": "48.8%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/sliding-window-maximum"
+  },
+  {
+    "id": "1062",
+    "title": "Longest Repeating Substring",
+    "acceptance": "63.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-repeating-substring"
+  },
+  {
+    "id": "540",
+    "title": "Single Element in a Sorted Array",
+    "acceptance": "59.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/single-element-in-a-sorted-array"
+  },
+  {
+    "id": "49",
+    "title": "Group Anagrams",
+    "acceptance": "72.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/group-anagrams"
+  },
+  {
+    "id": "752",
+    "title": "Open the Lock",
+    "acceptance": "61.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/open-the-lock"
+  },
+  {
+    "id": "694",
+    "title": "Number of Distinct Islands",
+    "acceptance": "62.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/number-of-distinct-islands"
+  },
+  {
+    "id": "3",
+    "title": "Longest Substring Without Repeating Characters",
+    "acceptance": "39.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+  },
+  {
+    "id": "295",
+    "title": "Find Median from Data Stream",
+    "acceptance": "54.5%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream"
+  },
+  {
+    "id": "362",
+    "title": "Design Hit Counter",
+    "acceptance": "69.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/design-hit-counter"
+  },
+  {
+    "id": "638",
+    "title": "Shopping Offers",
+    "acceptance": "52.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/shopping-offers"
+  },
+  {
+    "id": "2788",
+    "title": "Split Strings by Separator",
+    "acceptance": "76.2%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/split-strings-by-separator"
+  },
+  {
+    "id": "115",
+    "title": "Distinct Subsequences",
+    "acceptance": "51.9%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/distinct-subsequences"
+  },
+  {
+    "id": "44",
+    "title": "Wildcard Matching",
+    "acceptance": "32.0%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/wildcard-matching"
+  },
+  {
+    "id": "658",
+    "title": "Find K Closest Elements",
+    "acceptance": "49.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/find-k-closest-elements"
+  },
+  {
+    "id": "215",
+    "title": "Kth Largest Element in an Array",
+    "acceptance": "68.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array"
+  },
+  {
+    "id": "402",
+    "title": "Remove K Digits",
+    "acceptance": "36.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/remove-k-digits"
+  },
+  {
+    "id": "1146",
+    "title": "Snapshot Array",
+    "acceptance": "36.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/snapshot-array"
+  },
+  {
+    "id": "934",
+    "title": "Shortest Bridge",
+    "acceptance": "59.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/shortest-bridge"
+  },
+  {
+    "id": "1762",
+    "title": "Buildings With an Ocean View",
+    "acceptance": "80.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/buildings-with-an-ocean-view"
+  },
+  {
+    "id": "224",
+    "title": "Basic Calculator",
+    "acceptance": "46.9%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/basic-calculator"
+  },
+  {
+    "id": "2441",
+    "title": "Largest Positive Integer That Exists With Its Negative",
+    "acceptance": "74.5%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative"
+  },
+  {
+    "id": "380",
+    "title": "Insert Delete GetRandom O(1)",
+    "acceptance": "55.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1"
+  },
+  {
+    "id": "53",
+    "title": "Maximum Subarray",
+    "acceptance": "53.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-subarray"
+  },
+  {
+    "id": "772",
+    "title": "Basic Calculator III",
+    "acceptance": "53.3%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/basic-calculator-iii"
+  },
+  {
+    "id": "23",
+    "title": "Merge k Sorted Lists",
+    "acceptance": "59.6%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists"
+  },
+  {
+    "id": "84",
+    "title": "Largest Rectangle in Histogram",
+    "acceptance": "49.9%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/largest-rectangle-in-histogram"
+  },
+  {
+    "id": "269",
+    "title": "Alien Dictionary",
+    "acceptance": "37.2%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/alien-dictionary"
+  },
+  {
+    "id": "131",
+    "title": "Palindrome Partitioning",
+    "acceptance": "74.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/palindrome-partitioning"
+  },
+  {
+    "id": "621",
+    "title": "Task Scheduler",
+    "acceptance": "63.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/task-scheduler"
+  },
+  {
+    "id": "3026",
+    "title": "Maximum Good Subarray Sum",
+    "acceptance": "21.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-good-subarray-sum"
+  },
+  {
+    "id": "528",
+    "title": "Random Pick with Weight",
+    "acceptance": "49.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/random-pick-with-weight"
+  },
+  {
+    "id": "56",
+    "title": "Merge Intervals",
+    "acceptance": "51.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/merge-intervals"
+  },
+  {
+    "id": "15",
+    "title": "3Sum",
+    "acceptance": "39.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/3sum"
+  }
+]

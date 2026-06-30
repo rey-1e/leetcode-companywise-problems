@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1531",
+    "title": "String Compression II",
+    "acceptance": "52.2%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/string-compression-ii"
+  },
+  {
+    "id": "1227",
+    "title": "Airplane Seat Assignment Probability",
+    "acceptance": "67.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/airplane-seat-assignment-probability"
+  }
+]

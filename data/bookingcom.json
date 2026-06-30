@@ -1,0 +1,100 @@
+[
+  {
+    "id": "1948",
+    "title": "Delete Duplicate Folders in System",
+    "acceptance": "77.4%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/delete-duplicate-folders-in-system"
+  },
+  {
+    "id": "2512",
+    "title": "Reward Top K Students",
+    "acceptance": "47.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/reward-top-k-students"
+  },
+  {
+    "id": "1034",
+    "title": "Coloring A Border",
+    "acceptance": "51.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/coloring-a-border"
+  },
+  {
+    "id": "2032",
+    "title": "Two Out of Three",
+    "acceptance": "77.6%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/two-out-of-three"
+  },
+  {
+    "id": "2146",
+    "title": "K Highest Ranked Items Within a Price Range",
+    "acceptance": "46.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/k-highest-ranked-items-within-a-price-range"
+  },
+  {
+    "id": "221",
+    "title": "Maximal Square",
+    "acceptance": "50.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximal-square"
+  },
+  {
+    "id": "239",
+    "title": "Sliding Window Maximum",
+    "acceptance": "48.8%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/sliding-window-maximum"
+  },
+  {
+    "id": "2159",
+    "title": "Order Two Columns Independently",
+    "acceptance": "61.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/order-two-columns-independently"
+  },
+  {
+    "id": "332",
+    "title": "Reconstruct Itinerary",
+    "acceptance": "44.6%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/reconstruct-itinerary"
+  },
+  {
+    "id": "12",
+    "title": "Integer to Roman",
+    "acceptance": "71.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/integer-to-roman"
+  },
+  {
+    "id": "46",
+    "title": "Permutations",
+    "acceptance": "81.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/permutations"
+  },
+  {
+    "id": "146",
+    "title": "LRU Cache",
+    "acceptance": "47.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/lru-cache"
+  },
+  {
+    "id": "13",
+    "title": "Roman to Integer",
+    "acceptance": "66.6%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/roman-to-integer"
+  },
+  {
+    "id": "32",
+    "title": "Longest Valid Parentheses",
+    "acceptance": "38.8%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/longest-valid-parentheses"
+  }
+]

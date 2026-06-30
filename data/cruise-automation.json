@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1258",
+    "title": "Synonymous Sentences",
+    "acceptance": "57.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/synonymous-sentences"
+  },
+  {
+    "id": "207",
+    "title": "Course Schedule",
+    "acceptance": "51.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/course-schedule"
+  }
+]

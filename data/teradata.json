@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1885",
+    "title": "Count Pairs in Two Arrays",
+    "acceptance": "60.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/count-pairs-in-two-arrays"
+  },
+  {
+    "id": "546",
+    "title": "Remove Boxes",
+    "acceptance": "49.4%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/remove-boxes"
+  },
+  {
+    "id": "3766",
+    "title": "Minimum Operations to Make Binary Palindrome",
+    "acceptance": "52.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-operations-to-make-binary-palindrome"
+  }
+]

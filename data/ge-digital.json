@@ -1,0 +1,23 @@
+[
+  {
+    "id": "697",
+    "title": "Degree of an Array",
+    "acceptance": "58.4%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/degree-of-an-array"
+  },
+  {
+    "id": "2162",
+    "title": "Minimum Cost to Set Cooking Time",
+    "acceptance": "41.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-cost-to-set-cooking-time"
+  },
+  {
+    "id": "1249",
+    "title": "Minimum Remove to Make Valid Parentheses",
+    "acceptance": "71.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses"
+  }
+]

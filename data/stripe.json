@@ -1,0 +1,79 @@
+[
+  {
+    "id": "2483",
+    "title": "Minimum Penalty for a Shop",
+    "acceptance": "71.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-penalty-for-a-shop"
+  },
+  {
+    "id": "2050",
+    "title": "Parallel Courses III",
+    "acceptance": "66.8%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/parallel-courses-iii"
+  },
+  {
+    "id": "161",
+    "title": "One Edit Distance",
+    "acceptance": "34.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/one-edit-distance"
+  },
+  {
+    "id": "787",
+    "title": "Cheapest Flights Within K Stops",
+    "acceptance": "41.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/cheapest-flights-within-k-stops"
+  },
+  {
+    "id": "2303",
+    "title": "Calculate Amount Paid in Taxes",
+    "acceptance": "69.3%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/calculate-amount-paid-in-taxes"
+  },
+  {
+    "id": "2768",
+    "title": "Number of Black Blocks",
+    "acceptance": "41.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/number-of-black-blocks"
+  },
+  {
+    "id": "1604",
+    "title": "Alert Using Same Key-Card Three or More Times in a One Hour Period",
+    "acceptance": "46.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period"
+  },
+  {
+    "id": "399",
+    "title": "Evaluate Division",
+    "acceptance": "64.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/evaluate-division"
+  },
+  {
+    "id": "1087",
+    "title": "Brace Expansion",
+    "acceptance": "66.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/brace-expansion"
+  },
+  {
+    "id": "1169",
+    "title": "Invalid Transactions",
+    "acceptance": "32.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/invalid-transactions"
+  },
+  {
+    "id": "2043",
+    "title": "Simple Bank System",
+    "acceptance": "69.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/simple-bank-system"
+  }
+]

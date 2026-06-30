@@ -1,0 +1,121 @@
+[
+  {
+    "id": "23",
+    "title": "Merge k Sorted Lists",
+    "acceptance": "59.6%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists"
+  },
+  {
+    "id": "295",
+    "title": "Find Median from Data Stream",
+    "acceptance": "54.5%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream"
+  },
+  {
+    "id": "1465",
+    "title": "Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts",
+    "acceptance": "41.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts"
+  },
+  {
+    "id": "56",
+    "title": "Merge Intervals",
+    "acceptance": "51.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/merge-intervals"
+  },
+  {
+    "id": "592",
+    "title": "Fraction Addition and Subtraction",
+    "acceptance": "66.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/fraction-addition-and-subtraction"
+  },
+  {
+    "id": "598",
+    "title": "Range Addition II",
+    "acceptance": "58.7%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/range-addition-ii"
+  },
+  {
+    "id": "353",
+    "title": "Design Snake Game",
+    "acceptance": "40.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/design-snake-game"
+  },
+  {
+    "id": "634",
+    "title": "Find the Derangement of An Array",
+    "acceptance": "41.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/find-the-derangement-of-an-array"
+  },
+  {
+    "id": "380",
+    "title": "Insert Delete GetRandom O(1)",
+    "acceptance": "55.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1"
+  },
+  {
+    "id": "162",
+    "title": "Find Peak Element",
+    "acceptance": "47.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/find-peak-element"
+  },
+  {
+    "id": "166",
+    "title": "Fraction to Recurring Decimal",
+    "acceptance": "30.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/fraction-to-recurring-decimal"
+  },
+  {
+    "id": "691",
+    "title": "Stickers to Spell Word",
+    "acceptance": "50.9%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/stickers-to-spell-word"
+  },
+  {
+    "id": "1347",
+    "title": "Minimum Number of Steps to Make Two Strings Anagram",
+    "acceptance": "82.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram"
+  },
+  {
+    "id": "227",
+    "title": "Basic Calculator II",
+    "acceptance": "46.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/basic-calculator-ii"
+  },
+  {
+    "id": "234",
+    "title": "Palindrome Linked List",
+    "acceptance": "58.0%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/palindrome-linked-list"
+  },
+  {
+    "id": "717",
+    "title": "1-bit and 2-bit Characters",
+    "acceptance": "49.6%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/1-bit-and-2-bit-characters"
+  },
+  {
+    "id": "207",
+    "title": "Course Schedule",
+    "acceptance": "51.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/course-schedule"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "626",
+    "title": "Exchange Seats",
+    "acceptance": "74.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/exchange-seats"
+  },
+  {
+    "id": "1155",
+    "title": "Number of Dice Rolls With Target Sum",
+    "acceptance": "62.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/number-of-dice-rolls-with-target-sum"
+  },
+  {
+    "id": "20",
+    "title": "Valid Parentheses",
+    "acceptance": "44.2%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/valid-parentheses"
+  },
+  {
+    "id": "2008",
+    "title": "Maximum Earnings From Taxi",
+    "acceptance": "46.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-earnings-from-taxi"
+  }
+]

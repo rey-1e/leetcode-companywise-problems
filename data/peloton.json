@@ -1,0 +1,16 @@
+[
+  {
+    "id": "381",
+    "title": "Insert Delete GetRandom O(1) - Duplicates allowed",
+    "acceptance": "36.6%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed"
+  },
+  {
+    "id": "380",
+    "title": "Insert Delete GetRandom O(1)",
+    "acceptance": "55.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1"
+  }
+]

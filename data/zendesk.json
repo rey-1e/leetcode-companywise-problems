@@ -1,0 +1,16 @@
+[
+  {
+    "id": "2525",
+    "title": "Categorize Box According to Criteria",
+    "acceptance": "39.1%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/categorize-box-according-to-criteria"
+  },
+  {
+    "id": "2591",
+    "title": "Distribute Money to Maximum Children",
+    "acceptance": "20.6%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/distribute-money-to-maximum-children"
+  }
+]

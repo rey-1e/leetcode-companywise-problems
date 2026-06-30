@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1242",
+    "title": "Web Crawler Multithreaded",
+    "acceptance": "51.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/web-crawler-multithreaded"
+  },
+  {
+    "id": "636",
+    "title": "Exclusive Time of Functions",
+    "acceptance": "66.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/exclusive-time-of-functions"
+  },
+  {
+    "id": "1236",
+    "title": "Web Crawler",
+    "acceptance": "68.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/web-crawler"
+  },
+  {
+    "id": "609",
+    "title": "Find Duplicate File in System",
+    "acceptance": "67.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/find-duplicate-file-in-system"
+  }
+]

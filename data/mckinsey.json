@@ -1,0 +1,16 @@
+[
+  {
+    "id": "2530",
+    "title": "Maximal Score After Applying K Operations",
+    "acceptance": "64.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximal-score-after-applying-k-operations"
+  },
+  {
+    "id": "934",
+    "title": "Shortest Bridge",
+    "acceptance": "59.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/shortest-bridge"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "2535",
+    "title": "Difference Between Element Sum and Digit Sum of an Array",
+    "acceptance": "85.3%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array"
+  },
+  {
+    "id": "2667",
+    "title": "Create Hello World Function",
+    "acceptance": "81.9%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/create-hello-world-function"
+  },
+  {
+    "id": "2073",
+    "title": "Time Needed to Buy Tickets",
+    "acceptance": "72.6%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/time-needed-to-buy-tickets"
+  },
+  {
+    "id": "502",
+    "title": "IPO",
+    "acceptance": "53.5%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/ipo"
+  }
+]

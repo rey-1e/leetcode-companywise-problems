@@ -1,0 +1,23 @@
+[
+  {
+    "id": "2434",
+    "title": "Using a Robot to Print the Lexicographically Smallest String",
+    "acceptance": "62.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string"
+  },
+  {
+    "id": "934",
+    "title": "Shortest Bridge",
+    "acceptance": "59.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/shortest-bridge"
+  },
+  {
+    "id": "399",
+    "title": "Evaluate Division",
+    "acceptance": "64.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/evaluate-division"
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "994",
+    "title": "Rotting Oranges",
+    "acceptance": "58.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/rotting-oranges"
+  },
+  {
+    "id": "76",
+    "title": "Minimum Window Substring",
+    "acceptance": "47.5%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/minimum-window-substring"
+  },
+  {
+    "id": "109",
+    "title": "Convert Sorted List to Binary Search Tree",
+    "acceptance": "66.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree"
+  },
+  {
+    "id": "632",
+    "title": "Smallest Range Covering Elements from K Lists",
+    "acceptance": "70.1%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists"
+  },
+  {
+    "id": "126",
+    "title": "Word Ladder II",
+    "acceptance": "27.7%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/word-ladder-ii"
+  },
+  {
+    "id": "128",
+    "title": "Longest Consecutive Sequence",
+    "acceptance": "47.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-consecutive-sequence"
+  },
+  {
+    "id": "155",
+    "title": "Min Stack",
+    "acceptance": "58.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/min-stack"
+  },
+  {
+    "id": "158",
+    "title": "Read N Characters Given read4 II - Call Multiple Times",
+    "acceptance": "43.3%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times"
+  },
+  {
+    "id": "1094",
+    "title": "Car Pooling",
+    "acceptance": "56.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/car-pooling"
+  },
+  {
+    "id": "716",
+    "title": "Max Stack",
+    "acceptance": "45.9%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/max-stack"
+  },
+  {
+    "id": "208",
+    "title": "Implement Trie (Prefix Tree)",
+    "acceptance": "69.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/implement-trie-prefix-tree"
+  },
+  {
+    "id": "253",
+    "title": "Meeting Rooms II",
+    "acceptance": "52.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/meeting-rooms-ii"
+  },
+  {
+    "id": "365",
+    "title": "Water and Jug Problem",
+    "acceptance": "45.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/water-and-jug-problem"
+  },
+  {
+    "id": "443",
+    "title": "String Compression",
+    "acceptance": "60.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/string-compression"
+  },
+  {
+    "id": "981",
+    "title": "Time Based Key-Value Store",
+    "acceptance": "49.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/time-based-key-value-store"
+  },
+  {
+    "id": "3",
+    "title": "Longest Substring Without Repeating Characters",
+    "acceptance": "39.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+  },
+  {
+    "id": "91",
+    "title": "Decode Ways",
+    "acceptance": "38.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/decode-ways"
+  },
+  {
+    "id": "1620",
+    "title": "Coordinate With Maximum Network Quality",
+    "acceptance": "39.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/coordinate-with-maximum-network-quality"
+  },
+  {
+    "id": "238",
+    "title": "Product of Array Except Self",
+    "acceptance": "68.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/product-of-array-except-self"
+  },
+  {
+    "id": "1298",
+    "title": "Maximum Candies You Can Get from Boxes",
+    "acceptance": "67.5%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes"
+  },
+  {
+    "id": "958",
+    "title": "Check Completeness of a Binary Tree",
+    "acceptance": "59.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/check-completeness-of-a-binary-tree"
+  },
+  {
+    "id": "148",
+    "title": "Sort List",
+    "acceptance": "64.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/sort-list"
+  },
+  {
+    "id": "17",
+    "title": "Letter Combinations of a Phone Number",
+    "acceptance": "66.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number"
+  },
+  {
+    "id": "2101",
+    "title": "Detonate the Maximum Bombs",
+    "acceptance": "50.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/detonate-the-maximum-bombs"
+  }
+]

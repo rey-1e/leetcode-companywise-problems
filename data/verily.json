@@ -1,0 +1,107 @@
+[
+  {
+    "id": "202",
+    "title": "Happy Number",
+    "acceptance": "59.7%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/happy-number"
+  },
+  {
+    "id": "2007",
+    "title": "Find Original Array From Doubled Array",
+    "acceptance": "40.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/find-original-array-from-doubled-array"
+  },
+  {
+    "id": "843",
+    "title": "Guess the Word",
+    "acceptance": "36.7%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/guess-the-word"
+  },
+  {
+    "id": "1048",
+    "title": "Longest String Chain",
+    "acceptance": "63.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-string-chain"
+  },
+  {
+    "id": "963",
+    "title": "Minimum Area Rectangle II",
+    "acceptance": "55.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-area-rectangle-ii"
+  },
+  {
+    "id": "2115",
+    "title": "Find All Possible Recipes from Given Supplies",
+    "acceptance": "56.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies"
+  },
+  {
+    "id": "49",
+    "title": "Group Anagrams",
+    "acceptance": "72.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/group-anagrams"
+  },
+  {
+    "id": "1197",
+    "title": "Minimum Knight Moves",
+    "acceptance": "42.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-knight-moves"
+  },
+  {
+    "id": "55",
+    "title": "Jump Game",
+    "acceptance": "40.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/jump-game"
+  },
+  {
+    "id": "1024",
+    "title": "Video Stitching",
+    "acceptance": "52.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/video-stitching"
+  },
+  {
+    "id": "215",
+    "title": "Kth Largest Element in an Array",
+    "acceptance": "68.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array"
+  },
+  {
+    "id": "939",
+    "title": "Minimum Area Rectangle",
+    "acceptance": "55.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-area-rectangle"
+  },
+  {
+    "id": "146",
+    "title": "LRU Cache",
+    "acceptance": "47.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/lru-cache"
+  },
+  {
+    "id": "359",
+    "title": "Logger Rate Limiter",
+    "acceptance": "76.8%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/logger-rate-limiter"
+  },
+  {
+    "id": "354",
+    "title": "Russian Doll Envelopes",
+    "acceptance": "37.9%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/russian-doll-envelopes"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1690",
+    "title": "Stone Game VII",
+    "acceptance": "58.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/stone-game-vii"
+  },
+  {
+    "id": "1420",
+    "title": "Build Array Where You Can Find The Maximum Exactly K Comparisons",
+    "acceptance": "65.7%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons"
+  },
+  {
+    "id": "1698",
+    "title": "Number of Distinct Substrings in a String",
+    "acceptance": "64.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/number-of-distinct-substrings-in-a-string"
+  },
+  {
+    "id": "1639",
+    "title": "Number of Ways to Form a Target String Given a Dictionary",
+    "acceptance": "56.5%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary"
+  },
+  {
+    "id": "1397",
+    "title": "Find All Good Strings",
+    "acceptance": "45.4%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/find-all-good-strings"
+  },
+  {
+    "id": "1664",
+    "title": "Ways to Make a Fair Array",
+    "acceptance": "66.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/ways-to-make-a-fair-array"
+  }
+]

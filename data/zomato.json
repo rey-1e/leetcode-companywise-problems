@@ -1,0 +1,191 @@
+[
+  {
+    "id": "2931",
+    "title": "Maximum Spending After Buying Items",
+    "acceptance": "61.1%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/maximum-spending-after-buying-items"
+  },
+  {
+    "id": "2584",
+    "title": "Split the Array to Make Coprime Products",
+    "acceptance": "29.0%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/split-the-array-to-make-coprime-products"
+  },
+  {
+    "id": "2505",
+    "title": "Bitwise OR of All Subsequence Sums",
+    "acceptance": "64.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/bitwise-or-of-all-subsequence-sums"
+  },
+  {
+    "id": "2608",
+    "title": "Shortest Cycle in a Graph",
+    "acceptance": "39.6%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/shortest-cycle-in-a-graph"
+  },
+  {
+    "id": "2147",
+    "title": "Number of Ways to Divide a Long Corridor",
+    "acceptance": "54.6%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor"
+  },
+  {
+    "id": "15",
+    "title": "3Sum",
+    "acceptance": "39.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/3sum"
+  },
+  {
+    "id": "41",
+    "title": "First Missing Positive",
+    "acceptance": "42.9%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/first-missing-positive"
+  },
+  {
+    "id": "460",
+    "title": "LFU Cache",
+    "acceptance": "49.2%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/lfu-cache"
+  },
+  {
+    "id": "200",
+    "title": "Number of Islands",
+    "acceptance": "64.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/number-of-islands"
+  },
+  {
+    "id": "335",
+    "title": "Self Crossing",
+    "acceptance": "35.0%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/self-crossing"
+  },
+  {
+    "id": "2145",
+    "title": "Count the Hidden Sequences",
+    "acceptance": "56.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/count-the-hidden-sequences"
+  },
+  {
+    "id": "909",
+    "title": "Snakes and Ladders",
+    "acceptance": "48.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/snakes-and-ladders"
+  },
+  {
+    "id": "53",
+    "title": "Maximum Subarray",
+    "acceptance": "53.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-subarray"
+  },
+  {
+    "id": "3",
+    "title": "Longest Substring Without Repeating Characters",
+    "acceptance": "39.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+  },
+  {
+    "id": "260",
+    "title": "Single Number III",
+    "acceptance": "70.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/single-number-iii"
+  },
+  {
+    "id": "221",
+    "title": "Maximal Square",
+    "acceptance": "50.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximal-square"
+  },
+  {
+    "id": "540",
+    "title": "Single Element in a Sorted Array",
+    "acceptance": "59.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/single-element-in-a-sorted-array"
+  },
+  {
+    "id": "205",
+    "title": "Isomorphic Strings",
+    "acceptance": "48.4%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/isomorphic-strings"
+  },
+  {
+    "id": "207",
+    "title": "Course Schedule",
+    "acceptance": "51.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/course-schedule"
+  },
+  {
+    "id": "358",
+    "title": "Rearrange String k Distance Apart",
+    "acceptance": "40.0%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/rearrange-string-k-distance-apart"
+  },
+  {
+    "id": "218",
+    "title": "The Skyline Problem",
+    "acceptance": "45.4%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/the-skyline-problem"
+  },
+  {
+    "id": "626",
+    "title": "Exchange Seats",
+    "acceptance": "74.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/exchange-seats"
+  },
+  {
+    "id": "46",
+    "title": "Permutations",
+    "acceptance": "81.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/permutations"
+  },
+  {
+    "id": "283",
+    "title": "Move Zeroes",
+    "acceptance": "63.8%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/move-zeroes"
+  },
+  {
+    "id": "39",
+    "title": "Combination Sum",
+    "acceptance": "76.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/combination-sum"
+  },
+  {
+    "id": "240",
+    "title": "Search a 2D Matrix II",
+    "acceptance": "57.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/search-a-2d-matrix-ii"
+  },
+  {
+    "id": "56",
+    "title": "Merge Intervals",
+    "acceptance": "51.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/merge-intervals"
+  }
+]

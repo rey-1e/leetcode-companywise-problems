@@ -1,0 +1,37 @@
+[
+  {
+    "id": "441",
+    "title": "Arranging Coins",
+    "acceptance": "48.2%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/arranging-coins"
+  },
+  {
+    "id": "443",
+    "title": "String Compression",
+    "acceptance": "60.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/string-compression"
+  },
+  {
+    "id": "56",
+    "title": "Merge Intervals",
+    "acceptance": "51.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/merge-intervals"
+  },
+  {
+    "id": "1761",
+    "title": "Minimum Degree of a Connected Trio in a Graph",
+    "acceptance": "44.5%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph"
+  },
+  {
+    "id": "20",
+    "title": "Valid Parentheses",
+    "acceptance": "44.2%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/valid-parentheses"
+  }
+]

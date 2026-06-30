@@ -1,0 +1,135 @@
+[
+  {
+    "id": "1256",
+    "title": "Encode Number",
+    "acceptance": "70.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/encode-number"
+  },
+  {
+    "id": "717",
+    "title": "1-bit and 2-bit Characters",
+    "acceptance": "49.6%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/1-bit-and-2-bit-characters"
+  },
+  {
+    "id": "1329",
+    "title": "Sort the Matrix Diagonally",
+    "acceptance": "83.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/sort-the-matrix-diagonally"
+  },
+  {
+    "id": "1935",
+    "title": "Maximum Number of Words You Can Type",
+    "acceptance": "82.9%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/maximum-number-of-words-you-can-type"
+  },
+  {
+    "id": "2080",
+    "title": "Range Frequency Queries",
+    "acceptance": "43.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/range-frequency-queries"
+  },
+  {
+    "id": "855",
+    "title": "Exam Room",
+    "acceptance": "43.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/exam-room"
+  },
+  {
+    "id": "1281",
+    "title": "Subtract the Product and Sum of Digits of an Integer",
+    "acceptance": "86.6%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer"
+  },
+  {
+    "id": "1295",
+    "title": "Find Numbers with Even Number of Digits",
+    "acceptance": "79.8%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/find-numbers-with-even-number-of-digits"
+  },
+  {
+    "id": "2269",
+    "title": "Find the K-Beauty of a Number",
+    "acceptance": "63.4%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/find-the-k-beauty-of-a-number"
+  },
+  {
+    "id": "923",
+    "title": "3Sum With Multiplicity",
+    "acceptance": "46.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/3sum-with-multiplicity"
+  },
+  {
+    "id": "1876",
+    "title": "Substrings of Size Three with Distinct Characters",
+    "acceptance": "76.7%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters"
+  },
+  {
+    "id": "1878",
+    "title": "Get Biggest Three Rhombus Sums in a Grid",
+    "acceptance": "71.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid"
+  },
+  {
+    "id": "1354",
+    "title": "Construct Target Array With Multiple Sums",
+    "acceptance": "37.0%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/construct-target-array-with-multiple-sums"
+  },
+  {
+    "id": "1865",
+    "title": "Finding Pairs With a Certain Sum",
+    "acceptance": "61.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/finding-pairs-with-a-certain-sum"
+  },
+  {
+    "id": "560",
+    "title": "Subarray Sum Equals K",
+    "acceptance": "47.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/subarray-sum-equals-k"
+  },
+  {
+    "id": "380",
+    "title": "Insert Delete GetRandom O(1)",
+    "acceptance": "55.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1"
+  },
+  {
+    "id": "68",
+    "title": "Text Justification",
+    "acceptance": "51.2%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/text-justification"
+  },
+  {
+    "id": "14",
+    "title": "Longest Common Prefix",
+    "acceptance": "47.6%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/longest-common-prefix"
+  },
+  {
+    "id": "297",
+    "title": "Serialize and Deserialize Binary Tree",
+    "acceptance": "60.8%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "id": "1283",
+    "title": "Find the Smallest Divisor Given a Threshold",
+    "acceptance": "65.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold"
+  },
+  {
+    "id": "442",
+    "title": "Find All Duplicates in an Array",
+    "acceptance": "76.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/find-all-duplicates-in-an-array"
+  },
+  {
+    "id": "179",
+    "title": "Largest Number",
+    "acceptance": "43.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/largest-number"
+  },
+  {
+    "id": "990",
+    "title": "Satisfiability of Equality Equations",
+    "acceptance": "51.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/satisfiability-of-equality-equations"
+  },
+  {
+    "id": "56",
+    "title": "Merge Intervals",
+    "acceptance": "51.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/merge-intervals"
+  },
+  {
+    "id": "125",
+    "title": "Valid Palindrome",
+    "acceptance": "53.3%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/valid-palindrome"
+  },
+  {
+    "id": "127",
+    "title": "Word Ladder",
+    "acceptance": "45.6%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/word-ladder"
+  }
+]

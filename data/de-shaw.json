@@ -1,0 +1,772 @@
+[
+  {
+    "id": "4",
+    "title": "Median of Two Sorted Arrays",
+    "acceptance": "46.6%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays"
+  },
+  {
+    "id": "17",
+    "title": "Letter Combinations of a Phone Number",
+    "acceptance": "66.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number"
+  },
+  {
+    "id": "42",
+    "title": "Trapping Rain Water",
+    "acceptance": "67.4%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/trapping-rain-water"
+  },
+  {
+    "id": "53",
+    "title": "Maximum Subarray",
+    "acceptance": "53.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-subarray"
+  },
+  {
+    "id": "62",
+    "title": "Unique Paths",
+    "acceptance": "66.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/unique-paths"
+  },
+  {
+    "id": "2920",
+    "title": "Maximum Points After Collecting Coins From All Nodes",
+    "acceptance": "36.6%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/maximum-points-after-collecting-coins-from-all-nodes"
+  },
+  {
+    "id": "121",
+    "title": "Best Time to Buy and Sell Stock",
+    "acceptance": "56.8%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+  },
+  {
+    "id": "128",
+    "title": "Longest Consecutive Sequence",
+    "acceptance": "47.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-consecutive-sequence"
+  },
+  {
+    "id": "152",
+    "title": "Maximum Product Subarray",
+    "acceptance": "36.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-product-subarray"
+  },
+  {
+    "id": "1122",
+    "title": "Relative Sort Array",
+    "acceptance": "75.2%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/relative-sort-array"
+  },
+  {
+    "id": "198",
+    "title": "House Robber",
+    "acceptance": "53.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/house-robber"
+  },
+  {
+    "id": "227",
+    "title": "Basic Calculator II",
+    "acceptance": "46.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/basic-calculator-ii"
+  },
+  {
+    "id": "239",
+    "title": "Sliding Window Maximum",
+    "acceptance": "48.8%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/sliding-window-maximum"
+  },
+  {
+    "id": "3077",
+    "title": "Maximum Strength of K Disjoint Subarrays",
+    "acceptance": "27.8%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/maximum-strength-of-k-disjoint-subarrays"
+  },
+  {
+    "id": "2171",
+    "title": "Removing Minimum Number of Magic Beans",
+    "acceptance": "44.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/removing-minimum-number-of-magic-beans"
+  },
+  {
+    "id": "3082",
+    "title": "Find the Sum of the Power of All Subsequences",
+    "acceptance": "38.4%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/find-the-sum-of-the-power-of-all-subsequences"
+  },
+  {
+    "id": "3108",
+    "title": "Minimum Cost Walk in Weighted Graph",
+    "acceptance": "68.2%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph"
+  },
+  {
+    "id": "3085",
+    "title": "Minimum Deletions to Make String K-Special",
+    "acceptance": "67.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-deletions-to-make-string-k-special"
+  },
+  {
+    "id": "1262",
+    "title": "Greatest Sum Divisible by Three",
+    "acceptance": "57.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/greatest-sum-divisible-by-three"
+  },
+  {
+    "id": "2343",
+    "title": "Query Kth Smallest Trimmed Number",
+    "acceptance": "47.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/query-kth-smallest-trimmed-number"
+  },
+  {
+    "id": "380",
+    "title": "Insert Delete GetRandom O(1)",
+    "acceptance": "55.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1"
+  },
+  {
+    "id": "2352",
+    "title": "Equal Row and Column Pairs",
+    "acceptance": "70.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/equal-row-and-column-pairs"
+  },
+  {
+    "id": "3209",
+    "title": "Number of Subarrays With AND Value of K",
+    "acceptance": "35.3%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/number-of-subarrays-with-and-value-of-k"
+  },
+  {
+    "id": "1326",
+    "title": "Minimum Number of Taps to Open to Water a Garden",
+    "acceptance": "51.0%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden"
+  },
+  {
+    "id": "1358",
+    "title": "Number of Substrings Containing All Three Characters",
+    "acceptance": "73.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/number-of-substrings-containing-all-three-characters"
+  },
+  {
+    "id": "440",
+    "title": "K-th Smallest in Lexicographical Order",
+    "acceptance": "46.3%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/k-th-smallest-in-lexicographical-order"
+  },
+  {
+    "id": "2875",
+    "title": "Minimum Size Subarray in Infinite Array",
+    "acceptance": "32.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-size-subarray-in-infinite-array"
+  },
+  {
+    "id": "2430",
+    "title": "Maximum Deletions on a String",
+    "acceptance": "35.9%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/maximum-deletions-on-a-string"
+  },
+  {
+    "id": "2387",
+    "title": "Median of a Row Wise Sorted Matrix",
+    "acceptance": "71.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/median-of-a-row-wise-sorted-matrix"
+  },
+  {
+    "id": "1383",
+    "title": "Maximum Performance of a Team",
+    "acceptance": "47.8%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/maximum-performance-of-a-team"
+  },
+  {
+    "id": "2542",
+    "title": "Maximum Subsequence Score",
+    "acceptance": "54.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-subsequence-score"
+  },
+  {
+    "id": "2551",
+    "title": "Put Marbles in Bags",
+    "acceptance": "72.1%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/put-marbles-in-bags"
+  },
+  {
+    "id": "2660",
+    "title": "Determine the Winner of a Bowling Game",
+    "acceptance": "37.6%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/determine-the-winner-of-a-bowling-game"
+  },
+  {
+    "id": "2558",
+    "title": "Take Gifts From the Richest Pile",
+    "acceptance": "75.5%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/take-gifts-from-the-richest-pile"
+  },
+  {
+    "id": "2644",
+    "title": "Find the Maximum Divisibility Score",
+    "acceptance": "51.9%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/find-the-maximum-divisibility-score"
+  },
+  {
+    "id": "2742",
+    "title": "Painting the Walls",
+    "acceptance": "49.1%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/painting-the-walls"
+  },
+  {
+    "id": "1679",
+    "title": "Max Number of K-Sum Pairs",
+    "acceptance": "57.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/max-number-of-k-sum-pairs"
+  },
+  {
+    "id": "1701",
+    "title": "Average Waiting Time",
+    "acceptance": "73.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/average-waiting-time"
+  },
+  {
+    "id": "778",
+    "title": "Swim in Rising Water",
+    "acceptance": "67.8%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/swim-in-rising-water"
+  },
+  {
+    "id": "2800",
+    "title": "Shortest String That Contains Three Strings",
+    "acceptance": "31.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/shortest-string-that-contains-three-strings"
+  },
+  {
+    "id": "852",
+    "title": "Peak Index in a Mountain Array",
+    "acceptance": "66.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/peak-index-in-a-mountain-array"
+  },
+  {
+    "id": "968",
+    "title": "Binary Tree Cameras",
+    "acceptance": "47.9%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/binary-tree-cameras"
+  },
+  {
+    "id": "1927",
+    "title": "Sum Game",
+    "acceptance": "49.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/sum-game"
+  },
+  {
+    "id": "752",
+    "title": "Open the Lock",
+    "acceptance": "61.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/open-the-lock"
+  },
+  {
+    "id": "122",
+    "title": "Best Time to Buy and Sell Stock II",
+    "acceptance": "71.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii"
+  },
+  {
+    "id": "20",
+    "title": "Valid Parentheses",
+    "acceptance": "44.2%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/valid-parentheses"
+  },
+  {
+    "id": "3016",
+    "title": "Minimum Number of Pushes to Type Word II",
+    "acceptance": "80.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii"
+  },
+  {
+    "id": "787",
+    "title": "Cheapest Flights Within K Stops",
+    "acceptance": "41.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/cheapest-flights-within-k-stops"
+  },
+  {
+    "id": "2972",
+    "title": "Count the Number of Incremovable Subarrays II",
+    "acceptance": "40.2%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-ii"
+  },
+  {
+    "id": "875",
+    "title": "Koko Eating Bananas",
+    "acceptance": "50.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/koko-eating-bananas"
+  },
+  {
+    "id": "169",
+    "title": "Majority Element",
+    "acceptance": "66.3%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/majority-element"
+  },
+  {
+    "id": "871",
+    "title": "Minimum Number of Refueling Stops",
+    "acceptance": "41.4%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/minimum-number-of-refueling-stops"
+  },
+  {
+    "id": "1569",
+    "title": "Number of Ways to Reorder Array to Get Same BST",
+    "acceptance": "54.1%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst"
+  },
+  {
+    "id": "2984",
+    "title": "Find Peak Calling Hours for Each City",
+    "acceptance": "61.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/find-peak-calling-hours-for-each-city"
+  },
+  {
+    "id": "2617",
+    "title": "Minimum Number of Visited Cells in a Grid",
+    "acceptance": "23.9%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid"
+  },
+  {
+    "id": "2680",
+    "title": "Maximum OR",
+    "acceptance": "43.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-or"
+  },
+  {
+    "id": "209",
+    "title": "Minimum Size Subarray Sum",
+    "acceptance": "51.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-size-subarray-sum"
+  },
+  {
+    "id": "18",
+    "title": "4Sum",
+    "acceptance": "40.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/4sum"
+  },
+  {
+    "id": "1423",
+    "title": "Maximum Points You Can Obtain from Cards",
+    "acceptance": "57.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards"
+  },
+  {
+    "id": "1283",
+    "title": "Find the Smallest Divisor Given a Threshold",
+    "acceptance": "65.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold"
+  },
+  {
+    "id": "943",
+    "title": "Find the Shortest Superstring",
+    "acceptance": "45.4%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/find-the-shortest-superstring"
+  },
+  {
+    "id": "3323",
+    "title": "Minimize Connected Groups by Inserting Interval",
+    "acceptance": "50.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimize-connected-groups-by-inserting-interval"
+  },
+  {
+    "id": "3332",
+    "title": "Maximum Points Tourist Can Earn",
+    "acceptance": "47.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-points-tourist-can-earn"
+  },
+  {
+    "id": "475",
+    "title": "Heaters",
+    "acceptance": "41.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/heaters"
+  },
+  {
+    "id": "1574",
+    "title": "Shortest Subarray to be Removed to Make Array Sorted",
+    "acceptance": "51.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted"
+  },
+  {
+    "id": "668",
+    "title": "Kth Smallest Number in Multiplication Table",
+    "acceptance": "54.1%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/kth-smallest-number-in-multiplication-table"
+  },
+  {
+    "id": "34",
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "acceptance": "48.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array"
+  },
+  {
+    "id": "3383",
+    "title": "Minimum Runes to Add to Cast Spell",
+    "acceptance": "44.6%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/minimum-runes-to-add-to-cast-spell"
+  },
+  {
+    "id": "410",
+    "title": "Split Array Largest Sum",
+    "acceptance": "60.4%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/split-array-largest-sum"
+  },
+  {
+    "id": "1579",
+    "title": "Remove Max Number of Edges to Keep Graph Fully Traversable",
+    "acceptance": "70.2%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable"
+  },
+  {
+    "id": "829",
+    "title": "Consecutive Numbers Sum",
+    "acceptance": "42.7%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/consecutive-numbers-sum"
+  },
+  {
+    "id": "518",
+    "title": "Coin Change II",
+    "acceptance": "60.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/coin-change-ii"
+  },
+  {
+    "id": "779",
+    "title": "K-th Symbol in Grammar",
+    "acceptance": "48.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/k-th-symbol-in-grammar"
+  },
+  {
+    "id": "470",
+    "title": "Implement Rand10() Using Rand7()",
+    "acceptance": "46.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/implement-rand10-using-rand7"
+  },
+  {
+    "id": "341",
+    "title": "Flatten Nested List Iterator",
+    "acceptance": "65.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/flatten-nested-list-iterator"
+  },
+  {
+    "id": "3469",
+    "title": "Find Minimum Cost to Remove Array Elements",
+    "acceptance": "21.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/find-minimum-cost-to-remove-array-elements"
+  },
+  {
+    "id": "168",
+    "title": "Excel Sheet Column Title",
+    "acceptance": "46.5%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/excel-sheet-column-title"
+  },
+  {
+    "id": "1048",
+    "title": "Longest String Chain",
+    "acceptance": "63.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-string-chain"
+  },
+  {
+    "id": "3281",
+    "title": "Maximize Score of Numbers in Ranges",
+    "acceptance": "35.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximize-score-of-numbers-in-ranges"
+  },
+  {
+    "id": "2104",
+    "title": "Sum of Subarray Ranges",
+    "acceptance": "61.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/sum-of-subarray-ranges"
+  },
+  {
+    "id": "2434",
+    "title": "Using a Robot to Print the Lexicographically Smallest String",
+    "acceptance": "62.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string"
+  },
+  {
+    "id": "735",
+    "title": "Asteroid Collision",
+    "acceptance": "47.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/asteroid-collision"
+  },
+  {
+    "id": "1244",
+    "title": "Design A Leaderboard",
+    "acceptance": "68.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/design-a-leaderboard"
+  },
+  {
+    "id": "91",
+    "title": "Decode Ways",
+    "acceptance": "38.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/decode-ways"
+  },
+  {
+    "id": "68",
+    "title": "Text Justification",
+    "acceptance": "51.2%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/text-justification"
+  },
+  {
+    "id": "1434",
+    "title": "Number of Ways to Wear Different Hats to Each Other",
+    "acceptance": "46.0%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other"
+  },
+  {
+    "id": "2221",
+    "title": "Find Triangular Sum of an Array",
+    "acceptance": "82.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/find-triangular-sum-of-an-array"
+  },
+  {
+    "id": "200",
+    "title": "Number of Islands",
+    "acceptance": "64.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/number-of-islands"
+  },
+  {
+    "id": "212",
+    "title": "Word Search II",
+    "acceptance": "38.5%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/word-search-ii"
+  },
+  {
+    "id": "32",
+    "title": "Longest Valid Parentheses",
+    "acceptance": "38.8%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/longest-valid-parentheses"
+  },
+  {
+    "id": "146",
+    "title": "LRU Cache",
+    "acceptance": "47.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/lru-cache"
+  },
+  {
+    "id": "3628",
+    "title": "Maximum Number of Subsequences After One Inserting",
+    "acceptance": "31.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-number-of-subsequences-after-one-inserting"
+  },
+  {
+    "id": "1292",
+    "title": "Maximum Side Length of a Square with Sum Less than or Equal to Threshold",
+    "acceptance": "65.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold"
+  },
+  {
+    "id": "994",
+    "title": "Rotting Oranges",
+    "acceptance": "58.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/rotting-oranges"
+  },
+  {
+    "id": "44",
+    "title": "Wildcard Matching",
+    "acceptance": "32.0%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/wildcard-matching"
+  },
+  {
+    "id": "1000",
+    "title": "Minimum Cost to Merge Stones",
+    "acceptance": "46.1%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/minimum-cost-to-merge-stones"
+  },
+  {
+    "id": "3",
+    "title": "Longest Substring Without Repeating Characters",
+    "acceptance": "39.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+  },
+  {
+    "id": "767",
+    "title": "Reorganize String",
+    "acceptance": "57.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/reorganize-string"
+  },
+  {
+    "id": "1368",
+    "title": "Minimum Cost to Make at Least One Valid Path in a Grid",
+    "acceptance": "71.0%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid"
+  },
+  {
+    "id": "2222",
+    "title": "Number of Ways to Select Buildings",
+    "acceptance": "50.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/number-of-ways-to-select-buildings"
+  },
+  {
+    "id": "962",
+    "title": "Maximum Width Ramp",
+    "acceptance": "55.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-width-ramp"
+  },
+  {
+    "id": "851",
+    "title": "Loud and Rich",
+    "acceptance": "63.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/loud-and-rich"
+  },
+  {
+    "id": "696",
+    "title": "Count Binary Substrings",
+    "acceptance": "70.4%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/count-binary-substrings"
+  },
+  {
+    "id": "1",
+    "title": "Two Sum",
+    "acceptance": "57.5%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/two-sum"
+  },
+  {
+    "id": "88",
+    "title": "Merge Sorted Array",
+    "acceptance": "54.9%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/merge-sorted-array"
+  },
+  {
+    "id": "316",
+    "title": "Remove Duplicate Letters",
+    "acceptance": "53.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/remove-duplicate-letters"
+  },
+  {
+    "id": "31",
+    "title": "Next Permutation",
+    "acceptance": "45.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/next-permutation"
+  },
+  {
+    "id": "213",
+    "title": "House Robber II",
+    "acceptance": "44.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/house-robber-ii"
+  },
+  {
+    "id": "1642",
+    "title": "Furthest Building You Can Reach",
+    "acceptance": "50.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/furthest-building-you-can-reach"
+  },
+  {
+    "id": "11",
+    "title": "Container With Most Water",
+    "acceptance": "60.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/container-with-most-water"
+  }
+]

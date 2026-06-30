@@ -1,0 +1,23 @@
+[
+  {
+    "id": "13",
+    "title": "Roman to Integer",
+    "acceptance": "66.6%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/roman-to-integer"
+  },
+  {
+    "id": "241",
+    "title": "Different Ways to Add Parentheses",
+    "acceptance": "73.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/different-ways-to-add-parentheses"
+  },
+  {
+    "id": "815",
+    "title": "Bus Routes",
+    "acceptance": "47.3%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/bus-routes"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "826",
+    "title": "Most Profit Assigning Work",
+    "acceptance": "56.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/most-profit-assigning-work"
+  },
+  {
+    "id": "664",
+    "title": "Strange Printer",
+    "acceptance": "60.9%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/strange-printer"
+  }
+]

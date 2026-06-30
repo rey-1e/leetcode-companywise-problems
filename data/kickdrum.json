@@ -1,0 +1,23 @@
+[
+  {
+    "id": "390",
+    "title": "Elimination Game",
+    "acceptance": "46.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/elimination-game"
+  },
+  {
+    "id": "423",
+    "title": "Reconstruct Original Digits from English",
+    "acceptance": "52.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/reconstruct-original-digits-from-english"
+  },
+  {
+    "id": "200",
+    "title": "Number of Islands",
+    "acceptance": "64.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/number-of-islands"
+  }
+]

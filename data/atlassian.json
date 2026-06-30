@@ -1,0 +1,429 @@
+[
+  {
+    "id": "1",
+    "title": "Two Sum",
+    "acceptance": "57.5%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/two-sum"
+  },
+  {
+    "id": "3",
+    "title": "Longest Substring Without Repeating Characters",
+    "acceptance": "39.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+  },
+  {
+    "id": "49",
+    "title": "Group Anagrams",
+    "acceptance": "72.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/group-anagrams"
+  },
+  {
+    "id": "56",
+    "title": "Merge Intervals",
+    "acceptance": "51.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/merge-intervals"
+  },
+  {
+    "id": "68",
+    "title": "Text Justification",
+    "acceptance": "51.2%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/text-justification"
+  },
+  {
+    "id": "1166",
+    "title": "Design File System",
+    "acceptance": "65.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/design-file-system"
+  },
+  {
+    "id": "1048",
+    "title": "Longest String Chain",
+    "acceptance": "63.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-string-chain"
+  },
+  {
+    "id": "2034",
+    "title": "Stock Price Fluctuation",
+    "acceptance": "49.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/stock-price-fluctuation"
+  },
+  {
+    "id": "121",
+    "title": "Best Time to Buy and Sell Stock",
+    "acceptance": "56.8%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
+  },
+  {
+    "id": "2933",
+    "title": "High-Access Employees",
+    "acceptance": "47.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/high-access-employees"
+  },
+  {
+    "id": "2959",
+    "title": "Number of Possible Sets of Closing Branches",
+    "acceptance": "51.0%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/number-of-possible-sets-of-closing-branches"
+  },
+  {
+    "id": "2948",
+    "title": "Make Lexicographically Smallest Array by Swapping Elements",
+    "acceptance": "60.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements"
+  },
+  {
+    "id": "2976",
+    "title": "Minimum Cost to Convert String I",
+    "acceptance": "63.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-cost-to-convert-string-i"
+  },
+  {
+    "id": "2977",
+    "title": "Minimum Cost to Convert String II",
+    "acceptance": "59.6%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/minimum-cost-to-convert-string-ii"
+  },
+  {
+    "id": "3026",
+    "title": "Maximum Good Subarray Sum",
+    "acceptance": "21.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-good-subarray-sum"
+  },
+  {
+    "id": "229",
+    "title": "Majority Element II",
+    "acceptance": "56.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/majority-element-ii"
+  },
+  {
+    "id": "253",
+    "title": "Meeting Rooms II",
+    "acceptance": "52.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/meeting-rooms-ii"
+  },
+  {
+    "id": "300",
+    "title": "Longest Increasing Subsequence",
+    "acceptance": "59.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-increasing-subsequence"
+  },
+  {
+    "id": "353",
+    "title": "Design Snake Game",
+    "acceptance": "40.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/design-snake-game"
+  },
+  {
+    "id": "359",
+    "title": "Logger Rate Limiter",
+    "acceptance": "76.8%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/logger-rate-limiter"
+  },
+  {
+    "id": "1307",
+    "title": "Verbal Arithmetic Puzzle",
+    "acceptance": "34.9%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/verbal-arithmetic-puzzle"
+  },
+  {
+    "id": "432",
+    "title": "All O`one Data Structure",
+    "acceptance": "44.3%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/all-oone-data-structure"
+  },
+  {
+    "id": "1366",
+    "title": "Rank Teams by Votes",
+    "acceptance": "60.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/rank-teams-by-votes"
+  },
+  {
+    "id": "2598",
+    "title": "Smallest Missing Non-negative Integer After Operations",
+    "acceptance": "56.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations"
+  },
+  {
+    "id": "2577",
+    "title": "Minimum Time to Visit a Cell In a Grid",
+    "acceptance": "56.3%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid"
+  },
+  {
+    "id": "2975",
+    "title": "Maximum Square Area by Removing Fences From a Field",
+    "acceptance": "49.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field"
+  },
+  {
+    "id": "3000",
+    "title": "Maximum Area of Longest Diagonal Rectangle",
+    "acceptance": "45.9%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle"
+  },
+  {
+    "id": "362",
+    "title": "Design Hit Counter",
+    "acceptance": "69.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/design-hit-counter"
+  },
+  {
+    "id": "875",
+    "title": "Koko Eating Bananas",
+    "acceptance": "50.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/koko-eating-bananas"
+  },
+  {
+    "id": "79",
+    "title": "Word Search",
+    "acceptance": "47.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/word-search"
+  },
+  {
+    "id": "658",
+    "title": "Find K Closest Elements",
+    "acceptance": "49.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/find-k-closest-elements"
+  },
+  {
+    "id": "45",
+    "title": "Jump Game II",
+    "acceptance": "42.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/jump-game-ii"
+  },
+  {
+    "id": "881",
+    "title": "Boats to Save People",
+    "acceptance": "61.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/boats-to-save-people"
+  },
+  {
+    "id": "347",
+    "title": "Top K Frequent Elements",
+    "acceptance": "66.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/top-k-frequent-elements"
+  },
+  {
+    "id": "128",
+    "title": "Longest Consecutive Sequence",
+    "acceptance": "47.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-consecutive-sequence"
+  },
+  {
+    "id": "605",
+    "title": "Can Place Flowers",
+    "acceptance": "29.1%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/can-place-flowers"
+  },
+  {
+    "id": "1010",
+    "title": "Pairs of Songs With Total Durations Divisible by 60",
+    "acceptance": "53.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60"
+  },
+  {
+    "id": "354",
+    "title": "Russian Doll Envelopes",
+    "acceptance": "37.9%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/russian-doll-envelopes"
+  },
+  {
+    "id": "177",
+    "title": "Nth Highest Salary",
+    "acceptance": "39.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/nth-highest-salary"
+  },
+  {
+    "id": "2039",
+    "title": "The Time When the Network Becomes Idle",
+    "acceptance": "55.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/the-time-when-the-network-becomes-idle"
+  },
+  {
+    "id": "2639",
+    "title": "Find the Width of Columns of a Grid",
+    "acceptance": "70.5%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/find-the-width-of-columns-of-a-grid"
+  },
+  {
+    "id": "211",
+    "title": "Design Add and Search Words Data Structure",
+    "acceptance": "48.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/design-add-and-search-words-data-structure"
+  },
+  {
+    "id": "236",
+    "title": "Lowest Common Ancestor of a Binary Tree",
+    "acceptance": "69.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree"
+  },
+  {
+    "id": "2559",
+    "title": "Count Vowel Strings in Ranges",
+    "acceptance": "67.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/count-vowel-strings-in-ranges"
+  },
+  {
+    "id": "34",
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "acceptance": "48.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array"
+  },
+  {
+    "id": "1650",
+    "title": "Lowest Common Ancestor of a Binary Tree III",
+    "acceptance": "83.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii"
+  },
+  {
+    "id": "53",
+    "title": "Maximum Subarray",
+    "acceptance": "53.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-subarray"
+  },
+  {
+    "id": "2353",
+    "title": "Design a Food Rating System",
+    "acceptance": "52.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/design-a-food-rating-system"
+  },
+  {
+    "id": "1970",
+    "title": "Last Day Where You Can Still Cross",
+    "acceptance": "68.7%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/last-day-where-you-can-still-cross"
+  },
+  {
+    "id": "1676",
+    "title": "Lowest Common Ancestor of a Binary Tree IV",
+    "acceptance": "79.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv"
+  },
+  {
+    "id": "146",
+    "title": "LRU Cache",
+    "acceptance": "47.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/lru-cache"
+  },
+  {
+    "id": "2484",
+    "title": "Count Palindromic Subsequences",
+    "acceptance": "41.2%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/count-palindromic-subsequences"
+  },
+  {
+    "id": "2561",
+    "title": "Rearranging Fruits",
+    "acceptance": "57.3%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/rearranging-fruits"
+  },
+  {
+    "id": "1644",
+    "title": "Lowest Common Ancestor of a Binary Tree II",
+    "acceptance": "69.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii"
+  },
+  {
+    "id": "1797",
+    "title": "Design Authentication Manager",
+    "acceptance": "58.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/design-authentication-manager"
+  },
+  {
+    "id": "44",
+    "title": "Wildcard Matching",
+    "acceptance": "32.0%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/wildcard-matching"
+  },
+  {
+    "id": "297",
+    "title": "Serialize and Deserialize Binary Tree",
+    "acceptance": "60.8%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree"
+  },
+  {
+    "id": "31",
+    "title": "Next Permutation",
+    "acceptance": "45.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/next-permutation"
+  },
+  {
+    "id": "3649",
+    "title": "Number of Perfect Pairs",
+    "acceptance": "34.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/number-of-perfect-pairs"
+  },
+  {
+    "id": "2939",
+    "title": "Maximum Xor Product",
+    "acceptance": "29.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-xor-product"
+  },
+  {
+    "id": "956",
+    "title": "Tallest Billboard",
+    "acceptance": "51.9%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/tallest-billboard"
+  }
+]

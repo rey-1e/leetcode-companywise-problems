@@ -1,0 +1,37 @@
+[
+  {
+    "id": "2264",
+    "title": "Largest 3-Same-Digit Number in String",
+    "acceptance": "72.7%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/largest-3-same-digit-number-in-string"
+  },
+  {
+    "id": "20",
+    "title": "Valid Parentheses",
+    "acceptance": "44.2%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/valid-parentheses"
+  },
+  {
+    "id": "3662",
+    "title": "Filter Characters by Frequency",
+    "acceptance": "86.1%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/filter-characters-by-frequency"
+  },
+  {
+    "id": "14",
+    "title": "Longest Common Prefix",
+    "acceptance": "47.6%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/longest-common-prefix"
+  },
+  {
+    "id": "5",
+    "title": "Longest Palindromic Substring",
+    "acceptance": "37.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring"
+  }
+]

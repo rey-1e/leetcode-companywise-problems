@@ -1,0 +1,114 @@
+[
+  {
+    "id": "1041",
+    "title": "Robot Bounded In Circle",
+    "acceptance": "56.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/robot-bounded-in-circle"
+  },
+  {
+    "id": "2932",
+    "title": "Maximum Strong Pair XOR I",
+    "acceptance": "76.1%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/maximum-strong-pair-xor-i"
+  },
+  {
+    "id": "2935",
+    "title": "Maximum Strong Pair XOR II",
+    "acceptance": "32.7%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/maximum-strong-pair-xor-ii"
+  },
+  {
+    "id": "1154",
+    "title": "Day of the Year",
+    "acceptance": "50.0%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/day-of-the-year"
+  },
+  {
+    "id": "3091",
+    "title": "Apply Operations to Make Sum of Array Greater Than or Equal to k",
+    "acceptance": "44.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k"
+  },
+  {
+    "id": "2231",
+    "title": "Largest Number After Digit Swaps by Parity",
+    "acceptance": "65.4%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity"
+  },
+  {
+    "id": "1283",
+    "title": "Find the Smallest Divisor Given a Threshold",
+    "acceptance": "65.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold"
+  },
+  {
+    "id": "465",
+    "title": "Optimal Account Balancing",
+    "acceptance": "50.5%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/optimal-account-balancing"
+  },
+  {
+    "id": "33",
+    "title": "Search in Rotated Sorted Array",
+    "acceptance": "44.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array"
+  },
+  {
+    "id": "2964",
+    "title": "Number of Divisible Triplet Sums",
+    "acceptance": "67.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/number-of-divisible-triplet-sums"
+  },
+  {
+    "id": "945",
+    "title": "Minimum Increment to Make Array Unique",
+    "acceptance": "60.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-increment-to-make-array-unique"
+  },
+  {
+    "id": "127",
+    "title": "Word Ladder",
+    "acceptance": "45.6%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/word-ladder"
+  },
+  {
+    "id": "2366",
+    "title": "Minimum Replacements to Sort the Array",
+    "acceptance": "53.1%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/minimum-replacements-to-sort-the-array"
+  },
+  {
+    "id": "73",
+    "title": "Set Matrix Zeroes",
+    "acceptance": "62.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/set-matrix-zeroes"
+  },
+  {
+    "id": "146",
+    "title": "LRU Cache",
+    "acceptance": "47.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/lru-cache"
+  },
+  {
+    "id": "273",
+    "title": "Integer to English Words",
+    "acceptance": "35.0%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/integer-to-english-words"
+  }
+]

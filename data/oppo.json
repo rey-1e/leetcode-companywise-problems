@@ -1,0 +1,16 @@
+[
+  {
+    "id": "221",
+    "title": "Maximal Square",
+    "acceptance": "50.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximal-square"
+  },
+  {
+    "id": "643",
+    "title": "Maximum Average Subarray I",
+    "acceptance": "47.8%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/maximum-average-subarray-i"
+  }
+]

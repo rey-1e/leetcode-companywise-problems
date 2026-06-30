@@ -1,0 +1,16 @@
+[
+  {
+    "id": "3152",
+    "title": "Special Array II",
+    "acceptance": "45.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/special-array-ii"
+  },
+  {
+    "id": "3151",
+    "title": "Special Array I",
+    "acceptance": "81.6%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/special-array-i"
+  }
+]

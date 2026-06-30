@@ -1,0 +1,44 @@
+[
+  {
+    "id": "3226",
+    "title": "Number of Bit Changes to Make Two Integers Equal",
+    "acceptance": "63.5%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal"
+  },
+  {
+    "id": "2941",
+    "title": "Maximum GCD-Sum of a Subarray",
+    "acceptance": "38.8%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/maximum-gcd-sum-of-a-subarray"
+  },
+  {
+    "id": "3003",
+    "title": "Maximize the Number of Partitions After Operations",
+    "acceptance": "53.4%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations"
+  },
+  {
+    "id": "5",
+    "title": "Longest Palindromic Substring",
+    "acceptance": "37.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring"
+  },
+  {
+    "id": "3036",
+    "title": "Number of Subarrays That Match a Pattern II",
+    "acceptance": "33.7%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii"
+  },
+  {
+    "id": "1",
+    "title": "Two Sum",
+    "acceptance": "57.5%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/two-sum"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "631",
+    "title": "Design Excel Sum Formula",
+    "acceptance": "39.7%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/design-excel-sum-formula"
+  },
+  {
+    "id": "2043",
+    "title": "Simple Bank System",
+    "acceptance": "69.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/simple-bank-system"
+  },
+  {
+    "id": "981",
+    "title": "Time Based Key-Value Store",
+    "acceptance": "49.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/time-based-key-value-store"
+  }
+]

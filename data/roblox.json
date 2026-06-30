@@ -1,0 +1,394 @@
+[
+  {
+    "id": "14",
+    "title": "Longest Common Prefix",
+    "acceptance": "47.6%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/longest-common-prefix"
+  },
+  {
+    "id": "20",
+    "title": "Valid Parentheses",
+    "acceptance": "44.2%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/valid-parentheses"
+  },
+  {
+    "id": "1472",
+    "title": "Design Browser History",
+    "acceptance": "78.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/design-browser-history"
+  },
+  {
+    "id": "48",
+    "title": "Rotate Image",
+    "acceptance": "80.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/rotate-image"
+  },
+  {
+    "id": "56",
+    "title": "Merge Intervals",
+    "acceptance": "51.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/merge-intervals"
+  },
+  {
+    "id": "621",
+    "title": "Task Scheduler",
+    "acceptance": "63.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/task-scheduler"
+  },
+  {
+    "id": "1552",
+    "title": "Magnetic Force Between Two Balls",
+    "acceptance": "72.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/magnetic-force-between-two-balls"
+  },
+  {
+    "id": "208",
+    "title": "Implement Trie (Prefix Tree)",
+    "acceptance": "69.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/implement-trie-prefix-tree"
+  },
+  {
+    "id": "767",
+    "title": "Reorganize String",
+    "acceptance": "57.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/reorganize-string"
+  },
+  {
+    "id": "811",
+    "title": "Subdomain Visit Count",
+    "acceptance": "77.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/subdomain-visit-count"
+  },
+  {
+    "id": "1248",
+    "title": "Count Number of Nice Subarrays",
+    "acceptance": "75.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/count-number-of-nice-subarrays"
+  },
+  {
+    "id": "362",
+    "title": "Design Hit Counter",
+    "acceptance": "69.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/design-hit-counter"
+  },
+  {
+    "id": "1282",
+    "title": "Group the People Given the Group Size They Belong To",
+    "acceptance": "87.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to"
+  },
+  {
+    "id": "1290",
+    "title": "Convert Binary Number in a Linked List to Integer",
+    "acceptance": "82.4%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer"
+  },
+  {
+    "id": "1280",
+    "title": "Students and Examinations",
+    "acceptance": "61.2%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/students-and-examinations"
+  },
+  {
+    "id": "1297",
+    "title": "Maximum Number of Occurrences of a Substring",
+    "acceptance": "54.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring"
+  },
+  {
+    "id": "2817",
+    "title": "Minimum Absolute Difference Between Elements With Constraint",
+    "acceptance": "37.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-absolute-difference-between-elements-with-constraint"
+  },
+  {
+    "id": "1364",
+    "title": "Number of Trusted Contacts of a Customer",
+    "acceptance": "74.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/number-of-trusted-contacts-of-a-customer"
+  },
+  {
+    "id": "1419",
+    "title": "Minimum Number of Frogs Croaking",
+    "acceptance": "51.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-number-of-frogs-croaking"
+  },
+  {
+    "id": "68",
+    "title": "Text Justification",
+    "acceptance": "51.2%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/text-justification"
+  },
+  {
+    "id": "2251",
+    "title": "Number of Flowers in Full Bloom",
+    "acceptance": "57.9%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/number-of-flowers-in-full-bloom"
+  },
+  {
+    "id": "273",
+    "title": "Integer to English Words",
+    "acceptance": "35.0%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/integer-to-english-words"
+  },
+  {
+    "id": "84",
+    "title": "Largest Rectangle in Histogram",
+    "acceptance": "49.9%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/largest-rectangle-in-histogram"
+  },
+  {
+    "id": "849",
+    "title": "Maximize Distance to Closest Person",
+    "acceptance": "49.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximize-distance-to-closest-person"
+  },
+  {
+    "id": "3043",
+    "title": "Find the Length of the Longest Common Prefix",
+    "acceptance": "62.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix"
+  },
+  {
+    "id": "54",
+    "title": "Spiral Matrix",
+    "acceptance": "56.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/spiral-matrix"
+  },
+  {
+    "id": "1",
+    "title": "Two Sum",
+    "acceptance": "57.5%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/two-sum"
+  },
+  {
+    "id": "759",
+    "title": "Employee Free Time",
+    "acceptance": "72.9%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/employee-free-time"
+  },
+  {
+    "id": "994",
+    "title": "Rotting Oranges",
+    "acceptance": "58.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/rotting-oranges"
+  },
+  {
+    "id": "2021",
+    "title": "Brightest Position on Street",
+    "acceptance": "60.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/brightest-position-on-street"
+  },
+  {
+    "id": "3161",
+    "title": "Block Placement Queries",
+    "acceptance": "18.7%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/block-placement-queries"
+  },
+  {
+    "id": "992",
+    "title": "Subarrays with K Different Integers",
+    "acceptance": "68.1%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/subarrays-with-k-different-integers"
+  },
+  {
+    "id": "3",
+    "title": "Longest Substring Without Repeating Characters",
+    "acceptance": "39.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+  },
+  {
+    "id": "661",
+    "title": "Image Smoother",
+    "acceptance": "69.3%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/image-smoother"
+  },
+  {
+    "id": "128",
+    "title": "Longest Consecutive Sequence",
+    "acceptance": "47.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-consecutive-sequence"
+  },
+  {
+    "id": "2672",
+    "title": "Number of Adjacent Elements With the Same Color",
+    "acceptance": "59.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/number-of-adjacent-elements-with-the-same-color"
+  },
+  {
+    "id": "1861",
+    "title": "Rotating the Box",
+    "acceptance": "82.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/rotating-the-box"
+  },
+  {
+    "id": "42",
+    "title": "Trapping Rain Water",
+    "acceptance": "67.4%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/trapping-rain-water"
+  },
+  {
+    "id": "723",
+    "title": "Candy Crush",
+    "acceptance": "77.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/candy-crush"
+  },
+  {
+    "id": "770",
+    "title": "Basic Calculator IV",
+    "acceptance": "49.8%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/basic-calculator-iv"
+  },
+  {
+    "id": "933",
+    "title": "Number of Recent Calls",
+    "acceptance": "78.5%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/number-of-recent-calls"
+  },
+  {
+    "id": "207",
+    "title": "Course Schedule",
+    "acceptance": "51.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/course-schedule"
+  },
+  {
+    "id": "210",
+    "title": "Course Schedule II",
+    "acceptance": "55.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/course-schedule-ii"
+  },
+  {
+    "id": "2537",
+    "title": "Count the Number of Good Subarrays",
+    "acceptance": "65.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/count-the-number-of-good-subarrays"
+  },
+  {
+    "id": "1743",
+    "title": "Restore the Array From Adjacent Pairs",
+    "acceptance": "75.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/restore-the-array-from-adjacent-pairs"
+  },
+  {
+    "id": "1434",
+    "title": "Number of Ways to Wear Different Hats to Each Other",
+    "acceptance": "46.0%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other"
+  },
+  {
+    "id": "642",
+    "title": "Design Search Autocomplete System",
+    "acceptance": "50.0%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/design-search-autocomplete-system"
+  },
+  {
+    "id": "2768",
+    "title": "Number of Black Blocks",
+    "acceptance": "41.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/number-of-black-blocks"
+  },
+  {
+    "id": "3071",
+    "title": "Minimum Operations to Write the Letter Y on a Grid",
+    "acceptance": "64.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid"
+  },
+  {
+    "id": "1814",
+    "title": "Count Nice Pairs in an Array",
+    "acceptance": "48.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/count-nice-pairs-in-an-array"
+  },
+  {
+    "id": "3459",
+    "title": "Length of Longest V-Shaped Diagonal Segment",
+    "acceptance": "56.2%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment"
+  },
+  {
+    "id": "380",
+    "title": "Insert Delete GetRandom O(1)",
+    "acceptance": "55.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1"
+  },
+  {
+    "id": "528",
+    "title": "Random Pick with Weight",
+    "acceptance": "49.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/random-pick-with-weight"
+  },
+  {
+    "id": "2502",
+    "title": "Design Memory Allocator",
+    "acceptance": "50.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/design-memory-allocator"
+  },
+  {
+    "id": "359",
+    "title": "Logger Rate Limiter",
+    "acceptance": "76.8%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/logger-rate-limiter"
+  },
+  {
+    "id": "239",
+    "title": "Sliding Window Maximum",
+    "acceptance": "48.8%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/sliding-window-maximum"
+  }
+]

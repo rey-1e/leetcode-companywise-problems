@@ -1,0 +1,58 @@
+[
+  {
+    "id": "546",
+    "title": "Remove Boxes",
+    "acceptance": "49.4%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/remove-boxes"
+  },
+  {
+    "id": "625",
+    "title": "Minimum Factorization",
+    "acceptance": "34.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-factorization"
+  },
+  {
+    "id": "470",
+    "title": "Implement Rand10() Using Rand7()",
+    "acceptance": "46.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/implement-rand10-using-rand7"
+  },
+  {
+    "id": "184",
+    "title": "Department Highest Salary",
+    "acceptance": "58.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/department-highest-salary"
+  },
+  {
+    "id": "56",
+    "title": "Merge Intervals",
+    "acceptance": "51.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/merge-intervals"
+  },
+  {
+    "id": "394",
+    "title": "Decode String",
+    "acceptance": "62.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/decode-string"
+  },
+  {
+    "id": "146",
+    "title": "LRU Cache",
+    "acceptance": "47.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/lru-cache"
+  },
+  {
+    "id": "20",
+    "title": "Valid Parentheses",
+    "acceptance": "44.2%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/valid-parentheses"
+  }
+]

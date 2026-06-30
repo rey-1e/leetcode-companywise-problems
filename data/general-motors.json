@@ -1,0 +1,79 @@
+[
+  {
+    "id": "323",
+    "title": "Number of Connected Components in an Undirected Graph",
+    "acceptance": "65.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph"
+  },
+  {
+    "id": "146",
+    "title": "LRU Cache",
+    "acceptance": "47.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/lru-cache"
+  },
+  {
+    "id": "41",
+    "title": "First Missing Positive",
+    "acceptance": "42.9%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/first-missing-positive"
+  },
+  {
+    "id": "64",
+    "title": "Minimum Path Sum",
+    "acceptance": "68.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-path-sum"
+  },
+  {
+    "id": "1637",
+    "title": "Widest Vertical Area Between Two Points Containing No Points",
+    "acceptance": "87.1%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points"
+  },
+  {
+    "id": "1570",
+    "title": "Dot Product of Two Sparse Vectors",
+    "acceptance": "89.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/dot-product-of-two-sparse-vectors"
+  },
+  {
+    "id": "208",
+    "title": "Implement Trie (Prefix Tree)",
+    "acceptance": "69.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/implement-trie-prefix-tree"
+  },
+  {
+    "id": "1404",
+    "title": "Number of Steps to Reduce a Number in Binary Representation to One",
+    "acceptance": "63.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one"
+  },
+  {
+    "id": "297",
+    "title": "Serialize and Deserialize Binary Tree",
+    "acceptance": "60.8%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree"
+  },
+  {
+    "id": "689",
+    "title": "Maximum Sum of 3 Non-Overlapping Subarrays",
+    "acceptance": "59.8%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays"
+  },
+  {
+    "id": "843",
+    "title": "Guess the Word",
+    "acceptance": "36.7%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/guess-the-word"
+  }
+]

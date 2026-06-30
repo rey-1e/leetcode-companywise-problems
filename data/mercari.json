@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1598",
+    "title": "Crawler Log Folder",
+    "acceptance": "71.7%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/crawler-log-folder"
+  },
+  {
+    "id": "1399",
+    "title": "Count Largest Group",
+    "acceptance": "74.7%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/count-largest-group"
+  },
+  {
+    "id": "2598",
+    "title": "Smallest Missing Non-negative Integer After Operations",
+    "acceptance": "56.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations"
+  },
+  {
+    "id": "1403",
+    "title": "Minimum Subsequence in Non-Increasing Order",
+    "acceptance": "73.8%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order"
+  },
+  {
+    "id": "1432",
+    "title": "Max Difference You Can Get From Changing an Integer",
+    "acceptance": "48.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer"
+  },
+  {
+    "id": "1396",
+    "title": "Design Underground System",
+    "acceptance": "74.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/design-underground-system"
+  }
+]

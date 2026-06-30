@@ -1,0 +1,30 @@
+[
+  {
+    "id": "407",
+    "title": "Trapping Rain Water II",
+    "acceptance": "64.1%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/trapping-rain-water-ii"
+  },
+  {
+    "id": "403",
+    "title": "Frog Jump",
+    "acceptance": "47.3%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/frog-jump"
+  },
+  {
+    "id": "139",
+    "title": "Word Break",
+    "acceptance": "49.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/word-break"
+  },
+  {
+    "id": "2625",
+    "title": "Flatten Deeply Nested Array",
+    "acceptance": "65.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/flatten-deeply-nested-array"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "41",
+    "title": "First Missing Positive",
+    "acceptance": "42.9%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/first-missing-positive"
+  },
+  {
+    "id": "76",
+    "title": "Minimum Window Substring",
+    "acceptance": "47.5%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/minimum-window-substring"
+  },
+  {
+    "id": "16",
+    "title": "3Sum Closest",
+    "acceptance": "48.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/3sum-closest"
+  },
+  {
+    "id": "3878",
+    "title": "Count Good Subarrays",
+    "acceptance": "24.9%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/count-good-subarrays"
+  }
+]

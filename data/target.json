@@ -1,0 +1,51 @@
+[
+  {
+    "id": "2246",
+    "title": "Longest Path With Different Adjacent Characters",
+    "acceptance": "54.0%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/longest-path-with-different-adjacent-characters"
+  },
+  {
+    "id": "1352",
+    "title": "Product of the Last K Numbers",
+    "acceptance": "62.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/product-of-the-last-k-numbers"
+  },
+  {
+    "id": "53",
+    "title": "Maximum Subarray",
+    "acceptance": "53.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-subarray"
+  },
+  {
+    "id": "75",
+    "title": "Sort Colors",
+    "acceptance": "69.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/sort-colors"
+  },
+  {
+    "id": "14",
+    "title": "Longest Common Prefix",
+    "acceptance": "47.6%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/longest-common-prefix"
+  },
+  {
+    "id": "184",
+    "title": "Department Highest Salary",
+    "acceptance": "58.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/department-highest-salary"
+  },
+  {
+    "id": "451",
+    "title": "Sort Characters By Frequency",
+    "acceptance": "75.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/sort-characters-by-frequency"
+  }
+]

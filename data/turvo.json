@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1335",
+    "title": "Minimum Difficulty of a Job Schedule",
+    "acceptance": "59.8%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule"
+  },
+  {
+    "id": "1534",
+    "title": "Count Good Triplets",
+    "acceptance": "85.5%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/count-good-triplets"
+  }
+]

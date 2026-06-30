@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1796",
+    "title": "Second Largest Digit in a String",
+    "acceptance": "54.4%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/second-largest-digit-in-a-string"
+  },
+  {
+    "id": "5",
+    "title": "Longest Palindromic Substring",
+    "acceptance": "37.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring"
+  }
+]

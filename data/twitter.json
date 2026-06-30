@@ -1,0 +1,359 @@
+[
+  {
+    "id": "10",
+    "title": "Regular Expression Matching",
+    "acceptance": "31.0%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/regular-expression-matching"
+  },
+  {
+    "id": "12",
+    "title": "Integer to Roman",
+    "acceptance": "71.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/integer-to-roman"
+  },
+  {
+    "id": "20",
+    "title": "Valid Parentheses",
+    "acceptance": "44.2%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/valid-parentheses"
+  },
+  {
+    "id": "23",
+    "title": "Merge k Sorted Lists",
+    "acceptance": "59.6%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists"
+  },
+  {
+    "id": "42",
+    "title": "Trapping Rain Water",
+    "acceptance": "67.4%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/trapping-rain-water"
+  },
+  {
+    "id": "43",
+    "title": "Multiply Strings",
+    "acceptance": "44.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/multiply-strings"
+  },
+  {
+    "id": "44",
+    "title": "Wildcard Matching",
+    "acceptance": "32.0%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/wildcard-matching"
+  },
+  {
+    "id": "56",
+    "title": "Merge Intervals",
+    "acceptance": "51.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/merge-intervals"
+  },
+  {
+    "id": "60",
+    "title": "Permutation Sequence",
+    "acceptance": "53.1%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/permutation-sequence"
+  },
+  {
+    "id": "118",
+    "title": "Pascal's Triangle",
+    "acceptance": "78.9%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/pascals-triangle"
+  },
+  {
+    "id": "140",
+    "title": "Word Break II",
+    "acceptance": "55.6%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/word-break-ii"
+  },
+  {
+    "id": "146",
+    "title": "LRU Cache",
+    "acceptance": "47.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/lru-cache"
+  },
+  {
+    "id": "2073",
+    "title": "Time Needed to Buy Tickets",
+    "acceptance": "72.6%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/time-needed-to-buy-tickets"
+  },
+  {
+    "id": "149",
+    "title": "Max Points on a Line",
+    "acceptance": "30.7%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/max-points-on-a-line"
+  },
+  {
+    "id": "161",
+    "title": "One Edit Distance",
+    "acceptance": "34.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/one-edit-distance"
+  },
+  {
+    "id": "202",
+    "title": "Happy Number",
+    "acceptance": "59.7%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/happy-number"
+  },
+  {
+    "id": "206",
+    "title": "Reverse Linked List",
+    "acceptance": "80.6%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/reverse-linked-list"
+  },
+  {
+    "id": "208",
+    "title": "Implement Trie (Prefix Tree)",
+    "acceptance": "69.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/implement-trie-prefix-tree"
+  },
+  {
+    "id": "218",
+    "title": "The Skyline Problem",
+    "acceptance": "45.4%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/the-skyline-problem"
+  },
+  {
+    "id": "235",
+    "title": "Lowest Common Ancestor of a Binary Search Tree",
+    "acceptance": "70.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree"
+  },
+  {
+    "id": "251",
+    "title": "Flatten 2D Vector",
+    "acceptance": "50.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/flatten-2d-vector"
+  },
+  {
+    "id": "269",
+    "title": "Alien Dictionary",
+    "acceptance": "37.2%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/alien-dictionary"
+  },
+  {
+    "id": "296",
+    "title": "Best Meeting Point",
+    "acceptance": "61.4%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/best-meeting-point"
+  },
+  {
+    "id": "1206",
+    "title": "Design Skiplist",
+    "acceptance": "59.7%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/design-skiplist"
+  },
+  {
+    "id": "323",
+    "title": "Number of Connected Components in an Undirected Graph",
+    "acceptance": "65.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph"
+  },
+  {
+    "id": "341",
+    "title": "Flatten Nested List Iterator",
+    "acceptance": "65.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/flatten-nested-list-iterator"
+  },
+  {
+    "id": "355",
+    "title": "Design Twitter",
+    "acceptance": "44.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/design-twitter"
+  },
+  {
+    "id": "378",
+    "title": "Kth Smallest Element in a Sorted Matrix",
+    "acceptance": "64.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix"
+  },
+  {
+    "id": "380",
+    "title": "Insert Delete GetRandom O(1)",
+    "acceptance": "55.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1"
+  },
+  {
+    "id": "407",
+    "title": "Trapping Rain Water II",
+    "acceptance": "64.1%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/trapping-rain-water-ii"
+  },
+  {
+    "id": "433",
+    "title": "Minimum Genetic Mutation",
+    "acceptance": "56.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-genetic-mutation"
+  },
+  {
+    "id": "1347",
+    "title": "Minimum Number of Steps to Make Two Strings Anagram",
+    "acceptance": "82.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram"
+  },
+  {
+    "id": "1348",
+    "title": "Tweet Counts Per Frequency",
+    "acceptance": "46.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/tweet-counts-per-frequency"
+  },
+  {
+    "id": "468",
+    "title": "Validate IP Address",
+    "acceptance": "28.3%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/validate-ip-address"
+  },
+  {
+    "id": "580",
+    "title": "Count Student Number in Departments",
+    "acceptance": "60.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/count-student-number-in-departments"
+  },
+  {
+    "id": "1459",
+    "title": "Rectangles Area",
+    "acceptance": "68.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/rectangles-area"
+  },
+  {
+    "id": "585",
+    "title": "Investments in 2016",
+    "acceptance": "51.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/investments-in-2016"
+  },
+  {
+    "id": "586",
+    "title": "Customer Placing the Largest Number of Orders",
+    "acceptance": "64.4%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/customer-placing-the-largest-number-of-orders"
+  },
+  {
+    "id": "608",
+    "title": "Tree Node",
+    "acceptance": "75.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/tree-node"
+  },
+  {
+    "id": "1683",
+    "title": "Invalid Tweets",
+    "acceptance": "85.1%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/invalid-tweets"
+  },
+  {
+    "id": "2768",
+    "title": "Number of Black Blocks",
+    "acceptance": "41.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/number-of-black-blocks"
+  },
+  {
+    "id": "831",
+    "title": "Masking Personal Information",
+    "acceptance": "55.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/masking-personal-information"
+  },
+  {
+    "id": "1797",
+    "title": "Design Authentication Manager",
+    "acceptance": "58.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/design-authentication-manager"
+  },
+  {
+    "id": "1785",
+    "title": "Minimum Elements to Add to Form a Given Sum",
+    "acceptance": "45.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum"
+  },
+  {
+    "id": "868",
+    "title": "Binary Gap",
+    "acceptance": "74.3%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/binary-gap"
+  },
+  {
+    "id": "1817",
+    "title": "Finding the Users Active Minutes",
+    "acceptance": "80.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/finding-the-users-active-minutes"
+  },
+  {
+    "id": "1882",
+    "title": "Process Tasks Using Servers",
+    "acceptance": "41.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/process-tasks-using-servers"
+  },
+  {
+    "id": "1910",
+    "title": "Remove All Occurrences of a Substring",
+    "acceptance": "78.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/remove-all-occurrences-of-a-substring"
+  },
+  {
+    "id": "1905",
+    "title": "Count Sub Islands",
+    "acceptance": "73.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/count-sub-islands"
+  },
+  {
+    "id": "764",
+    "title": "Largest Plus Sign",
+    "acceptance": "49.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/largest-plus-sign"
+  },
+  {
+    "id": "1167",
+    "title": "Minimum Cost to Connect Sticks",
+    "acceptance": "71.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-cost-to-connect-sticks"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "2169",
+    "title": "Count Operations to Obtain Zero",
+    "acceptance": "79.8%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/count-operations-to-obtain-zero"
+  },
+  {
+    "id": "424",
+    "title": "Longest Repeating Character Replacement",
+    "acceptance": "59.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/longest-repeating-character-replacement"
+  }
+]

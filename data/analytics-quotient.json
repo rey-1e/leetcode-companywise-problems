@@ -1,0 +1,16 @@
+[
+  {
+    "id": "2205",
+    "title": "The Number of Users That Are Eligible for Discount",
+    "acceptance": "50.6%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/the-number-of-users-that-are-eligible-for-discount"
+  },
+  {
+    "id": "2230",
+    "title": "The Users That Are Eligible for Discount",
+    "acceptance": "50.9%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/the-users-that-are-eligible-for-discount"
+  }
+]

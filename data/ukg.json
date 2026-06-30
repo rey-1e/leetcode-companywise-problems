@@ -1,0 +1,79 @@
+[
+  {
+    "id": "761",
+    "title": "Special Binary String",
+    "acceptance": "79.3%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/special-binary-string"
+  },
+  {
+    "id": "3138",
+    "title": "Minimum Length of Anagram Concatenation",
+    "acceptance": "39.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-length-of-anagram-concatenation"
+  },
+  {
+    "id": "1",
+    "title": "Two Sum",
+    "acceptance": "57.5%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/two-sum"
+  },
+  {
+    "id": "3380",
+    "title": "Maximum Area Rectangle With Point Constraints I",
+    "acceptance": "51.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-i"
+  },
+  {
+    "id": "3382",
+    "title": "Maximum Area Rectangle With Point Constraints II",
+    "acceptance": "24.0%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-ii"
+  },
+  {
+    "id": "2539",
+    "title": "Count the Number of Good Subsequences",
+    "acceptance": "48.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/count-the-number-of-good-subsequences"
+  },
+  {
+    "id": "3136",
+    "title": "Valid Word",
+    "acceptance": "50.9%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/valid-word"
+  },
+  {
+    "id": "3511",
+    "title": "Make a Positive Array",
+    "acceptance": "36.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/make-a-positive-array"
+  },
+  {
+    "id": "2592",
+    "title": "Maximize Greatness of an Array",
+    "acceptance": "61.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximize-greatness-of-an-array"
+  },
+  {
+    "id": "125",
+    "title": "Valid Palindrome",
+    "acceptance": "53.3%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/valid-palindrome"
+  },
+  {
+    "id": "146",
+    "title": "LRU Cache",
+    "acceptance": "47.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/lru-cache"
+  }
+]

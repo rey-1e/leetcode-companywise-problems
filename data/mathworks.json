@@ -1,0 +1,219 @@
+[
+  {
+    "id": "2861",
+    "title": "Maximum Number of Alloys",
+    "acceptance": "41.0%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-number-of-alloys"
+  },
+  {
+    "id": "2514",
+    "title": "Count Anagrams",
+    "acceptance": "37.7%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/count-anagrams"
+  },
+  {
+    "id": "566",
+    "title": "Reshape the Matrix",
+    "acceptance": "65.0%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/reshape-the-matrix"
+  },
+  {
+    "id": "2038",
+    "title": "Remove Colored Pieces if Both Neighbors are the Same Color",
+    "acceptance": "63.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color"
+  },
+  {
+    "id": "1163",
+    "title": "Last Substring in Lexicographical Order",
+    "acceptance": "35.0%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/last-substring-in-lexicographical-order"
+  },
+  {
+    "id": "1130",
+    "title": "Minimum Cost Tree From Leaf Values",
+    "acceptance": "67.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-cost-tree-from-leaf-values"
+  },
+  {
+    "id": "3049",
+    "title": "Earliest Second to Mark Indices II",
+    "acceptance": "22.6%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/earliest-second-to-mark-indices-ii"
+  },
+  {
+    "id": "3048",
+    "title": "Earliest Second to Mark Indices I",
+    "acceptance": "36.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/earliest-second-to-mark-indices-i"
+  },
+  {
+    "id": "3035",
+    "title": "Maximum Palindromes After Operations",
+    "acceptance": "46.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-palindromes-after-operations"
+  },
+  {
+    "id": "2851",
+    "title": "String Transformation",
+    "acceptance": "27.2%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/string-transformation"
+  },
+  {
+    "id": "2444",
+    "title": "Count Subarrays With Fixed Bounds",
+    "acceptance": "69.2%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/count-subarrays-with-fixed-bounds"
+  },
+  {
+    "id": "500",
+    "title": "Keyboard Row",
+    "acceptance": "73.9%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/keyboard-row"
+  },
+  {
+    "id": "2462",
+    "title": "Total Cost to Hire K Workers",
+    "acceptance": "43.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/total-cost-to-hire-k-workers"
+  },
+  {
+    "id": "1328",
+    "title": "Break a Palindrome",
+    "acceptance": "51.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/break-a-palindrome"
+  },
+  {
+    "id": "25",
+    "title": "Reverse Nodes in k-Group",
+    "acceptance": "66.1%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/reverse-nodes-in-k-group"
+  },
+  {
+    "id": "2582",
+    "title": "Pass the Pillow",
+    "acceptance": "56.6%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/pass-the-pillow"
+  },
+  {
+    "id": "2858",
+    "title": "Minimum Edge Reversals So Every Node Is Reachable",
+    "acceptance": "59.5%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable"
+  },
+  {
+    "id": "2964",
+    "title": "Number of Divisible Triplet Sums",
+    "acceptance": "67.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/number-of-divisible-triplet-sums"
+  },
+  {
+    "id": "1290",
+    "title": "Convert Binary Number in a Linked List to Integer",
+    "acceptance": "82.4%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer"
+  },
+  {
+    "id": "968",
+    "title": "Binary Tree Cameras",
+    "acceptance": "47.9%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/binary-tree-cameras"
+  },
+  {
+    "id": "1648",
+    "title": "Sell Diminishing-Valued Colored Balls",
+    "acceptance": "30.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/sell-diminishing-valued-colored-balls"
+  },
+  {
+    "id": "638",
+    "title": "Shopping Offers",
+    "acceptance": "52.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/shopping-offers"
+  },
+  {
+    "id": "621",
+    "title": "Task Scheduler",
+    "acceptance": "63.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/task-scheduler"
+  },
+  {
+    "id": "1335",
+    "title": "Minimum Difficulty of a Job Schedule",
+    "acceptance": "59.8%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule"
+  },
+  {
+    "id": "2559",
+    "title": "Count Vowel Strings in Ranges",
+    "acceptance": "67.8%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/count-vowel-strings-in-ranges"
+  },
+  {
+    "id": "2831",
+    "title": "Find the Longest Equal Subarray",
+    "acceptance": "38.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/find-the-longest-equal-subarray"
+  },
+  {
+    "id": "2697",
+    "title": "Lexicographically Smallest Palindrome",
+    "acceptance": "81.4%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/lexicographically-smallest-palindrome"
+  },
+  {
+    "id": "2918",
+    "title": "Minimum Equal Sum of Two Arrays After Replacing Zeros",
+    "acceptance": "50.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros"
+  },
+  {
+    "id": "1220",
+    "title": "Count Vowels Permutation",
+    "acceptance": "61.3%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/count-vowels-permutation"
+  },
+  {
+    "id": "20",
+    "title": "Valid Parentheses",
+    "acceptance": "44.2%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/valid-parentheses"
+  },
+  {
+    "id": "3335",
+    "title": "Total Characters in String After Transformations I",
+    "acceptance": "45.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/total-characters-in-string-after-transformations-i"
+  }
+]

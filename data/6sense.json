@@ -1,0 +1,51 @@
+[
+  {
+    "id": "2571",
+    "title": "Minimum Operations to Reduce an Integer to 0",
+    "acceptance": "62.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0"
+  },
+  {
+    "id": "1105",
+    "title": "Filling Bookcase Shelves",
+    "acceptance": "68.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/filling-bookcase-shelves"
+  },
+  {
+    "id": "1894",
+    "title": "Find the Student that Will Replace the Chalk",
+    "acceptance": "53.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk"
+  },
+  {
+    "id": "1497",
+    "title": "Check If Array Pairs Are Divisible by k",
+    "acceptance": "46.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k"
+  },
+  {
+    "id": "250",
+    "title": "Count Univalue Subtrees",
+    "acceptance": "57.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/count-univalue-subtrees"
+  },
+  {
+    "id": "968",
+    "title": "Binary Tree Cameras",
+    "acceptance": "47.9%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/binary-tree-cameras"
+  },
+  {
+    "id": "528",
+    "title": "Random Pick with Weight",
+    "acceptance": "49.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/random-pick-with-weight"
+  }
+]

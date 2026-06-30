@@ -1,0 +1,121 @@
+[
+  {
+    "id": "677",
+    "title": "Map Sum Pairs",
+    "acceptance": "57.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/map-sum-pairs"
+  },
+  {
+    "id": "740",
+    "title": "Delete and Earn",
+    "acceptance": "57.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/delete-and-earn"
+  },
+  {
+    "id": "741",
+    "title": "Cherry Pickup",
+    "acceptance": "39.5%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/cherry-pickup"
+  },
+  {
+    "id": "743",
+    "title": "Network Delay Time",
+    "acceptance": "60.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/network-delay-time"
+  },
+  {
+    "id": "1649",
+    "title": "Create Sorted Array through Instructions",
+    "acceptance": "41.8%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/create-sorted-array-through-instructions"
+  },
+  {
+    "id": "1665",
+    "title": "Minimum Initial Energy to Finish Tasks",
+    "acceptance": "76.4%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks"
+  },
+  {
+    "id": "1177",
+    "title": "Can Make Palindrome from Substring",
+    "acceptance": "41.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/can-make-palindrome-from-substring"
+  },
+  {
+    "id": "1425",
+    "title": "Constrained Subsequence Sum",
+    "acceptance": "56.4%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/constrained-subsequence-sum"
+  },
+  {
+    "id": "1223",
+    "title": "Dice Roll Simulation",
+    "acceptance": "50.9%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/dice-roll-simulation"
+  },
+  {
+    "id": "1819",
+    "title": "Number of Different Subsequences GCDs",
+    "acceptance": "45.3%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/number-of-different-subsequences-gcds"
+  },
+  {
+    "id": "1319",
+    "title": "Number of Operations to Make Network Connected",
+    "acceptance": "66.5%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/number-of-operations-to-make-network-connected"
+  },
+  {
+    "id": "1326",
+    "title": "Minimum Number of Taps to Open to Water a Garden",
+    "acceptance": "51.0%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden"
+  },
+  {
+    "id": "1338",
+    "title": "Reduce Array Size to The Half",
+    "acceptance": "69.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/reduce-array-size-to-the-half"
+  },
+  {
+    "id": "1370",
+    "title": "Increasing Decreasing String",
+    "acceptance": "77.3%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/increasing-decreasing-string"
+  },
+  {
+    "id": "2497",
+    "title": "Maximum Star Sum of a Graph",
+    "acceptance": "42.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/maximum-star-sum-of-a-graph"
+  },
+  {
+    "id": "1192",
+    "title": "Critical Connections in a Network",
+    "acceptance": "59.7%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/critical-connections-in-a-network"
+  },
+  {
+    "id": "146",
+    "title": "LRU Cache",
+    "acceptance": "47.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/lru-cache"
+  }
+]

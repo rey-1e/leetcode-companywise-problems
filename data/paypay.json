@@ -1,0 +1,37 @@
+[
+  {
+    "id": "2264",
+    "title": "Largest 3-Same-Digit Number in String",
+    "acceptance": "72.7%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/largest-3-same-digit-number-in-string"
+  },
+  {
+    "id": "6",
+    "title": "Zigzag Conversion",
+    "acceptance": "54.2%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/zigzag-conversion"
+  },
+  {
+    "id": "3161",
+    "title": "Block Placement Queries",
+    "acceptance": "18.7%",
+    "difficulty": "Hard",
+    "link": "https://leetcode.com/problems/block-placement-queries"
+  },
+  {
+    "id": "2300",
+    "title": "Successful Pairs of Spells and Potions",
+    "acceptance": "49.6%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/successful-pairs-of-spells-and-potions"
+  },
+  {
+    "id": "1584",
+    "title": "Min Cost to Connect All Points",
+    "acceptance": "70.9%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/min-cost-to-connect-all-points"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1228",
+    "title": "Missing Number In Arithmetic Progression",
+    "acceptance": "52.2%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/missing-number-in-arithmetic-progression"
+  },
+  {
+    "id": "1200",
+    "title": "Minimum Absolute Difference",
+    "acceptance": "75.1%",
+    "difficulty": "Easy",
+    "link": "https://leetcode.com/problems/minimum-absolute-difference"
+  },
+  {
+    "id": "1747",
+    "title": "Leetflex Banned Accounts",
+    "acceptance": "61.7%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/leetflex-banned-accounts"
+  },
+  {
+    "id": "767",
+    "title": "Reorganize String",
+    "acceptance": "57.1%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/reorganize-string"
+  },
+  {
+    "id": "146",
+    "title": "LRU Cache",
+    "acceptance": "47.4%",
+    "difficulty": "Medium",
+    "link": "https://leetcode.com/problems/lru-cache"
+  }
+]
